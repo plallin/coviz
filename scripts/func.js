@@ -17,11 +17,11 @@ function svgAppendy(svg, yAxis, text) {
     .text(text);
 }
 
-function svgAppendPath(svg, data, line) {
+function svgAppendPath(svg, data, className, elem) {
   svg.append("path")
     .datum(data)
-    .attr("class", "line")
-    .attr("d", line);
+    .attr("class", className)
+    .attr("d", elem);
 }
 
 function svgAppengg(svg) {
@@ -54,7 +54,6 @@ function svgAppendRect(svg, data, width, height, focus, x, y, val, formatDate) {
           d0 = data[i - 1],
           d1 = data[i],
           d = x0 - d0.date > d1.date - x0 ? d1 : d0;
-          // console.log(d["total"])
         focus.attr("transform", "translate(" + x(d.date) + "," + y(d[val]) + ")");
         focus.select("text").text(formatDate(d.date) + " - " + d[val]);
       }

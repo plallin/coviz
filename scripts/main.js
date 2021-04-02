@@ -35,6 +35,9 @@ var lineDayAvg = d3.svg.line()
     .x(function(d) { return x(d.date); })
     .y(function(d) { return yDayAvg(d.rolling_day_avg); });
 
+var areaDayAvg = d3.svg.area()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return yDayAvg(d.rolling_day_avg); });
 
 var today = new Date();
 
@@ -85,8 +88,9 @@ d3.csv("data.csv", function(error, data) {
   svgAppendy(svgDayAvg, yDayAvgAxis, "Daily vaccines, 7 day average")
 
   // add line to graph
-  svgAppendPath(svgTotalVax, data, lineTotal)
-  svgAppendPath(svgDayAvg, data, lineDayAvg)
+  svgAppendPath(svgTotalVax, data, "line", lineTotal)
+  svgAppendPath(svgDayAvg, data, "area", areaDayAvg)
+  svgAppendPath(svgDayAvg, data, "line", lineDayAvg)
 
   // do mouseover thingy
   var focusTotal = svgAppengg(svgTotalVax)

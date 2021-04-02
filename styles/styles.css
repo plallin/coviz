@@ -19,6 +19,16 @@ body {
   stroke-width: 1.5px;
 }
 
+#graph_daily_avg .line {
+  fill: lightsteelblue;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.area {
+  fill: lightsteelblue;
+}
+
 .overlay {
   fill: none;
   pointer-events: all;
