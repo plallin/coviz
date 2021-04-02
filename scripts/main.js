@@ -99,5 +99,5 @@ d3.csv("data.csv", function(error, data) {
   svgAppendRect(svgDayAvg, data, width, height, focusDayAvg, x, yDayAvg, "rolling_day_avg", formatDate)
 
   // table
-  tabulate(data, ["date", "total", "rolling_day_avg", "comment"]);
+  tabulate(data, ["date", "total", "daily", "rolling_day_avg", "comment"]);
 });
