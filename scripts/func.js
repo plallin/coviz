@@ -60,42 +60,50 @@ function svgAppendRect(svg, data, width, height, focus, x, y, val, formatDate) {
       }
 }
 
-function blah() {
-  console.log("fff")
-}
-
-function testo(data, columns) {
-  console.log("hello")
-  // var table = d3.select("body").append("table")
-  //         .attr("style", "margin-left: 250px"),
-  //     thead = table.append("thead"),
-  //     tbody = table.append("tbody");
-
-  // // append the header row
-  // thead.append("tr")
-  //     .selectAll("th")
-  //     .data(columns)
-  //     .enter()
-  //     .append("th")
-  //         .text(function(column) { return column; });
-
-  // // create a row for each object in the data
-  // var rows = tbody.selectAll("tr")
-  //     .data(data)
-  //     .enter()
-  //     .append("tr");
-
-  // // create a cell in each row for each column
-  // var cells = rows.selectAll("td")
-  //     .data(function(row) {
-  //         return columns.map(function(column) {
-  //             return {column: column, value: row[column]};
-  //         });
-  //     })
-  //     .enter()
-  //     .append("td")
-  //     .attr("style", "font-family: Courier") // sets the font style
-  //         .html(function(d) { return d.value; });
+function tabulate(data, columns) {
+  var table = d3.select("body").append("table").attr("id", "datatable"),
+        thead = table.append("thead"),
+        tbody = table.append("tbody");
   
-  // return table;
+    // append the header row
+    thead.append("tr")
+        .selectAll("th")
+        .data(columns)
+        .enter()
+        .append("th")
+            .text(function(column) { return column; });
+  
+    // create a row for each object in the data
+    var rows = tbody.selectAll("tr")
+        .data(data)
+        .enter()
+        .append("tr");
+  
+    // create a cell in each row for each column
+    var cells = rows.selectAll("td")
+        .data(function(row) {
+            return columns.map(function(column) {
+                return {column: column, value: row[column]};
+            });
+        })
+        .enter()
+        .append("td")
+            .html(function(d) {
+                // d3.select(this.parentNode).style("background-color", "#FFFF00")
+                if (d.column == "comment") {
+                    if (d.value != "") {
+                        d3.select(this.parentNode).style("background-color", "#FFFF00")
+                    }
+                }
+                if (d.column == "date") {
+                    if (formatDate(today) == formatDate(d.value)) {
+                      d3.select(this.parentNode).style("background-color", "#FF0000")
+                    }
+                    return formatDate(d.value)
+                }
+                
+                return d.value;
+            });
+    
+    return table;
 }
