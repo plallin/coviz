@@ -99,7 +99,7 @@ d3.csv("data.csv", function(error, data) {
 });
 
 function tabulate(data, columns) {
-    var table = d3.select("body").append("table"),
+    var table = d3.select("body").append("table").attr("id", "datatable"),
         thead = table.append("thead"),
         tbody = table.append("tbody");
   
@@ -127,15 +127,17 @@ function tabulate(data, columns) {
         .enter()
         .append("td")
             .html(function(d) {
-                console.log()
-                d3.select(this.parentNode).style("background-color", "#FF0000")
+                // d3.select(this.parentNode).style("background-color", "#FFFF00")
+                if (d.column == "comment") {
+                    if (d.value != "") {
+                        console.log(d.value)
+                        d3.select(this.parentNode).style("background-color", "#FFFF00")
+                    }
+                }
+                if (d.column == "date") {
+                    return formatDate(d.value)
+                }
                 return d.value;
-            })
-            .style("background-color", function(d,i){
-                console.log("----")
-                console.log(d)
-                console.log(i)
-                // d3.select(this.parentNode).style("background-color", "#FF0000")
             });
     
     return table;
