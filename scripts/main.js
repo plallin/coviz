@@ -38,13 +38,13 @@ var lineDayAvg = d3.svg.line()
 
 var today = new Date();
 
-var svgTotalVax = d3.select("body").append("svg")
+var svgTotalVax = d3.select("#graph_total").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-var svgDayAvg = d3.select("body").append("svg")
+var svgDayAvg = d3.select("#graph_daily_avg").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
