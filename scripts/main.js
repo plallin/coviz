@@ -3,29 +3,48 @@ var margin = {top: 20, right: 50, bottom: 30, left: 50},
     height = 500 - margin.top - margin.bottom;
 
 var parseDate = d3.time.format("%d %b %Y").parse,
+    formatDate = d3.time.format("%d %b %Y"),
     bisectDate = d3.bisector(function(d) { return d.date; }).left;
 
 var x = d3.time.scale()
     .range([0, width]);
 
-var y = d3.scale.linear()
+var yTotal = d3.scale.linear()
+    .range([height, 0]);
+
+var yDayAvg = d3.scale.linear()
     .range([height, 0]);
 
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom");
 
-var yAxis = d3.svg.axis()
-    .scale(y)
+var yTotalAxis = d3.svg.axis()
+    .scale(yTotal)
     .orient("left");
 
-var line = d3.svg.line()
+var yDayAvgAxis = d3.svg.axis()
+    .scale(yDayAvg)
+    .orient("left");
+
+var lineTotal = d3.svg.line()
     .x(function(d) { return x(d.date); })
-    .y(function(d) { return y(d.total); });
+    .y(function(d) { return yTotal(d.total); });
+
+var lineDayAvg = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return yDayAvg(d.rolling_day_avg); });
+
 
 var today = new Date();
 
 var svgTotalVax = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var svgDayAvg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
@@ -39,64 +58,85 @@ d3.csv("data.csv", function(error, data) {
     // console.log(d)
     d.date = parseDate(d.date);
     d.total = +d.total;
+    d.rolling_day_avg = +d.rolling_day_avg;
   });
 
+  // sort data by date
   data.sort(function(a, b) {
     return a.date - b.date;
   });
 
-  xAxisStart = data[0].date
+  // date of first vaccine
+  firstVax = data[0].date
   
-  x.domain([xAxisStart, today]);
-  y.domain(
+  // x domain (date) is the same for both graph
+  x.domain([firstVax, today]);
+  yTotal.domain(
       d3.extent(data, function(d) { return d.total; }));
+  yDayAvg.domain(
+      d3.extent(data, function(d) { return d.rolling_day_avg; }));
 
-  svgTotalVax.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
+  // add x axis
+  svgAppendx(svgTotalVax, xAxis)
+  svgAppendx(svgDayAvg, xAxis)
 
-  svgTotalVax.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-    .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Total number of vaccines");
+  // add y axis
+  svgAppendy(svgTotalVax, yTotalAxis, "Total number of vaccines")
+  svgAppendy(svgDayAvg, yDayAvgAxis, "Daily vaccines, 7 day average")
 
-  svgTotalVax.append("path")
-      .datum(data)
-      .attr("class", "line")
-      .attr("d", line);
+  // add line to graph
+  svgAppendPath(svgTotalVax, data, lineTotal)
+  svgAppendPath(svgDayAvg, data, lineDayAvg)
 
-  var focus = svgTotalVax.append("g")
-      .attr("class", "focus")
-      .style("display", "none");
+  // do mouseover thingy
+  var focusTotal = svgAppengg(svgTotalVax)
+  var focusDayAvg = svgAppengg(svgDayAvg)
+  svgAppendRect(svgTotalVax, data, width, height, focusTotal, x, yTotal, "total", formatDate)
+  svgAppendRect(svgDayAvg, data, width, height, focusDayAvg, x, yDayAvg, "rolling_day_avg", formatDate)
 
-  focus.append("circle")
-      .attr("r", 4.5);
-
-  focus.append("text")
-      .attr("x", 9)
-      .attr("dy", ".35em");
-
-  svgTotalVax.append("rect")
-      .attr("class", "overlay")
-      .attr("width", width)
-      .attr("height", height)
-      .on("mouseover", function() { focus.style("display", null); })
-      .on("mouseout", function() { focus.style("display", "none"); })
-      .on("mousemove", mousemove);
-
-  function mousemove() {
-    var x0 = x.invert(d3.mouse(this)[0]),
-        i = bisectDate(data, x0, 1),
-        d0 = data[i - 1],
-        d1 = data[i],
-        d = x0 - d0.date > d1.date - x0 ? d1 : d0;
-    focus.attr("transform", "translate(" + x(d.date) + "," + y(d.total) + ")");
-    focus.select("text").text(d.date + " - " + d.total);
-  }
+  // table
+  tabulate(data, ["date", "total", "rolling_day_avg", "comment"]);
 });
+
+function tabulate(data, columns) {
+    var table = d3.select("body").append("table"),
+        thead = table.append("thead"),
+        tbody = table.append("tbody");
+  
+    // append the header row
+    thead.append("tr")
+        .selectAll("th")
+        .data(columns)
+        .enter()
+        .append("th")
+            .text(function(column) { return column; });
+  
+    // create a row for each object in the data
+    var rows = tbody.selectAll("tr")
+        .data(data)
+        .enter()
+        .append("tr");
+  
+    // create a cell in each row for each column
+    var cells = rows.selectAll("td")
+        .data(function(row) {
+            return columns.map(function(column) {
+                return {column: column, value: row[column]};
+            });
+        })
+        .enter()
+        .append("td")
+            .html(function(d) {
+                console.log()
+                d3.select(this.parentNode).style("background-color", "#FF0000")
+                return d.value;
+            })
+            .style("background-color", function(d,i){
+                console.log("----")
+                console.log(d)
+                console.log(i)
+                // d3.select(this.parentNode).style("background-color", "#FF0000")
+            });
+    
+    return table;
+}
