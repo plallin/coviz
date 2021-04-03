@@ -99,8 +99,12 @@ function tabulate(data, columns) {
         .html(function(d) {
             // d3.select(this.parentNode).style("background-color", "#FFFF00")
             if (d.column == "comment") {
-                if (d.value != "") {
+                if (d.value != "" && d.value != undefined) {
                     d3.select(this.parentNode).style("background-color", "#FFFF00")
+                    return d.value.replace(
+                        /((http|https|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?)/g,
+                        '<a href="$1" target="_blank">$1</a>'
+                    )
                 }
             }
             if (d.column == "date") {
