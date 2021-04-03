@@ -60,7 +60,7 @@ function svgAppendRect(svg, data, width, height, focus, x, y, val, formatDate) {
 }
 
 function tabulate(data, columns) {
-  var table = d3.select("body").append("table").attr("id", "datatable"),
+  var table = d3.select("#data_table").append("table").attr("id", "datatable"),
         thead = table.append("thead"),
         tbody = table.append("tbody");
   
