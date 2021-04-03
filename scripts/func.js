@@ -109,7 +109,7 @@ function tabulate(data, columns) {
             }
             if (d.column == "date") {
                 if (formatDate(today) == formatDate(d.value)) {
-                    d3.select(this.parentNode).style("background-color", "#FF0000")
+                    d3.select(this.parentNode).style("background-color", "dodgerblue")
                 }
                 return formatDate(d.value)
             }
