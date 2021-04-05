@@ -184,5 +184,6 @@ function tabulate(data, columns) {
             return d.value;
         });
 
+    // d3.select("#data_table").append("table").attr("id", "datatable")
     return table;
 }

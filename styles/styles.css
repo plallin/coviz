@@ -88,7 +88,14 @@ body {
 #datatable {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
+  overflow-y: auto;
+  height: 100px;
   /* width: 100%; */
+}
+
+#datatable thead th { 
+  position: sticky;
+  top: 0;
 }
 
 /* table borders */
