@@ -64,7 +64,7 @@ function svgAppendText(y, data, values) {
             .attr("transform", "translate(" + (width + 3) + "," + y(data[data.length - 1][v]) + ")")
             .attr("dy", ".35em")
             .attr("text-anchor", "start")
-            .style("fill", "steelblue")
+            .style("fill", "black")
             .text(v);
     });
 }
@@ -95,9 +95,37 @@ function svgAppendRect(svg, data, width, height, focuses, x, y, values, formatDa
 
         focuses.forEach(function(focus, index) {
             focus.attr("transform", "translate(" + x(d.date) + "," + y(d[values[index]]) + ")");
-            focus.select("text").text(formatDate(d.date) + " - " + d[values[index]]);
+            focus.select(".tooltip-date").text(formatDate(d.date));
+            focus.select(".tooltip-likes").text(parseInt(d[values[index]]).toLocaleString());
         });
     }
+}
+
+function appendTooltip(focus, color) {
+    focus.append("rect")
+            .attr("class", "tooltip")
+            .attr("width", 90)
+            .attr("height", 30)
+            .attr("x", -45)
+            .attr("y", -38)
+            .attr("rx", 4)
+            .attr("ry", 4)
+            .style("fill", color);
+
+    focus.append("text")
+            .attr("class", "tooltip-date")
+            .attr("x", -40)
+            .attr("y", -26);
+
+    focus.append("text")
+            .attr("x", -40)
+            .attr("y", -15)
+            .text("Vaccines:");
+
+    focus.append("text")
+            .attr("class", "tooltip-likes")
+            .attr("x", 4)
+            .attr("y", -15);
 }
 
 function tabulate(data, columns) {
@@ -137,7 +165,7 @@ function tabulate(data, columns) {
             // d3.select(this.parentNode).style("background-color", "#FFFF00")
             if (d.column == "comment") {
                 if (d.value != "" && d.value != undefined) {
-                    d3.select(this.parentNode).style("background-color", "#FFFF00")
+                    d3.select(this.parentNode).style("background-color", "#FDFD95")
                     return d.value.replace(
                         /((http|https|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?)/g,
                         '<a href="$1" target="_blank">$1</a>'
@@ -146,7 +174,7 @@ function tabulate(data, columns) {
             }
             if (d.column == "date") {
                 if (formatDate(today) == formatDate(d.value)) {
-                    d3.select(this.parentNode).style("background-color", "dodgerblue")
+                    d3.select(this.parentNode).style("background-color", "#BBD3EC")
                 }
                 return formatDate(d.value)
             }

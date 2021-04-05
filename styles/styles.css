@@ -35,7 +35,7 @@ body {
 
 .line-second-dose {
   fill: none;
-  stroke: lightsteelblue;
+  stroke: #BCD2E8;
   stroke-width: 1.75px;
 }
 
@@ -59,7 +59,7 @@ body {
 
 #graph_daily_avg .line {
   fill: none;
-  stroke: steelblue;
+  stroke: #2E5984;
   stroke-width: 1.5px;
 }
 
@@ -77,25 +77,40 @@ body {
   stroke: steelblue;
 }
 
+.tooltip {
+  fill: lightgray;
+}
+
+.tooltip-date, .tooltip-likes {
+  font-weight: bold;
+}
+
 #datatable {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   /* width: 100%; */
 }
 
+/* table borders */
 #datatable td, #datatable th {
-  border: 1px solid #ddd;
+  border: 1px solid #CECCE4;
   padding: 8px;
 }
 
-#datatable tr:nth-child(even){background-color: #f2f2f2;}
+/* even cells */
+#datatable tr:nth-child(even){background-color:#FEE1E6;} 
 
-#datatable tr:hover {background-color: #ddd;}
+/* odd cells */
+#datatable tr:nth-child(odd){background-color:#FFF0F3;} 
 
+/* hover cells */
+#datatable tr:hover {background-color: #FFD6DE;}
+
+/* header */
 #datatable th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #301934;
-  color: white;
+  background-color: #CECCE4;
+  color: black;
 }

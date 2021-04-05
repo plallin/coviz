@@ -6,6 +6,7 @@ var margin = {
     },
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
+    tooltip = { width: 100, height: 100, x: 10, y: -30 };
 
 var parseDate = d3.time.format("%Y-%b-%d").parse,
     formatDate = d3.time.format("%Y-%b-%d"),
@@ -179,6 +180,13 @@ d3.csv("data.csv", function(error, data) {
 
     svgAppendRect(svgTotalVax, data, width, height, allTotalFocus, x, yTotal, allTotalValues, formatDate)
     svgAppendRect(svgDayAvg, data, width, height, [focusDayAvg], x, yDayAvg, ["rolling_day_avg"], formatDate)
+    appendTooltip(focusTotal, '#91BAD6')
+    appendTooltip(focusFirstDose, '#73A5C6')
+    appendTooltip(focusSecondDose, '#BCD2E8')
+    appendTooltip(focusPfizerBiontech, '#A9DDB1')
+    appendTooltip(focusModerna, '#FEDD9E')
+    appendTooltip(focusAstrazeneca, '#D9C4EC')
+    appendTooltip(focusDayAvg, '#BCD2E8')
 
     // add labels
     legend = svgTotalVax.append("g")
