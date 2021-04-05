@@ -1,8 +1,8 @@
 var margin = {
         top: 20,
-        right: 50,
+        right: 80,
         bottom: 30,
-        left: 50
+        left: 80
     },
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -40,6 +40,46 @@ var lineTotal = d3.svg.line()
     })
     .y(function(d) {
         return yTotal(d.total);
+    });
+
+var lineFirstDose = d3.svg.line()
+    .x(function(d) {
+        return x(d.date);
+    })
+    .y(function(d) {
+        return yTotal(d.first_dose);
+    });
+
+var lineSecondDose = d3.svg.line()
+    .x(function(d) {
+        return x(d.date);
+    })
+    .y(function(d) {
+        return yTotal(d.second_dose);
+    });
+
+var linePfizerBiontech = d3.svg.line()
+    .x(function(d) {
+        return x(d.date);
+    })
+    .y(function(d) {
+        return yTotal(d.pfizer_biontech);
+    });
+
+var lineModerna = d3.svg.line()
+    .x(function(d) {
+        return x(d.date);
+    })
+    .y(function(d) {
+        return yTotal(d.moderna);
+    });
+
+var lineAstraZeneca = d3.svg.line()
+    .x(function(d) {
+        return x(d.date);
+    })
+    .y(function(d) {
+        return yTotal(d.astrazeneca);
     });
 
 var lineDayAvg = d3.svg.line()
@@ -111,15 +151,36 @@ d3.csv("data.csv", function(error, data) {
     svgAppendy(svgDayAvg, yDayAvgAxis, "Daily vaccines, 7 day average")
 
     // add line to graph
-    svgAppendPath(svgTotalVax, data, "line", lineTotal)
-    svgAppendPath(svgDayAvg, data, "area", areaDayAvg)
-    svgAppendPath(svgDayAvg, data, "line", lineDayAvg)
+    svgAppendPath(svgTotalVax, data, "line-total", lineTotal, "total")
+    svgAppendPath(svgTotalVax, data, "line-first-dose", lineFirstDose, "first dose")
+    svgAppendPath(svgTotalVax, data, "line-second-dose", lineSecondDose, "second dose")
+    svgAppendPath(svgTotalVax, data, "line-pfizer-biontech", linePfizerBiontech, "Pfizer BioNTech")
+    svgAppendPath(svgTotalVax, data, "line-moderna", lineModerna, "Moderna")
+    svgAppendPath(svgTotalVax, data, "line-astrazeneca", lineAstraZeneca, "Astra Zeneca")
+    svgAppendPath(svgDayAvg, data, "area", areaDayAvg, "")
+    svgAppendPath(svgDayAvg, data, "line", lineDayAvg, "")
 
     // do mouseover thingy
     var focusTotal = svgAppengg(svgTotalVax)
+    var focusFirstDose = svgAppengg(svgTotalVax)
+    var focusSecondDose = svgAppengg(svgTotalVax)
+    var focusPfizerBiontech = svgAppengg(svgTotalVax)
+    var focusModerna = svgAppengg(svgTotalVax)
+    var focusAstrazeneca = svgAppengg(svgTotalVax)
     var focusDayAvg = svgAppengg(svgDayAvg)
-    svgAppendRect(svgTotalVax, data, width, height, focusTotal, x, yTotal, "total", formatDate)
-    svgAppendRect(svgDayAvg, data, width, height, focusDayAvg, x, yDayAvg, "rolling_day_avg", formatDate)
+
+    var allTotalFocus = [focusTotal, focusFirstDose, focusSecondDose, focusPfizerBiontech, focusModerna, focusAstrazeneca]
+    var allTotalValues = ["total", "first_dose", "second_dose", "pfizer_biontech", "moderna", "astrazeneca"]
+
+    svgAppendRect(svgTotalVax, data, width, height, allTotalFocus, x, yTotal, allTotalValues, formatDate)
+    svgAppendRect(svgDayAvg, data, width, height, [focusDayAvg], x, yDayAvg, ["rolling_day_avg"], formatDate)
+
+    // add labels
+    legend = svgTotalVax.append("g")
+        .attr("class","legend")
+        .attr("transform","translate(50,30)")
+        .style("font-size","12px")
+        .call(d3.legend)
 
     // table
     tabulate(data, ["date", "total", "daily", "rolling_day_avg", "comment"]);

@@ -13,9 +13,45 @@ body {
   /* display: none; */
 }
 
-.line {
+.legend rect {
+  fill:white;
+  stroke:black;
+  opacity:0.8;
+}
+
+.line-total {
+  fill: none;
+  stroke: navy;
+  stroke-width: 1.5px;
+}
+
+.line-first-dose {
   fill: none;
   stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.line-second-dose {
+  fill: none;
+  stroke: lightsteelblue;
+  stroke-width: 1.5px;
+}
+
+.line-pfizer-biontech {
+  fill: none;
+  stroke: lightgreen;
+  stroke-width: 1.5px;
+}
+
+.line-moderna {
+  fill: none;
+  stroke: lightcoral;
+  stroke-width: 1.5px;
+}
+
+.line-astrazeneca {
+  fill: none;
+  stroke: purple;
   stroke-width: 1.5px;
 }
 

@@ -17,11 +17,12 @@ function svgAppendy(svg, yAxis, text) {
         .text(text);
 }
 
-function svgAppendPath(svg, data, className, elem) {
+function svgAppendPath(svg, data, className, elem, legend) {
     svg.append("path")
         .datum(data)
         .attr("class", className)
-        .attr("d", elem);
+        .attr("d", elem)
+        .attr("data-legend", legend);
 }
 
 function svgAppengg(svg) {
@@ -39,16 +40,20 @@ function svgAppengg(svg) {
     return focus
 }
 
-function svgAppendRect(svg, data, width, height, focus, x, y, val, formatDate) {
+function svgAppendRect(svg, data, width, height, focuses, x, y, values, formatDate) {
     svg.append("rect")
         .attr("class", "overlay")
         .attr("width", width)
         .attr("height", height)
         .on("mouseover", function() {
-            focus.style("display", null);
+            focuses.forEach(function(focus) {
+                focus.style("display", null);
+            });
         })
         .on("mouseout", function() {
-            focus.style("display", "none");
+            focuses.forEach(function(focus) {
+                focus.style("display", "none");
+            });
         })
         .on("mousemove", mousemove);
 
@@ -58,8 +63,11 @@ function svgAppendRect(svg, data, width, height, focus, x, y, val, formatDate) {
             d0 = data[i - 1],
             d1 = data[i],
             d = x0 - d0.date > d1.date - x0 ? d1 : d0;
-        focus.attr("transform", "translate(" + x(d.date) + "," + y(d[val]) + ")");
-        focus.select("text").text(formatDate(d.date) + " - " + d[val]);
+        
+        focuses.forEach(function(focus, index) {
+            focus.attr("transform", "translate(" + x(d.date) + "," + y(d[values[index]]) + ")");
+            focus.select("text").text(formatDate(d.date) + " - " + d[values[index]]);
+        });
     }
 }
 
