@@ -1,3 +1,21 @@
+function dateOfLastUpdate(data) {
+    var finalDay;
+    data.forEach(function(d) {
+        if (parseInt(d.total) == 0) {
+            return finalDay;
+        }
+        finalDay = d.date
+    });
+    return finalDay
+}
+
+function dataWithVax(data, finalDay) {
+    oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
+    diffDays = Math.round(Math.abs((data[0].date - finalDay) / oneDay));
+    dataVax = data.slice(0, diffDays + 1)
+    return dataVax
+}
+
 function svgAppendx(svg, xAxis) {
     svg.append("g")
         .attr("class", "x axis")
@@ -40,6 +58,17 @@ function svgAppengg(svg) {
     return focus
 }
 
+function svgAppendText(y, data, values) {
+    values.forEach(function(v) {
+        svgTotalVax.append("text")
+            .attr("transform", "translate(" + (width + 3) + "," + y(data[data.length - 1][v]) + ")")
+            .attr("dy", ".35em")
+            .attr("text-anchor", "start")
+            .style("fill", "steelblue")
+            .text(v);
+    });
+}
+
 function svgAppendRect(svg, data, width, height, focuses, x, y, values, formatDate) {
     svg.append("rect")
         .attr("class", "overlay")
@@ -63,7 +92,7 @@ function svgAppendRect(svg, data, width, height, focuses, x, y, values, formatDa
             d0 = data[i - 1],
             d1 = data[i],
             d = x0 - d0.date > d1.date - x0 ? d1 : d0;
-        
+
         focuses.forEach(function(focus, index) {
             focus.attr("transform", "translate(" + x(d.date) + "," + y(d[values[index]]) + ")");
             focus.select("text").text(formatDate(d.date) + " - " + d[values[index]]);

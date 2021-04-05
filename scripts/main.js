@@ -1,8 +1,8 @@
 var margin = {
         top: 20,
-        right: 80,
+        right: 120,
         bottom: 30,
-        left: 80
+        left: 50
     },
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -94,7 +94,8 @@ var areaDayAvg = d3.svg.area()
     .x(function(d) {
         return x(d.date);
     })
-    .y(function(d) {
+    .y0(yDayAvg(0))
+    .y1(function(d) {
         return yDayAvg(d.rolling_day_avg);
     });
 
@@ -130,15 +131,17 @@ d3.csv("data.csv", function(error, data) {
 
     // date of first vaccine
     firstVax = data[0].date
+    dateOfLastUpdate = dateOfLastUpdate(data)
+    dataVaccines = dataWithVax(data, dateOfLastUpdate)
 
     // x domain (date) is the same for both graph
-    x.domain([firstVax, today]);
+    x.domain([firstVax, dateOfLastUpdate]);
     yTotal.domain(
-        d3.extent(data, function(d) {
+        d3.extent(dataVaccines, function(d) {
             return d.total;
         }));
     yDayAvg.domain(
-        d3.extent(data, function(d) {
+        d3.extent(dataVaccines, function(d) {
             return d.rolling_day_avg;
         }));
 
@@ -151,14 +154,16 @@ d3.csv("data.csv", function(error, data) {
     svgAppendy(svgDayAvg, yDayAvgAxis, "Daily vaccines, 7 day average")
 
     // add line to graph
-    svgAppendPath(svgTotalVax, data, "line-total", lineTotal, "total")
-    svgAppendPath(svgTotalVax, data, "line-first-dose", lineFirstDose, "first dose")
-    svgAppendPath(svgTotalVax, data, "line-second-dose", lineSecondDose, "second dose")
-    svgAppendPath(svgTotalVax, data, "line-pfizer-biontech", linePfizerBiontech, "Pfizer BioNTech")
-    svgAppendPath(svgTotalVax, data, "line-moderna", lineModerna, "Moderna")
-    svgAppendPath(svgTotalVax, data, "line-astrazeneca", lineAstraZeneca, "Astra Zeneca")
-    svgAppendPath(svgDayAvg, data, "area", areaDayAvg, "")
-    svgAppendPath(svgDayAvg, data, "line", lineDayAvg, "")
+    svgAppendPath(svgTotalVax, dataVaccines, "line-first-dose", lineFirstDose, "First dose")
+    svgAppendPath(svgTotalVax, dataVaccines, "line-second-dose", lineSecondDose, "Second dose")
+    svgAppendPath(svgTotalVax, dataVaccines, "line-pfizer-biontech", linePfizerBiontech, "Pfizer BioNTech")
+    svgAppendPath(svgTotalVax, dataVaccines, "line-moderna", lineModerna, "Moderna")
+    svgAppendPath(svgTotalVax, dataVaccines, "line-astrazeneca", lineAstraZeneca, "Astra Zeneca")
+    svgAppendPath(svgTotalVax, dataVaccines, "line-total", lineTotal, "Total")
+    svgAppendPath(svgDayAvg, dataVaccines, "line", lineDayAvg, "")
+    svgAppendPath(svgDayAvg, dataVaccines, "area", areaDayAvg, "")
+
+    svgAppendText(yTotal, dataVaccines, ['total', 'first_dose', 'second_dose', 'pfizer_biontech', 'moderna', 'astrazeneca'])
 
     // do mouseover thingy
     var focusTotal = svgAppengg(svgTotalVax)

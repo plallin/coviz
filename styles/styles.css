@@ -1,3 +1,5 @@
+/* https://www.schemecolor.com/ -> great website for gradients */
+
 body {
   font: 10px sans-serif;
 }
@@ -21,48 +23,48 @@ body {
 
 .line-total {
   fill: none;
-  stroke: navy;
-  stroke-width: 1.5px;
+  stroke: #1E3F66;
+  stroke-width: 2px;
 }
 
 .line-first-dose {
   fill: none;
-  stroke: steelblue;
-  stroke-width: 1.5px;
+  stroke: #73A5C6;
+  stroke-width: 1.75px;
 }
 
 .line-second-dose {
   fill: none;
   stroke: lightsteelblue;
-  stroke-width: 1.5px;
+  stroke-width: 1.75px;
 }
 
 .line-pfizer-biontech {
   fill: none;
-  stroke: lightgreen;
+  stroke: #A9DDB1;
   stroke-width: 1.5px;
 }
 
 .line-moderna {
   fill: none;
-  stroke: lightcoral;
+  stroke: #FEDD9E;
   stroke-width: 1.5px;
 }
 
 .line-astrazeneca {
   fill: none;
-  stroke: purple;
+  stroke: #D9C4EC;
   stroke-width: 1.5px;
 }
 
 #graph_daily_avg .line {
-  fill: lightsteelblue;
+  fill: none;
   stroke: steelblue;
   stroke-width: 1.5px;
 }
 
 .area {
-  fill: lightsteelblue;
+  fill: #BCD2E8;
 }
 
 .overlay {

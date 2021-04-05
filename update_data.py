@@ -37,7 +37,7 @@ def compute_new_average(last_updates: List[VaccineData], new_daily_figure: int) 
     total_rolling_7_days = int(new_daily_figure) + sum([int(x.daily) for x in last_updates])
     return round(total_rolling_7_days / 7)
 
-def create_master_sheet_data():
+def create_master_sheet_data() -> List[MasterSheet]:
     fvax = open(VACCINE_DATA_FILE, 'r')
     rows_vax = fvax.readlines()
     vaccine_data = parse_vaccine_data(rows_vax)
