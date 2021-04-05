@@ -7,8 +7,8 @@ var margin = {
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
-var parseDate = d3.time.format("%d %b %Y").parse,
-    formatDate = d3.time.format("%d %b %Y"),
+var parseDate = d3.time.format("%Y-%b-%d").parse,
+    formatDate = d3.time.format("%Y-%b-%d"),
     bisectDate = d3.bisector(function(d) {
         return d.date;
     }).left;
