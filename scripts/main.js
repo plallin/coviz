@@ -183,7 +183,7 @@ d3.csv("data.csv", function(error, data) {
     var focusPfizerBiontech = svgAppengg(svgTotalVax, colors.pfizer_biontech)
     var focusModerna = svgAppengg(svgTotalVax, colors.moderna)
     var focusAstrazeneca = svgAppengg(svgTotalVax, colors.astrazeneca)
-    var focusDayAvg = svgAppengg(svgDayAvg, colors.day)
+    var focusDayAvg = svgAppengg(svgDayAvg, "#2E5984")
 
     var allTotalFocus = [focusTotal, focusFirstDose, focusSecondDose, focusPfizerBiontech, focusModerna, focusAstrazeneca]
     var allTotalValues = ["total", "first_dose", "second_dose", "pfizer_biontech", "moderna", "astrazeneca"]
