@@ -1,5 +1,5 @@
 var margin = {
-        top: 20,
+        top: 40,
         right: 120,
         bottom: 30,
         left: 50
@@ -23,8 +23,6 @@ var colors = {
     astrazeneca: '#D9C4EC',
     day: '#BCD2E8'
 }
-
-console.log(colors)
 
 var x = d3.time.scale()
     .range([0, width]);
