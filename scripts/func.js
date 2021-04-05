@@ -43,13 +43,15 @@ function svgAppendPath(svg, data, className, elem, legend) {
         .attr("data-legend", legend);
 }
 
-function svgAppengg(svg) {
+function svgAppengg(svg, color) {
     focus = svg.append("g")
         .attr("class", "focus")
         .style("display", "none");
 
     focus.append("circle")
-        .attr("r", 4.5);
+        .attr("r", 4.5)
+        .style('fill', color)
+        .style('stroke', color)
 
     focus.append("text")
         .attr("x", 9)

@@ -14,6 +14,18 @@ var parseDate = d3.time.format("%Y-%b-%d").parse,
         return d.date;
     }).left;
 
+var colors = {
+    total: '#1E3F66',
+    first_dose: '#73A5C6',
+    second_dose: '#BCD2E8',
+    pfizer_biontech: '#A9DDB1',
+    moderna: '#FEDD9E',
+    astrazeneca: '#D9C4EC',
+    day: '#BCD2E8'
+}
+
+console.log(colors)
+
 var x = d3.time.scale()
     .range([0, width]);
 
@@ -167,26 +179,29 @@ d3.csv("data.csv", function(error, data) {
     svgAppendText(yTotal, dataVaccines, ['total', 'first_dose', 'second_dose', 'pfizer_biontech', 'moderna', 'astrazeneca'])
 
     // do mouseover thingy
-    var focusTotal = svgAppengg(svgTotalVax)
-    var focusFirstDose = svgAppengg(svgTotalVax)
-    var focusSecondDose = svgAppengg(svgTotalVax)
-    var focusPfizerBiontech = svgAppengg(svgTotalVax)
-    var focusModerna = svgAppengg(svgTotalVax)
-    var focusAstrazeneca = svgAppengg(svgTotalVax)
-    var focusDayAvg = svgAppengg(svgDayAvg)
+    var focusTotal = svgAppengg(svgTotalVax, colors.total)
+    var focusFirstDose = svgAppengg(svgTotalVax, colors.first_dose)
+    var focusSecondDose = svgAppengg(svgTotalVax, colors.second_dose)
+    var focusPfizerBiontech = svgAppengg(svgTotalVax, colors.pfizer_biontech)
+    var focusModerna = svgAppengg(svgTotalVax, colors.moderna)
+    var focusAstrazeneca = svgAppengg(svgTotalVax, colors.astrazeneca)
+    var focusDayAvg = svgAppengg(svgDayAvg, colors.day)
 
     var allTotalFocus = [focusTotal, focusFirstDose, focusSecondDose, focusPfizerBiontech, focusModerna, focusAstrazeneca]
     var allTotalValues = ["total", "first_dose", "second_dose", "pfizer_biontech", "moderna", "astrazeneca"]
 
     svgAppendRect(svgTotalVax, data, width, height, allTotalFocus, x, yTotal, allTotalValues, formatDate)
     svgAppendRect(svgDayAvg, data, width, height, [focusDayAvg], x, yDayAvg, ["rolling_day_avg"], formatDate)
+
+    // Create tool tip
     appendTooltip(focusTotal, '#91BAD6')
-    appendTooltip(focusFirstDose, '#73A5C6')
-    appendTooltip(focusSecondDose, '#BCD2E8')
-    appendTooltip(focusPfizerBiontech, '#A9DDB1')
-    appendTooltip(focusModerna, '#FEDD9E')
-    appendTooltip(focusAstrazeneca, '#D9C4EC')
-    appendTooltip(focusDayAvg, '#BCD2E8')
+    appendTooltip(focusFirstDose, colors.first_dose)
+    appendTooltip(focusSecondDose, colors.second_dose)
+    appendTooltip(focusPfizerBiontech, colors.pfizer_biontech)
+    appendTooltip(focusModerna, colors.moderna)
+    appendTooltip(focusAstrazeneca, colors.astrazeneca)
+    appendTooltip(focusDayAvg, colors.day)
+
 
     // add labels
     legend = svgTotalVax.append("g")
