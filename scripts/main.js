@@ -116,13 +116,23 @@ var svgTotalVax = d3.select("#graph_total").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+
+svgTotalVax.append("rect")
+.attr("width", width)
+.attr("height", height)
+.attr("fill", "#F5FCFF");
 
 var svgDayAvg = d3.select("#graph_daily_avg").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+svgDayAvg.append("rect")
+.attr("width", width)
+.attr("height", height)
+.attr("fill", "#F5FCFF");
 
 d3.csv("data.csv", function(error, data) {
     if (error) throw error;
