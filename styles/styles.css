@@ -81,6 +81,10 @@ body {
   fill: lightgray;
 }
 
+#graph_daily_avg .tooltip {
+  stroke: #2E5984;
+}
+
 .tooltip-date, .tooltip-likes {
   font-weight: bold;
 }

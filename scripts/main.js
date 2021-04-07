@@ -208,7 +208,7 @@ d3.csv("data.csv", function(error, data) {
     appendTooltip(focusPfizerBiontech, colors.pfizer_biontech)
     appendTooltip(focusModerna, colors.moderna)
     appendTooltip(focusAstrazeneca, colors.astrazeneca)
-    appendTooltip(focusDayAvg, colors.day)
+    appendTooltip(focusDayAvg, colors.day, 'Average')
 
 
     // add labels
