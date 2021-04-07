@@ -178,7 +178,8 @@ function tabulate(data, columns) {
                 if (formatDate(today) == formatDate(d.value)) {
                     d3.select(this.parentNode).style("background-color", "#BBD3EC")
                 }
-                return formatDate(d.value)
+                tableDateFormat = d3.time.format("%a %d %b %y")
+                return tableDateFormat(d.value)
             }
 
             return d.value;
