@@ -106,7 +106,7 @@ function svgAppendRect(svg, data, width, height, focuses, x, y, values, formatDa
 function appendTooltip(focus, color, text='Vaccine') {
     focus.append("rect")
             .attr("class", "tooltip")
-            .attr("width", 90)
+            .attr("width", 100)
             .attr("height", 30)
             .attr("x", -45)
             .attr("y", -38)
