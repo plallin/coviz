@@ -173,6 +173,7 @@ function tabulate(data, columns) {
                         '<a href="$1" target="_blank">$1</a>'
                     )
                 }
+                return '';
             }
             if (d.column == "date") {
                 if (formatDate(today) == formatDate(d.value)) {
@@ -182,7 +183,7 @@ function tabulate(data, columns) {
                 return tableDateFormat(d.value)
             }
 
-            return d.value;
+            return parseInt(d.value).toLocaleString();
         });
 
     // d3.select("#data_table").append("table").attr("id", "datatable")
