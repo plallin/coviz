@@ -1,8 +1,8 @@
 var margin = {
         top: 40,
-        right: 120,
+        right: 125,
         bottom: 30,
-        left: 50
+        left: 55
     },
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
