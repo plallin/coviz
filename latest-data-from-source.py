@@ -77,7 +77,7 @@ param_vax_all_types = {
     'where': f"{DATE_COL}>'2020-01-01 00:00:00'", # "Dates>'2020-01-01 00:00:00'",
     'returnGeometry': False,
     'spatialRel': 'esriSpatialRelIntersects',
-    'outFields': f'{DATE_COL},totalAdministered,firstDose,secondDose,az,modern,pf',
+    'outFields': f'{DATE_COL},totalAdministered,firstDose,secondDose,az,modern,pf,totalcoh1,totalcoh2,totalcoh3,totalcoh4,totalcoh5,totalcoh7,totalcoh16',
     # 'orderByFields': f'{DATE_COL} asc',
     'resultOffset': 0,
     'resultRecordCount': 32000,
@@ -96,4 +96,3 @@ data = req.body
 headers = ['"{0}: {1}"'.format(k, v) for k, v in req.headers.items()]
 headers = " -H ".join(headers)
 print(command.format(method=method, headers=headers, data=data, uri=uri))
-
