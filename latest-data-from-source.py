@@ -37,6 +37,7 @@ headers = ['"{0}: {1}"'.format(k, v) for k, v in req.headers.items()]
 headers = " -H ".join(headers)
 print(command.format(method=method, headers=headers, data=data, uri=uri))
 
+print()
 
 ### Vaccines per provider (include Janssen)
 
@@ -66,6 +67,7 @@ headers = ['"{0}: {1}"'.format(k, v) for k, v in req.headers.items()]
 headers = " -H ".join(headers)
 print(command.format(method=method, headers=headers, data=data, uri=uri))
 
+print()
 
 ### Vaccines per type of dose (first, second), cohort, and providers (no Janssen yet)
 

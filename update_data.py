@@ -28,6 +28,9 @@ def check_new_data(last_update: str) -> List[ApiData]:
     for api_datum in reversed(api_data):
         if date(last_update) < date(api_datum['date'], '%Y-%m-%d'):
             api_datum['date'] = stringify_date(date(api_datum['date'], '%Y-%m-%d'))
+            if not 'janssen' in api_datum:
+                print('Janssen data unavailable from source yet')
+                api_datum['janssen'] = 0
             new_data.insert(0, (ApiData(**api_datum)))
         else:
             return new_data
@@ -128,7 +131,7 @@ def stringify_date(d: datetime, date_format:str = '%Y-%b-%d') -> str:
 if __name__ == "__main__":
     last_update = last_update_date()
     new_data = check_new_data(last_update)
-    if True:
+    if new_data:
         print('new data found')
         create_new_rows(new_data)
         print('vaccines csv sheet updates')
