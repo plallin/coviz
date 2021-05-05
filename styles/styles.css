@@ -57,6 +57,12 @@ body {
   stroke-width: 1.5px;
 }
 
+.line-janssen {
+  fill: none;
+  stroke: #FF8776;
+  stroke-width: 1.5px;
+}
+
 #graph_daily_avg .line {
   fill: none;
   stroke: #2E5984;

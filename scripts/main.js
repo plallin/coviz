@@ -21,6 +21,7 @@ var colors = {
     pfizer_biontech: '#A9DDB1',
     moderna: '#FEDD9E',
     astrazeneca: '#D9C4EC',
+    janssen: '#FF8776',
     day: '#BCD2E8'
 }
 
@@ -91,6 +92,14 @@ var lineAstraZeneca = d3.svg.line()
     })
     .y(function(d) {
         return yTotal(d.astrazeneca);
+    });
+
+var lineJanssen = d3.svg.line()
+    .x(function(d) {
+        return x(d.date);
+    })
+    .y(function(d) {
+        return yTotal(d.janssen);
     });
 
 var lineDayAvg = d3.svg.line()
@@ -180,11 +189,12 @@ d3.csv("data.csv", function(error, data) {
     svgAppendPath(svgTotalVax, dataVaccines, "line-pfizer-biontech", linePfizerBiontech, "Pfizer BioNTech")
     svgAppendPath(svgTotalVax, dataVaccines, "line-moderna", lineModerna, "Moderna")
     svgAppendPath(svgTotalVax, dataVaccines, "line-astrazeneca", lineAstraZeneca, "Astra Zeneca")
+    svgAppendPath(svgTotalVax, dataVaccines, "line-janssen", lineJanssen, "Janssen")
     svgAppendPath(svgTotalVax, dataVaccines, "line-total", lineTotal, "Total")
     svgAppendPath(svgDayAvg, dataVaccines, "line", lineDayAvg, "")
     svgAppendPath(svgDayAvg, dataVaccines, "area", areaDayAvg, "")
 
-    svgAppendText(yTotal, dataVaccines, ['total', 'first_dose', 'second_dose', 'pfizer_biontech', 'moderna', 'astrazeneca'])
+    svgAppendText(yTotal, dataVaccines, ['total', 'first_dose', 'second_dose', 'pfizer_biontech', 'moderna', 'astrazeneca', 'janssen'])
 
     // do mouseover thingy
     var focusTotal = svgAppengg(svgTotalVax, colors.total)
@@ -193,10 +203,11 @@ d3.csv("data.csv", function(error, data) {
     var focusPfizerBiontech = svgAppengg(svgTotalVax, colors.pfizer_biontech)
     var focusModerna = svgAppengg(svgTotalVax, colors.moderna)
     var focusAstrazeneca = svgAppengg(svgTotalVax, colors.astrazeneca)
+    var focusJanssen = svgAppengg(svgTotalVax, colors.janssen)
     var focusDayAvg = svgAppengg(svgDayAvg, "#2E5984")
 
-    var allTotalFocus = [focusTotal, focusFirstDose, focusSecondDose, focusPfizerBiontech, focusModerna, focusAstrazeneca]
-    var allTotalValues = ["total", "first_dose", "second_dose", "pfizer_biontech", "moderna", "astrazeneca"]
+    var allTotalFocus = [focusTotal, focusFirstDose, focusSecondDose, focusPfizerBiontech, focusModerna, focusAstrazeneca, focusJanssen]
+    var allTotalValues = ["total", "first_dose", "second_dose", "pfizer_biontech", "moderna", "astrazeneca", "janssen"]
 
     svgAppendRect(svgTotalVax, data, width, height, allTotalFocus, x, yTotal, allTotalValues, formatDate)
     svgAppendRect(svgDayAvg, data, width, height, [focusDayAvg], x, yDayAvg, ["rolling_day_avg"], formatDate)
@@ -208,6 +219,7 @@ d3.csv("data.csv", function(error, data) {
     appendTooltip(focusPfizerBiontech, colors.pfizer_biontech)
     appendTooltip(focusModerna, colors.moderna)
     appendTooltip(focusAstrazeneca, colors.astrazeneca)
+    appendTooltip(focusJanssen, colors.janssen)
     appendTooltip(focusDayAvg, colors.day, 'Average')
 
 
@@ -219,5 +231,5 @@ d3.csv("data.csv", function(error, data) {
         .call(d3.legend)
 
     // table
-    tabulate(data, ["date", "total", "daily", "rolling_day_avg", "first_dose", "second_dose", "pfizer_biontech", "moderna", "astrazeneca", "comment"]);
+    tabulate(data, ["date", "total", "daily", "rolling_day_avg", "first_dose", "second_dose", "pfizer_biontech", "moderna", "astrazeneca", "janssen", "comment"]);
 });

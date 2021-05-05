@@ -11,10 +11,10 @@ VACCINE_DATA_FILE = 'data-sources/vaccines.csv'
 COMMENT_FILE = 'data-sources/comments.csv'
 API = 'https://covid19.shanehastings.eu/vaccines/json/historical/'
 
-VaccineData = namedtuple('VaccineData', 'date,total,daily,rolling_day_avg,first_dose,second_dose,pfizer_biontech,moderna,astrazeneca')
-ApiData = namedtuple('ApiData', 'id date first_dose second_dose total_vaccinations pfizer_biontech moderna astrazeneca')
+VaccineData = namedtuple('VaccineData', 'date,total,daily,rolling_day_avg,first_dose,second_dose,pfizer_biontech,moderna,astrazeneca,janssen')
+ApiData = namedtuple('ApiData', 'id date first_dose second_dose total_vaccinations pfizer_biontech moderna astrazeneca janssen')
 Comment = namedtuple('Comment', 'date,comment')
-MasterSheet = namedtuple('MasterSheet', 'date,total,daily,rolling_day_avg,first_dose,second_dose,pfizer_biontech,moderna,astrazeneca,comment')
+MasterSheet = namedtuple('MasterSheet', 'date,total,daily,rolling_day_avg,first_dose,second_dose,pfizer_biontech,moderna,astrazeneca,janssen,comment')
 
 def get_and_sort_api_data() -> List[Dict]:
     response = urllib.request.urlopen(API)
@@ -62,20 +62,24 @@ def create_master_sheet_data() -> List[MasterSheet]:
     while comment_index < len(comment_data):
         current_date += timedelta(days=1)
         if current_date == date(comment_data[comment_index].date):
-            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,comment_data[comment_index].comment))
+            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,comment_data[comment_index].comment))
             comment_index += 1
         else:
-            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,''))
+            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,''))
     return master_sheet
 
 def create_new_rows(api_data: List[ApiData]):
     for api_datum in api_data:
+        if api_datum.janssen:
+            num_janssen = api_datum.janssen
+        else:
+            num_janssen = 0
         last_rows = get_last_rows(VACCINE_DATA_FILE, 6)
         last_rows_data = parse_vaccine_data(last_rows)
         new_daily_figure = int(api_datum.total_vaccinations) - int(last_rows_data[-1].total)
         new_rolling_avg = compute_new_average(last_rows_data, new_daily_figure)
         new_vax_data = VaccineData(api_datum.date, api_datum.total_vaccinations, new_daily_figure, new_rolling_avg, api_datum.first_dose,
-                                    api_datum.second_dose,api_datum.pfizer_biontech,api_datum.moderna,api_datum.astrazeneca)
+                                    api_datum.second_dose,api_datum.pfizer_biontech,api_datum.moderna,api_datum.astrazeneca, num_janssen)
         formatted_data = ','.join(str(e) for e in list(new_vax_data))
         f = open(VACCINE_DATA_FILE, 'a')
         f.write(f'\n{formatted_data}')
@@ -124,7 +128,7 @@ def stringify_date(d: datetime, date_format:str = '%Y-%b-%d') -> str:
 if __name__ == "__main__":
     last_update = last_update_date()
     new_data = check_new_data(last_update)
-    if new_data:
+    if True:
         print('new data found')
         create_new_rows(new_data)
         print('vaccines csv sheet updates')
