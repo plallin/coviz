@@ -59,6 +59,37 @@
             "othercohort2": 49,
             "totalcoh16": 542,
             "dateText": "Mon, 03 May 2021"
+        },
+        "1620126000000": {
+            "relDate": 1620126000000,
+            "totalAdministered": 1655866,
+            "firstDose": 1201373,
+            "secondDose": 454493,
+            "az": 417813,
+            "modern": 82513,
+            "pf": 1155540,
+            "cohort1": 109372,
+            "cohort1b": 84749,
+            "totalcoh1": 194121,
+            "cohort2": 256742,
+            "cohort2b": 95931,
+            "totalcoh2": 352673,
+            "cohort3": 456407,
+            "cohort3b": 267422,
+            "totalcoh3": 723829,
+            "cohort4": 210694,
+            "cohort4b": 6297,
+            "totalcoh4": 216991,
+            "cohort5": 166154,
+            "cohort5b": 43,
+            "totalcoh5": 166197,
+            "cohort7": 1418,
+            "cohort7b": 2,
+            "totalcoh7": 1420,
+            "othercohort1": 586,
+            "othercohort2": 49,
+            "totalcoh16": 635,
+            "dateText": "Tue, 04 May 2021"
         }
     }
 }
