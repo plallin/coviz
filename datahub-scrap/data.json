@@ -120,7 +120,54 @@
             "othercohort1": 768,
             "othercohort2": 49,
             "totalcoh16": 817,
-            "dateText": "Wed, 05 May 2021"
+            "dateText": "Wed, 05 May 2021",
+            "Covid19_Vaccine_Administration_Text_Date_View": {
+                "objectid": 96,
+                "globalid": "6c04fcdd-01d1-4dd8-84d6-9572d262280e",
+                "relDate": 1620212400000,
+                "dateText": "Wed, 05 May 2021"
+            },
+            "Covid19_Vaccine_Administration_VaccineTypeHostedView_V2": {
+                "objectid": 96,
+                "globalid": "6c04fcdd-01d1-4dd8-84d6-9572d262280e",
+                "relDate": 1620212400000,
+                "az": 436142,
+                "pf": 1179638,
+                "modern": 84758,
+                "janssen": 0
+            },
+            "Covid19_Vaccine_Administration_Hosted_View": {
+                "objectid": 96,
+                "globalid": "6c04fcdd-01d1-4dd8-84d6-9572d262280e",
+                "relDate": 1620212400000,
+                "firstDose": 1233067,
+                "secondDose": 467471,
+                "totalAdministered": 1700538,
+                "az": 436142,
+                "pf": 1179638,
+                "modern": 84758,
+                "cohort1": 109874,
+                "cohort1b": 84793,
+                "cohort2": 257597,
+                "cohort2b": 96249,
+                "cohort3": 457246,
+                "cohort3b": 279351,
+                "cohort4": 222038,
+                "cohort4b": 6979,
+                "cohort5": 183737,
+                "cohort5b": 48,
+                "cohort7": 1807,
+                "cohort7b": 2,
+                "totalcoh1": 194667,
+                "totalcoh2": 353846,
+                "totalcoh3": 736597,
+                "totalcoh4": 229017,
+                "totalcoh5": 183785,
+                "totalcoh7": 1809,
+                "totalcoh16": 817,
+                "othercohort1": 768,
+                "othercohort2": 49
+            }
         }
     }
 }
