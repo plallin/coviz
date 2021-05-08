@@ -27,6 +27,7 @@ date_query = {
 res = requests.get(date, params=date_query)
 date_data = json.loads(res.text)['features'][0]['attributes']
 
+
 ### Vaccines per providers (no Janssen yet)
 
 data_vax_per_type = 'https://services-eu1.arcgis.com/z6bHNio59iTqqSUY/arcgis/rest/services/Covid19_Vaccine_Administration_VaccineTypeHostedView_V2/FeatureServer/0/query'
@@ -70,6 +71,7 @@ vax_data = json.loads(res.text)['features'][0]['attributes']
 data = open("datahub-scrap/data.json", "r").read()
 json_data = json.loads(data)
 reldate = str(vax_data['relDate'])
+json_data['data'][reldate] = {}
 json_data['data'][reldate]['Covid19_Vaccine_Administration_Text_Date_View'] = date_data
 json_data['data'][reldate]['Covid19_Vaccine_Administration_VaccineTypeHostedView_V2'] = type_data
 json_data['data'][reldate]['Covid19_Vaccine_Administration_Hosted_View'] = vax_data
