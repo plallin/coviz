@@ -217,6 +217,55 @@
                 "othercohort1": 851,
                 "othercohort2": 49
             }
+        },
+        "1620385200000": {
+            "Covid19_Vaccine_Administration_Text_Date_View": {
+                "objectid": 98,
+                "globalid": "f2f92dbd-b73d-412d-8e05-d557568e681f",
+                "relDate": 1620385200000,
+                "dateText": "Fri, 07 May 2021"
+            },
+            "Covid19_Vaccine_Administration_VaccineTypeHostedView_V2": {
+                "objectid": 98,
+                "globalid": "f2f92dbd-b73d-412d-8e05-d557568e681f",
+                "relDate": 1620385200000,
+                "az": 477394,
+                "pf": 1233160,
+                "modern": 88499,
+                "janssen": 137
+            },
+            "Covid19_Vaccine_Administration_Hosted_View": {
+                "objectid": 98,
+                "globalid": "f2f92dbd-b73d-412d-8e05-d557568e681f",
+                "relDate": 1620385200000,
+                "firstDose": 1305178,
+                "secondDose": 494012,
+                "totalAdministered": 1799190,
+                "az": 477394,
+                "pf": 1233160,
+                "modern": 88499,
+                "cohort1": 110907,
+                "cohort1b": 84850,
+                "cohort2": 259380,
+                "cohort2b": 97430,
+                "cohort3": 458526,
+                "cohort3b": 302410,
+                "cohort4": 250415,
+                "cohort4b": 9201,
+                "cohort5": 222253,
+                "cohort5b": 68,
+                "cohort7": 2762,
+                "cohort7b": 3,
+                "totalcoh1": 195757,
+                "totalcoh2": 356810,
+                "totalcoh3": 760936,
+                "totalcoh4": 259616,
+                "totalcoh5": 222321,
+                "totalcoh7": 2765,
+                "totalcoh16": 985,
+                "othercohort1": 935,
+                "othercohort2": 50
+            }
         }
     }
 }
