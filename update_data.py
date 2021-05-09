@@ -65,10 +65,10 @@ def create_master_sheet_data() -> List[MasterSheet]:
     while comment_index < len(comment_data):
         current_date += timedelta(days=1)
         if current_date == date(comment_data[comment_index].date):
-            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,comment_data[comment_index].comment))
+            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,0,comment_data[comment_index].comment))
             comment_index += 1
         else:
-            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,''))
+            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,0,''))
     return master_sheet
 
 def create_new_rows(api_data: List[ApiData]):
