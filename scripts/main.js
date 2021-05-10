@@ -231,5 +231,5 @@ d3.csv("data.csv", function(error, data) {
         .call(d3.legend)
 
     // table
-    tabulate(data, ["date", "total", "daily", "rolling_day_avg", "first_dose", "second_dose", "pfizer_biontech", "moderna", "astrazeneca", "janssen", "comment"]);
+    tabulate(data, ["date", "total", "daily", "rolling_day_avg", "first_dose", "second_dose", "fully_vaccinated", "pfizer_biontech", "moderna", "astrazeneca", "janssen", "comment"]);
 });
