@@ -96,7 +96,7 @@ body {
 }
 
 #datatable {
-  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Arial, Helvetica, monospace; */
   border-collapse: collapse;
   overflow-y: auto;
   height: 100px;
@@ -110,6 +110,9 @@ body {
 
 /* table borders */
 #datatable td, #datatable th {
+  /* font-family: 'Oxygen Mono', monospace; */
+  font-family: 'Ubuntu Mono', monospace;
+  /* font-size: 10px; */
   border: 1px solid #CECCE4;
   padding: 8px;
 }
