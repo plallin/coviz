@@ -52,23 +52,22 @@ def create_master_sheet_data() -> List[MasterSheet]:
     vaccine_index = 1 # skip headers
     comment_index = 1 # skip headers
     master_sheet = []
-    current_date = date('2020-dec-29')
-    while vaccine_index < len(vaccine_data):
-        current_date = date(vaccine_data[vaccine_index].date)
-        if comment_index < len(comment_data) and current_date == date(comment_data[comment_index].date):
+    current_date = date('2020-dec-28')
+    last_data_date = (max(date(vaccine_data[-1].date), date(comment_data[-1].date)))
+    while current_date < last_data_date:
+        current_date += timedelta(days=1)
+        if comment_index < len(comment_data) and vaccine_index < len(vaccine_data) and (current_date == date(vaccine_data[vaccine_index].date) == date(comment_data[comment_index].date)):
             master_sheet.append(MasterSheet(*vaccine_data[vaccine_index], comment_data[comment_index].comment))
             vaccine_index += 1
             comment_index += 1
-        else:
+        elif comment_index < len(comment_data) and (current_date == date(comment_data[comment_index].date)):
+            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,0, comment_data[comment_index].comment))
+            comment_index += 1
+        elif vaccine_index < len(vaccine_data) and (current_date == date(vaccine_data[vaccine_index].date)):
             master_sheet.append(MasterSheet(*vaccine_data[vaccine_index], ''))
             vaccine_index += 1
-    while comment_index < len(comment_data):
-        current_date += timedelta(days=1)
-        if current_date == date(comment_data[comment_index].date):
-            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,0,comment_data[comment_index].comment))
-            comment_index += 1
         else:
-            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,0,''))
+            master_sheet.append(MasterSheet(stringify_date(current_date),0,0,0,0,0,0,0,0,0,0, ''))
     return master_sheet
 
 def create_new_rows(api_data: List[ApiData]):
