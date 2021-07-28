@@ -27,6 +27,10 @@ body {
   stroke-width: 2px;
 }
 
+.missing-data {
+  stroke-dasharray: 5,5;
+}
+
 .line-first-dose {
   fill: none;
   stroke: #73A5C6;

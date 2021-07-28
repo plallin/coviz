@@ -35,11 +35,20 @@ function svgAppendy(svg, yAxis, text) {
         .text(text);
 }
 
+function hseRansomwareTimeframe(date) {
+    return date >= parseDate("2021-MAY-12") && date <= parseDate("2021-JUN-29")
+}
+
 function svgAppendPath(svg, data, className, elem, legend) {
     svg.append("path")
         .datum(data)
+        .attr("d", elem.defined(function(d) { return hseRansomwareTimeframe(d.date)}))
+        .attr("class", `${className} missing-data`)
+        .attr("data-legend", legend);
+    svg.append("path")
+        .datum(data)
+        .attr("d", elem.defined(function(d) { return !(hseRansomwareTimeframe(d.date))}))
         .attr("class", className)
-        .attr("d", elem)
         .attr("data-legend", legend);
 }
 
