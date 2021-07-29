@@ -1719,6 +1719,58 @@
                 "othercohort1": 1382,
                 "othercohort2": 1066
             }
+        },
+        "1627470000000": {
+            "Covid19_Vaccine_Administration_Text_Date_View": {
+                "objectid": 128,
+                "globalid": "404813c2-5e74-46f4-8720-7bd2f44100b7",
+                "relDate": 1627470000000,
+                "dateText": "Wed, 28 Jul 2021"
+            },
+            "Covid19_Vaccine_Administration_VaccineTypeHostedView_V2": {
+                "objectid": 128,
+                "globalid": "404813c2-5e74-46f4-8720-7bd2f44100b7",
+                "relDate": 1627470000000,
+                "az": 1183550,
+                "pf": 3829148,
+                "modern": 504490,
+                "janssen": 209034
+            },
+            "Covid19_Vaccine_Administration_Hosted_View": {
+                "objectid": 128,
+                "globalid": "404813c2-5e74-46f4-8720-7bd2f44100b7",
+                "relDate": 1627470000000,
+                "firstDose": 3248996,
+                "secondDose": 2477226,
+                "totalAdministered": 5726222,
+                "az": 1183550,
+                "pf": 3829148,
+                "modern": 504490,
+                "cohort1": 114786,
+                "cohort1b": 109019,
+                "cohort2": 289500,
+                "cohort2b": 282219,
+                "cohort3": 476945,
+                "cohort3b": 460353,
+                "cohort4": 283282,
+                "cohort4b": 271966,
+                "cohort5": 340734,
+                "cohort5b": 330473,
+                "cohort7": 259118,
+                "cohort7b": 228952,
+                "cohort9": 1483263,
+                "cohort9b": 793176,
+                "totalcoh1": 223805,
+                "totalcoh2": 571719,
+                "totalcoh3": 937298,
+                "totalcoh4": 555248,
+                "totalcoh5": 671207,
+                "totalcoh7": 488070,
+                "totalcoh9": 2276439,
+                "totalcoh16": 2436,
+                "othercohort1": 1368,
+                "othercohort2": 1068
+            }
         }
     }
 }
