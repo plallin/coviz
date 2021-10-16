@@ -41,7 +41,6 @@ param_vax_per_type = {
 }
 
 res = requests.get(data_vax_per_type, params=param_vax_per_type)
-print(res.text)
 weekly_data = json.loads(res.text)['features']
 
 
