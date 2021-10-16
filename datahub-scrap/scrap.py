@@ -41,7 +41,7 @@ param_vax_per_type = {
 }
 
 res = requests.get(data_vax_per_type, params=param_vax_per_type)
-# print(res.text)
+print(res.text)
 weekly_data = json.loads(res.text)['features']
 
 
@@ -51,13 +51,13 @@ data = open("datahub-scrap/data.json", "r").read()
 json_data = json.loads(data)
 
 for d in daily_data:
-    date = d['attributes']['VaccinationDate']
+    date = str(d['attributes']['VaccinationDate'])
     if date not in json_data['data']:
         json_data['data'][date] = {}
     json_data['data'][date]['COVID19_Daily_Vaccination'] = d['attributes']
 
 for d in weekly_data:
-    date = d['attributes']['ExtractDate']
+    date = str(d['attributes']['Week'])
     if date not in json_data['data']:
         json_data['data'][date] = {}
     json_data['data'][date]['COVID19_Weekly_Vaccination_Figures'] = d['attributes']
