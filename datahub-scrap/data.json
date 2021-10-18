@@ -5147,6 +5147,114 @@
         }
     },
     "COVID19_Daily_Vaccination": {
+        "fields": [
+            {
+                "name": "VaccinationDate",
+                "type": "esriFieldTypeDate",
+                "alias": "Vaccination Date",
+                "sqlType": "sqlTypeTimestamp2",
+                "length": 8,
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "VaccineText",
+                "type": "esriFieldTypeString",
+                "alias": "Vaccine Text Date",
+                "sqlType": "sqlTypeNVarchar",
+                "length": 256,
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Dose1",
+                "type": "esriFieldTypeInteger",
+                "alias": "Dose1",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Dose2",
+                "type": "esriFieldTypeInteger",
+                "alias": "Dose 2",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "SingleDose",
+                "type": "esriFieldTypeInteger",
+                "alias": "Single Dose",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Dose1Cum",
+                "type": "esriFieldTypeInteger",
+                "alias": "Dose 1 Cumulative",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Dose2Cum",
+                "type": "esriFieldTypeInteger",
+                "alias": "Dose 2 Cumulative",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "SingleDoseCum",
+                "type": "esriFieldTypeInteger",
+                "alias": "Single Dose Cumulative",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "PartiallyVacc",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyVacc",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "PartialPercent",
+                "type": "esriFieldTypeDouble",
+                "alias": "% At Least One Dose of Pop. over age 12",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPercent",
+                "type": "esriFieldTypeDouble",
+                "alias": "% Fully vaccinated of Pop. over age 12",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ObjectId",
+                "type": "esriFieldTypeOID",
+                "alias": "ObjectId",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            }
+        ],
         "data": {
             "1609113600000": {
                 "VaccinationDate": 1609113600000,
@@ -9561,6 +9669,532 @@
         }
     },
     "COVID19_Weekly_Vaccination_Figures": {
+        "fields": [
+            {
+                "name": "ExtractDate",
+                "type": "esriFieldTypeDate",
+                "alias": "ExtractDate",
+                "sqlType": "sqlTypeNVarchar",
+                "length": 8,
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Week",
+                "type": "esriFieldTypeString",
+                "alias": "Week",
+                "sqlType": "sqlTypeNVarchar",
+                "length": 4000,
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "TotalweeklyVaccines",
+                "type": "esriFieldTypeInteger",
+                "alias": "Total Weekly Vaccines",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Male",
+                "type": "esriFieldTypeInteger",
+                "alias": "Male",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Female",
+                "type": "esriFieldTypeInteger",
+                "alias": "Female",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "NA",
+                "type": "esriFieldTypeInteger",
+                "alias": "Not Assigned",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Moderna",
+                "type": "esriFieldTypeInteger",
+                "alias": "Moderna",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Pfizer",
+                "type": "esriFieldTypeInteger",
+                "alias": "Pfizer",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Janssen",
+                "type": "esriFieldTypeInteger",
+                "alias": "Janssen",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "AstraZeneca",
+                "type": "esriFieldTypeInteger",
+                "alias": "AstraZeneca",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_Age10to19",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Age 10 to 19",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_Age20to29",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Age 20 to 29",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_Age30to39",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Age 30 to 39",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_Age40to49",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Age 40 to 49",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_Age50to59",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Age 50 to 59",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_Age60to69",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Age 60 to 69",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_Age70to79",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Age 70 to 79",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_Age80_",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Age80+",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Partial_NA",
+                "type": "esriFieldTypeInteger",
+                "alias": "At Least One Dose Not Assigned",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_Age10to19",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent  Age 10 to 19",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_Age20to29",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent Age 20 to 29",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_Age30to39",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent Age 30 to 39",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_Age40to49",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent Age 40 to 49",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_Age50to59",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent Age50 to 59",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_Age60to69",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent Age 60 to 69",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_Age70to79",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent  Age 70 to 79",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_80_",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent  80+",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParCum_NA",
+                "type": "esriFieldTypeInteger",
+                "alias": "Cumulative Percent Not Assigned",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_Age10to19",
+                "type": "esriFieldTypeDouble",
+                "alias": "At Least One Dose Percent  Age 10 to 19",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_Age20to29",
+                "type": "esriFieldTypeDouble",
+                "alias": "At Least One Dose Percent  Age 20 to 29",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_Age30to39",
+                "type": "esriFieldTypeDouble",
+                "alias": "At Least One Dose Percent  Age 30 to 39",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_Age40to49",
+                "type": "esriFieldTypeDouble",
+                "alias": "At Least One Dose Percent  Age 40 to 49",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_Age50to59",
+                "type": "esriFieldTypeDouble",
+                "alias": "At Least One Dose Percent  Age 50 to 59",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_Age60to69",
+                "type": "esriFieldTypeDouble",
+                "alias": "At Least One Dose Percent  Age 60 to 69",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_Age70to79",
+                "type": "esriFieldTypeDouble",
+                "alias": "At Least One Dose Percent  Age 70 to 79",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_80_",
+                "type": "esriFieldTypeDouble",
+                "alias": "At Least One Dose Percent  80+",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ParPer_NA",
+                "type": "esriFieldTypeString",
+                "alias": "At Least One Dose Percent  Not Assigned",
+                "sqlType": "sqlTypeNVarchar",
+                "length": 4000,
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_Age10to19",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Age 10 to 19",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_Age20to29",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Age 20 to 29",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_Age30to39",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated  Age 30 to 39",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_Age40to49",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Age 40 to 49",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_Age50to59",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated 50 to 59",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_Age60to69",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated 60 to 69",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_Age70to79",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated 70 to 79",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_Age80_",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated  Age80+",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "Fully_NA",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Not Assigned",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_Age10to19",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative Age10 to19",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_Age20to29",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative Age 20 to 29",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_Age30to39",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative Age 30 to 39",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_Age40to49",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative Age 40 to 49",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_Age50to59",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative Age 50 to 59",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_Age60to69",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative Age 60 to 69",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_Age70to79",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative Age 70 to 79",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_80_",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative 80+",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyCum_NA",
+                "type": "esriFieldTypeInteger",
+                "alias": "Fully Vaccinated Cumulative Not Assigned",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_Age10to19",
+                "type": "esriFieldTypeDouble",
+                "alias": "Fully Vaccinated Percent  Age 10 to 19",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_Age20to29",
+                "type": "esriFieldTypeDouble",
+                "alias": "Fully Vaccinated Percent  Age 20 to 29",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_Age30to39",
+                "type": "esriFieldTypeDouble",
+                "alias": "Fully Vaccinated Percent  Age 30 to 39",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_Age40to49",
+                "type": "esriFieldTypeDouble",
+                "alias": "Fully Vaccinated Percent  Age 40 to 49",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_Age50to59",
+                "type": "esriFieldTypeDouble",
+                "alias": "Fully Vaccinated Percent Age 50 to 59",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_Age60to69",
+                "type": "esriFieldTypeDouble",
+                "alias": "Fully Vaccinated Percent  Age 60 to 69",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_Age70to79",
+                "type": "esriFieldTypeDouble",
+                "alias": "Fully Vaccinated Percent  Age 70 to 79",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_80_",
+                "type": "esriFieldTypeDouble",
+                "alias": "Fully Vaccinated Percent  80+",
+                "sqlType": "sqlTypeFloat",
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "FullyPer_NA",
+                "type": "esriFieldTypeString",
+                "alias": "Fully Vaccinated Percent  Not Assigned",
+                "sqlType": "sqlTypeInteger",
+                "length": 256,
+                "domain": null,
+                "defaultValue": null
+            },
+            {
+                "name": "ObjectId",
+                "type": "esriFieldTypeOID",
+                "alias": "ObjectId",
+                "sqlType": "sqlTypeInteger",
+                "domain": null,
+                "defaultValue": null
+            }
+        ],
         "data": {
             "2020-W53": {
                 "ExtractDate": 1634511600000,
