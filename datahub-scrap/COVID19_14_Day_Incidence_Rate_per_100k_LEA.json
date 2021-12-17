@@ -1,0 +1,2602 @@
+{
+    "objectIdFieldName": "FID",
+    "uniqueIdField": {
+        "name": "FID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "geometryType": "esriGeometryPolygon",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [
+        {
+            "name": "FID",
+            "type": "esriFieldTypeOID",
+            "alias": "FID",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "LE_ID",
+            "type": "esriFieldTypeString",
+            "alias": "LEA ID",
+            "sqlType": "sqlTypeNVarchar",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "ENGLISH",
+            "type": "esriFieldTypeString",
+            "alias": "LEA English Name",
+            "sqlType": "sqlTypeNVarchar",
+            "length": 36,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "COUNTY",
+            "type": "esriFieldTypeString",
+            "alias": "County",
+            "sqlType": "sqlTypeNVarchar",
+            "length": 9,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "GUID",
+            "type": "esriFieldTypeString",
+            "alias": "GUID",
+            "sqlType": "sqlTypeNVarchar",
+            "length": 36,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Pop2016",
+            "type": "esriFieldTypeDouble",
+            "alias": "Population 2016",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "C19_P14_T",
+            "type": "esriFieldTypeString",
+            "alias": "14 Day Incidence",
+            "sqlType": "sqlTypeNVarchar",
+            "length": 254,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "P14_100k",
+            "type": "esriFieldTypeDouble",
+            "alias": "14 Day Incidence Per 100k (0 = <5 cases)",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "P14_100k_T",
+            "type": "esriFieldTypeString",
+            "alias": "14 Day Incidence Per 100k (0 = <5 cases)",
+            "sqlType": "sqlTypeNVarchar",
+            "length": 254,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Ire_IncP14",
+            "type": "esriFieldTypeDouble",
+            "alias": "14 Day Incidence Per 100k Ireland",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "EventDate",
+            "type": "esriFieldTypeDate",
+            "alias": "Event Date",
+            "sqlType": "sqlTypeTimestamp2",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "FID": 1,
+                "LE_ID": "13160403",
+                "ENGLISH": "RATOATH LEA-7",
+                "COUNTY": "MEATH",
+                "GUID": "2ae19629-3f1b-13a3-e055-000000000001",
+                "Pop2016": 33318,
+                "C19_P14_T": "596",
+                "P14_100k": 1788.8,
+                "P14_100k_T": "1788.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 2,
+                "LE_ID": "13210401",
+                "ENGLISH": "ROSCREA-TEMPLEMORE LEA-4",
+                "COUNTY": "TIPPERARY",
+                "GUID": "2ae19629-3f2d-13a3-e055-000000000001",
+                "Pop2016": 16594,
+                "C19_P14_T": "192",
+                "P14_100k": 1157,
+                "P14_100k_T": "1157",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 3,
+                "LE_ID": "13180401",
+                "ENGLISH": "TULLAMORE LEA-7",
+                "COUNTY": "OFFALY",
+                "GUID": "2ae19629-3f22-13a3-e055-000000000001",
+                "Pop2016": 29159,
+                "C19_P14_T": "344",
+                "P14_100k": 1179.7,
+                "P14_100k_T": "1179.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 4,
+                "LE_ID": "1360401",
+                "ENGLISH": "TUAM LEA-7",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3f49-13a3-e055-000000000001",
+                "Pop2016": 33191,
+                "C19_P14_T": "253",
+                "P14_100k": 762.3,
+                "P14_100k_T": "762.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 5,
+                "LE_ID": "13100400",
+                "ENGLISH": "BORRIS-IN-OSSORY -MOUNTMELLICK LEA-6",
+                "COUNTY": "LAOIS",
+                "GUID": "2ae19629-3eff-13a3-e055-000000000001",
+                "Pop2016": 24807,
+                "C19_P14_T": "279",
+                "P14_100k": 1124.7,
+                "P14_100k_T": "1124.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 6,
+                "LE_ID": "13230402",
+                "ENGLISH": "KINNEGAD LEA-5",
+                "COUNTY": "WESTMEATH",
+                "GUID": "2ae19629-3f38-13a3-e055-000000000001",
+                "Pop2016": 21674,
+                "C19_P14_T": "313",
+                "P14_100k": 1444.1,
+                "P14_100k_T": "1444.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 7,
+                "LE_ID": "13260428",
+                "ENGLISH": "DONAGHMEDE LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f5e-13a3-e055-000000000001",
+                "Pop2016": 41593,
+                "C19_P14_T": "726",
+                "P14_100k": 1745.5,
+                "P14_100k_T": "1745.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 8,
+                "LE_ID": "1350401",
+                "ENGLISH": "MILFORD LEA-3",
+                "COUNTY": "DONEGAL",
+                "GUID": "2ae19629-3f44-13a3-e055-000000000001",
+                "Pop2016": 13771,
+                "C19_P14_T": "118",
+                "P14_100k": 856.9,
+                "P14_100k_T": "856.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 9,
+                "LE_ID": "1360422",
+                "ENGLISH": "GALWAY CITY EAST LEA-6",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3f6a-13a3-e055-000000000001",
+                "Pop2016": 26595,
+                "C19_P14_T": "415",
+                "P14_100k": 1560.4,
+                "P14_100k_T": "1560.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 10,
+                "LE_ID": "13170402",
+                "ENGLISH": "BALLYBAY-CLONES LEA-5",
+                "COUNTY": "MONAGHAN",
+                "GUID": "2ae19629-3f20-13a3-e055-000000000001",
+                "Pop2016": 17255,
+                "C19_P14_T": "160",
+                "P14_100k": 927.3,
+                "P14_100k_T": "927.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 11,
+                "LE_ID": "1380405",
+                "ENGLISH": "CLANE LEA-5",
+                "COUNTY": "KILDARE",
+                "GUID": "2ae19629-3ef4-13a3-e055-999880000001",
+                "Pop2016": 28437,
+                "C19_P14_T": "417",
+                "P14_100k": 1466.4,
+                "P14_100k_T": "1466.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 12,
+                "LE_ID": "1320400",
+                "ENGLISH": "CAVAN - BELTURBET LEA-6",
+                "COUNTY": "CAVAN",
+                "GUID": "2ae19629-3f29-13a3-e055-000000000001",
+                "Pop2016": 25959,
+                "C19_P14_T": "221",
+                "P14_100k": 851.3,
+                "P14_100k_T": "851.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 13,
+                "LE_ID": "13260412",
+                "ENGLISH": "TALLAGHT CENTRAL LEA-6",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f51-13a3-e055-000000000001",
+                "Pop2016": 43215,
+                "C19_P14_T": "530",
+                "P14_100k": 1226.4,
+                "P14_100k_T": "1226.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 14,
+                "LE_ID": "13230401",
+                "ENGLISH": "MOATE LEA-4",
+                "COUNTY": "WESTMEATH",
+                "GUID": "2ae19629-3f37-13a3-e055-000000000001",
+                "Pop2016": 18444,
+                "C19_P14_T": "221",
+                "P14_100k": 1198.2,
+                "P14_100k_T": "1198.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 15,
+                "LE_ID": "13210400",
+                "ENGLISH": "NENAGH LEA-5",
+                "COUNTY": "TIPPERARY",
+                "GUID": "2ae19629-3f2c-13a3-e055-000000000001",
+                "Pop2016": 21373,
+                "C19_P14_T": "340",
+                "P14_100k": 1590.8,
+                "P14_100k_T": "1590.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 16,
+                "LE_ID": "13140400",
+                "ENGLISH": "DUNDALK-CARLINGFORD LEA-6",
+                "COUNTY": "LOUTH",
+                "GUID": "2ae19629-3f10-13a3-e055-000000000001",
+                "Pop2016": 25599,
+                "C19_P14_T": "308",
+                "P14_100k": 1203.2,
+                "P14_100k_T": "1203.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 17,
+                "LE_ID": "13260422",
+                "ENGLISH": "BALLYFERMOT-DRIMNAGH LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f58-13a3-e055-000000000001",
+                "Pop2016": 46068,
+                "C19_P14_T": "731",
+                "P14_100k": 1586.8,
+                "P14_100k_T": "1586.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 18,
+                "LE_ID": "13260406",
+                "ENGLISH": "DUNDRUM LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3efd-13a3-e055-000000000001",
+                "Pop2016": 37452,
+                "C19_P14_T": "430",
+                "P14_100k": 1148.1,
+                "P14_100k_T": "1148.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 19,
+                "LE_ID": "13260404",
+                "ENGLISH": "HOWTH-MALAHIDE LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3efb-13a3-e055-000000000001",
+                "Pop2016": 56139,
+                "C19_P14_T": "867",
+                "P14_100k": 1544.4,
+                "P14_100k_T": "1544.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 20,
+                "LE_ID": "13260419",
+                "ENGLISH": "PALMERSTOWN-FONTHILL LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3ef4-13a3-e055-999770000001",
+                "Pop2016": 38035,
+                "C19_P14_T": "679",
+                "P14_100k": 1785.2,
+                "P14_100k_T": "1785.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 21,
+                "LE_ID": "13220421",
+                "ENGLISH": "WATERFORD CITY SOUTH LEA-6",
+                "COUNTY": "WATERFORD",
+                "GUID": "2ae19629-3f34-13a3-e055-000000000001",
+                "Pop2016": 22476,
+                "C19_P14_T": "439",
+                "P14_100k": 1953.2,
+                "P14_100k_T": "1953.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 22,
+                "LE_ID": "13140402",
+                "ENGLISH": "ARDEE LEA-6",
+                "COUNTY": "LOUTH",
+                "GUID": "2ae19629-3f12-13a3-e055-000000000001",
+                "Pop2016": 25317,
+                "C19_P14_T": "346",
+                "P14_100k": 1366.7,
+                "P14_100k_T": "1366.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 23,
+                "LE_ID": "13140403",
+                "ENGLISH": "DROGHEDA RURAL LEA-4",
+                "COUNTY": "LOUTH",
+                "GUID": "2ae19629-3f13-13a3-e055-000000000001",
+                "Pop2016": 17876,
+                "C19_P14_T": "196",
+                "P14_100k": 1096.4,
+                "P14_100k_T": "1096.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 24,
+                "LE_ID": "13110400",
+                "ENGLISH": "MANORHAMILTON LEA-6",
+                "COUNTY": "LEITRIM",
+                "GUID": "2ae19629-3f04-13a3-e055-000000000001",
+                "Pop2016": 10821,
+                "C19_P14_T": "55",
+                "P14_100k": 508.3,
+                "P14_100k_T": "508.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 25,
+                "LE_ID": "13250403",
+                "ENGLISH": "WICKLOW LEA-6",
+                "COUNTY": "WICKLOW",
+                "GUID": "2ae19629-3ef5-13a3-e055-000000000001",
+                "Pop2016": 28219,
+                "C19_P14_T": "343",
+                "P14_100k": 1215.5,
+                "P14_100k_T": "1215.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 26,
+                "LE_ID": "13160402",
+                "ENGLISH": "ASHBOURNE LEA-6",
+                "COUNTY": "MEATH",
+                "GUID": "2ae19629-3f1a-13a3-e055-000000000001",
+                "Pop2016": 29081,
+                "C19_P14_T": "497",
+                "P14_100k": 1709,
+                "P14_100k_T": "1709",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 27,
+                "LE_ID": "13170400",
+                "ENGLISH": "MONAGHAN LEA-7",
+                "COUNTY": "MONAGHAN",
+                "GUID": "2ae19629-3f1e-13a3-e055-000000000001",
+                "Pop2016": 22695,
+                "C19_P14_T": "201",
+                "P14_100k": 885.7,
+                "P14_100k_T": "885.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 28,
+                "LE_ID": "13100402",
+                "ENGLISH": "GRAIGUECULLEN -PORTARLINGTON-LEA-6",
+                "COUNTY": "LAOIS",
+                "GUID": "2ae19629-3f01-13a3-e055-000000000001",
+                "Pop2016": 28096,
+                "C19_P14_T": "417",
+                "P14_100k": 1484.2,
+                "P14_100k_T": "1484.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 29,
+                "LE_ID": "13210404",
+                "ENGLISH": "CASHEL-TIPPERARY LEA-7",
+                "COUNTY": "TIPPERARY",
+                "GUID": "2ae19629-3f30-13a3-e055-000000000001",
+                "Pop2016": 27382,
+                "C19_P14_T": "329",
+                "P14_100k": 1201.5,
+                "P14_100k_T": "1201.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 30,
+                "LE_ID": "13250400",
+                "ENGLISH": "BALTINGLASS LEA-6",
+                "COUNTY": "WICKLOW",
+                "GUID": "2ae19629-3f3d-13a3-e055-000000000001",
+                "Pop2016": 26167,
+                "C19_P14_T": "416",
+                "P14_100k": 1589.8,
+                "P14_100k_T": "1589.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 31,
+                "LE_ID": "13260402",
+                "ENGLISH": "BLANCHARDSTOWN-MULHUDDART LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3ef9-13a3-e055-000000000001",
+                "Pop2016": 35307,
+                "C19_P14_T": "699",
+                "P14_100k": 1979.8,
+                "P14_100k_T": "1979.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 32,
+                "LE_ID": "13260405",
+                "ENGLISH": "STILLORGAN LEA-6",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3efc-13a3-e055-000000000001",
+                "Pop2016": 30508,
+                "C19_P14_T": "304",
+                "P14_100k": 996.5,
+                "P14_100k_T": "996.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 33,
+                "LE_ID": "13260425",
+                "ENGLISH": "SOUTH EAST INNER CITY LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f5b-13a3-e055-000000000001",
+                "Pop2016": 40603,
+                "C19_P14_T": "478",
+                "P14_100k": 1177.3,
+                "P14_100k_T": "1177.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 34,
+                "LE_ID": "1310400",
+                "ENGLISH": "CARLOW LEA-7",
+                "COUNTY": "CARLOW",
+                "GUID": "2ae19629-3f02-13a3-e055-000000000001",
+                "Pop2016": 22650,
+                "C19_P14_T": "303",
+                "P14_100k": 1337.7,
+                "P14_100k_T": "1337.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 35,
+                "LE_ID": "1340400",
+                "ENGLISH": "KANTURK LEA-4",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3f63-13a3-e055-000000000001",
+                "Pop2016": 24935,
+                "C19_P14_T": "234",
+                "P14_100k": 938.4,
+                "P14_100k_T": "938.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 36,
+                "LE_ID": "1390402",
+                "ENGLISH": "PILTOWN LEA-5",
+                "COUNTY": "KILKENNY",
+                "GUID": "2ae19629-3f76-13a3-e055-000000000001",
+                "Pop2016": 21343,
+                "C19_P14_T": "320",
+                "P14_100k": 1499.3,
+                "P14_100k_T": "1499.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 37,
+                "LE_ID": "13260426",
+                "ENGLISH": "NORTH INNER CITY LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f5c-13a3-e055-000000000001",
+                "Pop2016": 63612,
+                "C19_P14_T": "865",
+                "P14_100k": 1359.8,
+                "P14_100k_T": "1359.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 38,
+                "LE_ID": "13150403",
+                "ENGLISH": "BELMULLET-LEA-3",
+                "COUNTY": "MAYO",
+                "GUID": "2ae19629-3f17-13a3-e055-000000000001",
+                "Pop2016": 12600,
+                "C19_P14_T": "81",
+                "P14_100k": 642.9,
+                "P14_100k_T": "642.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 39,
+                "LE_ID": "13260430",
+                "ENGLISH": "SOUTH WEST INNER CITY LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3ef4-13a3-e055-999660000001",
+                "Pop2016": 42344,
+                "C19_P14_T": "656",
+                "P14_100k": 1549.2,
+                "P14_100k_T": "1549.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 40,
+                "LE_ID": "1340403",
+                "ENGLISH": "CARRIGALINE LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3f66-13a3-e055-000000000001",
+                "Pop2016": 35141,
+                "C19_P14_T": "457",
+                "P14_100k": 1300.5,
+                "P14_100k_T": "1300.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 41,
+                "LE_ID": "1390400",
+                "ENGLISH": "CASTLECOMER LEA-6",
+                "COUNTY": "KILKENNY",
+                "GUID": "2ae19629-3f74-13a3-e055-000000000001",
+                "Pop2016": 23581,
+                "C19_P14_T": "264",
+                "P14_100k": 1119.5,
+                "P14_100k_T": "1119.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 42,
+                "LE_ID": "13260400",
+                "ENGLISH": "RUSH-LUSK LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3ef7-13a3-e055-000000000001",
+                "Pop2016": 34674,
+                "C19_P14_T": "648",
+                "P14_100k": 1868.8,
+                "P14_100k_T": "1868.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 43,
+                "LE_ID": "13150401",
+                "ENGLISH": "CLAREMORRIS LEA-6",
+                "COUNTY": "MAYO",
+                "GUID": "2ae19629-3f15-13a3-e055-000000000001",
+                "Pop2016": 27141,
+                "C19_P14_T": "209",
+                "P14_100k": 770.1,
+                "P14_100k_T": "770.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 44,
+                "LE_ID": "1370402",
+                "ENGLISH": "KILLARNEY LEA-7",
+                "COUNTY": "KERRY",
+                "GUID": "2ae19629-3f6d-13a3-e055-000000000001",
+                "Pop2016": 29607,
+                "C19_P14_T": "393",
+                "P14_100k": 1327.4,
+                "P14_100k_T": "1327.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 45,
+                "LE_ID": "13220420",
+                "ENGLISH": "TRAMORE-WATERFORD CITY WEST LEA-6",
+                "COUNTY": "WATERFORD",
+                "GUID": "2ae19629-3f33-13a3-e055-000000000001",
+                "Pop2016": 22372,
+                "C19_P14_T": "276",
+                "P14_100k": 1233.7,
+                "P14_100k_T": "1233.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 46,
+                "LE_ID": "1360404",
+                "ENGLISH": "ATHENRY-ORANMORE LEA-7",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3f4c-13a3-e055-000000000001",
+                "Pop2016": 32833,
+                "C19_P14_T": "280",
+                "P14_100k": 852.8,
+                "P14_100k_T": "852.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 47,
+                "LE_ID": "1340414",
+                "ENGLISH": "CORK CITY SOUTH WEST LEA-7",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3ef4-13a3-e055-000012000001",
+                "Pop2016": 47049,
+                "C19_P14_T": "814",
+                "P14_100k": 1730.1,
+                "P14_100k_T": "1730.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 48,
+                "LE_ID": "13200400",
+                "ENGLISH": "BALLYMOTE-TOBERCURRY LEA-7",
+                "COUNTY": "SLIGO",
+                "GUID": "2ae19629-3f27-13a3-e055-000000000001",
+                "Pop2016": 26731,
+                "C19_P14_T": "206",
+                "P14_100k": 770.6,
+                "P14_100k_T": "770.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 49,
+                "LE_ID": "13120421",
+                "ENGLISH": "LIMERICK CITY NORTH LEA-7",
+                "COUNTY": "LIMERICK",
+                "GUID": "2ae19629-3f0b-13a3-e055-000000000001",
+                "Pop2016": 34714,
+                "C19_P14_T": "325",
+                "P14_100k": 936.2,
+                "P14_100k_T": "936.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 50,
+                "LE_ID": "1360403",
+                "ENGLISH": "LOUGHREA LEA-5",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3f4b-13a3-e055-000000000001",
+                "Pop2016": 23219,
+                "C19_P14_T": "261",
+                "P14_100k": 1124.1,
+                "P14_100k_T": "1124.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 51,
+                "LE_ID": "1340411",
+                "ENGLISH": "CORK CITY NORTH EAST LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3ef4-13a3-e055-999440000001",
+                "Pop2016": 42169,
+                "C19_P14_T": "661",
+                "P14_100k": 1567.5,
+                "P14_100k_T": "1567.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 52,
+                "LE_ID": "13160400",
+                "ENGLISH": "KELLS LEA-7",
+                "COUNTY": "MEATH",
+                "GUID": "2ae19629-3f18-13a3-e055-000000000001",
+                "Pop2016": 32398,
+                "C19_P14_T": "371",
+                "P14_100k": 1145.1,
+                "P14_100k_T": "1145.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 53,
+                "LE_ID": "13240400",
+                "ENGLISH": "GOREY LEA-6",
+                "COUNTY": "WEXFORD",
+                "GUID": "2ae19629-3f39-13a3-e055-000000000001",
+                "Pop2016": 27351,
+                "C19_P14_T": "393",
+                "P14_100k": 1436.9,
+                "P14_100k_T": "1436.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 54,
+                "LE_ID": "1360405",
+                "ENGLISH": "GORT-KINVARA LEA-5",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3ef4-13a3-e055-999330000001",
+                "Pop2016": 23505,
+                "C19_P14_T": "199",
+                "P14_100k": 846.6,
+                "P14_100k_T": "846.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 55,
+                "LE_ID": "13260416",
+                "ENGLISH": "CLONDALKIN LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f55-13a3-e055-000000000001",
+                "Pop2016": 46520,
+                "C19_P14_T": "778",
+                "P14_100k": 1672.4,
+                "P14_100k_T": "1672.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 56,
+                "LE_ID": "13180400",
+                "ENGLISH": "BIRR LEA-6",
+                "COUNTY": "OFFALY",
+                "GUID": "2ae19629-3f21-13a3-e055-000000000001",
+                "Pop2016": 25476,
+                "C19_P14_T": "286",
+                "P14_100k": 1122.6,
+                "P14_100k_T": "1122.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 57,
+                "LE_ID": "13260420",
+                "ENGLISH": "BALLYMUN-FINGLAS LEA-6",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f56-13a3-e055-000000000001",
+                "Pop2016": 55010,
+                "C19_P14_T": "953",
+                "P14_100k": 1732.4,
+                "P14_100k_T": "1732.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 58,
+                "LE_ID": "13240404",
+                "ENGLISH": "WEXFORD LEA-7",
+                "COUNTY": "WEXFORD",
+                "GUID": "2ae19629-3ef4-13a3-e055-000024000001",
+                "Pop2016": 29114,
+                "C19_P14_T": "348",
+                "P14_100k": 1195.3,
+                "P14_100k_T": "1195.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 59,
+                "LE_ID": "13240401",
+                "ENGLISH": "KILMUCKRIDGE LEA-4",
+                "COUNTY": "WEXFORD",
+                "GUID": "2ae19629-3f3a-13a3-e055-000000000001",
+                "Pop2016": 16725,
+                "C19_P14_T": "168",
+                "P14_100k": 1004.5,
+                "P14_100k_T": "1004.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 60,
+                "LE_ID": "1370400",
+                "ENGLISH": "LISTOWEL LEA-6",
+                "COUNTY": "KERRY",
+                "GUID": "2ae19629-3f6b-13a3-e055-000000000001",
+                "Pop2016": 28674,
+                "C19_P14_T": "283",
+                "P14_100k": 987,
+                "P14_100k_T": "987",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 61,
+                "LE_ID": "1350406",
+                "ENGLISH": "LIFFORD-STRANORLAR LEA-6",
+                "COUNTY": "DONEGAL",
+                "GUID": "2ae19629-3ef4-13a3-e055-075000000001",
+                "Pop2016": 25889,
+                "C19_P14_T": "299",
+                "P14_100k": 1154.9,
+                "P14_100k_T": "1154.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 62,
+                "LE_ID": "1330404",
+                "ENGLISH": "KILRUSH LEA-5",
+                "COUNTY": "CLARE",
+                "GUID": "2ae19629-3ef4-13a3-e055-000000044001",
+                "Pop2016": 20994,
+                "C19_P14_T": "172",
+                "P14_100k": 819.3,
+                "P14_100k_T": "819.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 63,
+                "LE_ID": "1340412",
+                "ENGLISH": "CORK CITY SOUTH EAST LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3ef4-13a3-e055-999990000001",
+                "Pop2016": 42782,
+                "C19_P14_T": "611",
+                "P14_100k": 1428.2,
+                "P14_100k_T": "1428.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 64,
+                "LE_ID": "1340402",
+                "ENGLISH": "MIDLETON LEA-7",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3f65-13a3-e055-000000000001",
+                "Pop2016": 45441,
+                "C19_P14_T": "666",
+                "P14_100k": 1465.6,
+                "P14_100k_T": "1465.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 65,
+                "LE_ID": "13120400",
+                "ENGLISH": "NEWCASTLE WEST LEA-6",
+                "COUNTY": "LIMERICK",
+                "GUID": "2ae19629-3f07-13a3-e055-000000000001",
+                "Pop2016": 27416,
+                "C19_P14_T": "169",
+                "P14_100k": 616.4,
+                "P14_100k_T": "616.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 66,
+                "LE_ID": "13250405",
+                "ENGLISH": "BRAY EAST LEA-4",
+                "COUNTY": "WICKLOW",
+                "GUID": "2ae19629-3ef4-13a3-e055-999220000001",
+                "Pop2016": 17127,
+                "C19_P14_T": "150",
+                "P14_100k": 875.8,
+                "P14_100k_T": "875.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 67,
+                "LE_ID": "1390401",
+                "ENGLISH": "KILKENNY LEA-7",
+                "COUNTY": "KILKENNY",
+                "GUID": "2ae19629-3f75-13a3-e055-000000000001",
+                "Pop2016": 28951,
+                "C19_P14_T": "438",
+                "P14_100k": 1512.9,
+                "P14_100k_T": "1512.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 68,
+                "LE_ID": "13130402",
+                "ENGLISH": "LONGFORD LEA-7",
+                "COUNTY": "LONGFORD",
+                "GUID": "2ae19629-3f0f-13a3-e055-000000000001",
+                "Pop2016": 16046,
+                "C19_P14_T": "168",
+                "P14_100k": 1047,
+                "P14_100k_T": "1047",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 69,
+                "LE_ID": "1380400",
+                "ENGLISH": "MAYNOOTH LEA-5",
+                "COUNTY": "KILDARE",
+                "GUID": "2ae19629-3f6f-13a3-e055-000000000001",
+                "Pop2016": 29730,
+                "C19_P14_T": "562",
+                "P14_100k": 1890.3,
+                "P14_100k_T": "1890.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 70,
+                "LE_ID": "13180402",
+                "ENGLISH": "EDENDERRY LEA-6",
+                "COUNTY": "OFFALY",
+                "GUID": "2ae19629-3f23-13a3-e055-000000000001",
+                "Pop2016": 23326,
+                "C19_P14_T": "393",
+                "P14_100k": 1684.8,
+                "P14_100k_T": "1684.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 71,
+                "LE_ID": "13140404",
+                "ENGLISH": "DROGHEDA URBAN LEA-6",
+                "COUNTY": "LOUTH",
+                "GUID": "2ae19629-3ef4-13a3-e055-997550000001",
+                "Pop2016": 27656,
+                "C19_P14_T": "313",
+                "P14_100k": 1131.8,
+                "P14_100k_T": "1131.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 72,
+                "LE_ID": "13100401",
+                "ENGLISH": "PORTLAOISE LEA-7",
+                "COUNTY": "LAOIS",
+                "GUID": "2ae19629-3f00-13a3-e055-000000000001",
+                "Pop2016": 31794,
+                "C19_P14_T": "665",
+                "P14_100k": 2091.6,
+                "P14_100k_T": "2091.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 73,
+                "LE_ID": "13260417",
+                "ENGLISH": "BALBRIGGAN LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3ef4-13a3-e055-997440000001",
+                "Pop2016": 36570,
+                "C19_P14_T": "479",
+                "P14_100k": 1309.8,
+                "P14_100k_T": "1309.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 74,
+                "LE_ID": "13260414",
+                "ENGLISH": "FIRHOUSE-BOHERNABREENA LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f53-13a3-e055-000000000001",
+                "Pop2016": 34202,
+                "C19_P14_T": "540",
+                "P14_100k": 1578.9,
+                "P14_100k_T": "1578.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 75,
+                "LE_ID": "1380402",
+                "ENGLISH": "NAAS LEA-7",
+                "COUNTY": "KILDARE",
+                "GUID": "2ae19629-3f71-13a3-e055-000000000001",
+                "Pop2016": 39126,
+                "C19_P14_T": "671",
+                "P14_100k": 1715,
+                "P14_100k_T": "1715",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 76,
+                "LE_ID": "1360400",
+                "ENGLISH": "CONAMARA NORTH LEA-4",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3f48-13a3-e055-000000000001",
+                "Pop2016": 17191,
+                "C19_P14_T": "174",
+                "P14_100k": 1012.2,
+                "P14_100k_T": "1012.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 77,
+                "LE_ID": "13210403",
+                "ENGLISH": "CLONMEL LEA-6",
+                "COUNTY": "TIPPERARY",
+                "GUID": "2ae19629-3f2f-13a3-e055-000000000001",
+                "Pop2016": 24310,
+                "C19_P14_T": "460",
+                "P14_100k": 1892.2,
+                "P14_100k_T": "1892.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 78,
+                "LE_ID": "1320401",
+                "ENGLISH": "BAILIEBOROUGH - COOTEHILL LEA-6",
+                "COUNTY": "CAVAN",
+                "GUID": "2ae19629-3f2a-13a3-e055-000000000001",
+                "Pop2016": 24415,
+                "C19_P14_T": "241",
+                "P14_100k": 987.1,
+                "P14_100k_T": "987.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 79,
+                "LE_ID": "1310401",
+                "ENGLISH": "TULLOW LEA-6",
+                "COUNTY": "CARLOW",
+                "GUID": "2ae19629-3f03-13a3-e055-000000000001",
+                "Pop2016": 18652,
+                "C19_P14_T": "341",
+                "P14_100k": 1828.2,
+                "P14_100k_T": "1828.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 80,
+                "LE_ID": "1360406",
+                "ENGLISH": "CONAMARA SOUTH LEA-5",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3ef4-13a3-e055-994560000001",
+                "Pop2016": 21341,
+                "C19_P14_T": "233",
+                "P14_100k": 1091.8,
+                "P14_100k_T": "1091.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 81,
+                "LE_ID": "13250404",
+                "ENGLISH": "ARKLOW LEA-6",
+                "COUNTY": "WICKLOW",
+                "GUID": "2ae19629-3ef6-13a3-e055-000000000001",
+                "Pop2016": 26185,
+                "C19_P14_T": "282",
+                "P14_100k": 1077,
+                "P14_100k_T": "1077",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 82,
+                "LE_ID": "1380406",
+                "ENGLISH": "LEIXLIP LEA-3",
+                "COUNTY": "KILDARE",
+                "GUID": "2ae19629-3ef4-13a3-e055-994510000001",
+                "Pop2016": 15860,
+                "C19_P14_T": "219",
+                "P14_100k": 1380.8,
+                "P14_100k_T": "1380.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 83,
+                "LE_ID": "13130400",
+                "ENGLISH": "GRANARD LEA-5",
+                "COUNTY": "LONGFORD",
+                "GUID": "2ae19629-3f0d-13a3-e055-000000000001",
+                "Pop2016": 10674,
+                "C19_P14_T": "71",
+                "P14_100k": 665.2,
+                "P14_100k_T": "665.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 84,
+                "LE_ID": "13140401",
+                "ENGLISH": "DUNDALK SOUTH LEA-7",
+                "COUNTY": "LOUTH",
+                "GUID": "2ae19629-3f11-13a3-e055-000000000001",
+                "Pop2016": 32436,
+                "C19_P14_T": "443",
+                "P14_100k": 1365.8,
+                "P14_100k_T": "1365.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 85,
+                "LE_ID": "1340407",
+                "ENGLISH": "SKIBBEREEN-WEST CORK LEA-5",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3f42-13a3-e055-000000000001",
+                "Pop2016": 30281,
+                "C19_P14_T": "242",
+                "P14_100k": 799.2,
+                "P14_100k_T": "799.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 86,
+                "LE_ID": "13260421",
+                "ENGLISH": "CABRA-GLASNEVIN LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f57-13a3-e055-000000000001",
+                "Pop2016": 58652,
+                "C19_P14_T": "929",
+                "P14_100k": 1583.9,
+                "P14_100k_T": "1583.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 87,
+                "LE_ID": "1390403",
+                "ENGLISH": "CALLAN-THOMASTOWN LEA-6",
+                "COUNTY": "KILKENNY",
+                "GUID": "2ae19629-3f77-13a3-e055-000000000001",
+                "Pop2016": 25357,
+                "C19_P14_T": "361",
+                "P14_100k": 1423.7,
+                "P14_100k_T": "1423.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 88,
+                "LE_ID": "13240402",
+                "ENGLISH": "NEW ROSS LEA-6",
+                "COUNTY": "WEXFORD",
+                "GUID": "2ae19629-3f3b-13a3-e055-000000000001",
+                "Pop2016": 27739,
+                "C19_P14_T": "314",
+                "P14_100k": 1132,
+                "P14_100k_T": "1132",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 89,
+                "LE_ID": "13210402",
+                "ENGLISH": "CARRICK-ON-SUIR  LEA-5",
+                "COUNTY": "TIPPERARY",
+                "GUID": "2ae19629-3f2e-13a3-e055-000000000001",
+                "Pop2016": 19440,
+                "C19_P14_T": "271",
+                "P14_100k": 1394,
+                "P14_100k_T": "1394",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 90,
+                "LE_ID": "13230400",
+                "ENGLISH": "ATHLONE LEA-5",
+                "COUNTY": "WESTMEATH",
+                "GUID": "2ae19629-3f36-13a3-e055-000000000001",
+                "Pop2016": 22692,
+                "C19_P14_T": "310",
+                "P14_100k": 1366.1,
+                "P14_100k_T": "1366.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 91,
+                "LE_ID": "13150400",
+                "ENGLISH": "BALLINA LEA-6",
+                "COUNTY": "MAYO",
+                "GUID": "2ae19629-3f14-13a3-e055-000000000001",
+                "Pop2016": 25110,
+                "C19_P14_T": "182",
+                "P14_100k": 724.8,
+                "P14_100k_T": "724.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 92,
+                "LE_ID": "1350404",
+                "ENGLISH": "DONEGAL LEA-6",
+                "COUNTY": "DONEGAL",
+                "GUID": "2ae19629-3f47-13a3-e055-000000000001",
+                "Pop2016": 26492,
+                "C19_P14_T": "266",
+                "P14_100k": 1004.1,
+                "P14_100k_T": "1004.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 93,
+                "LE_ID": "1360402",
+                "ENGLISH": "BALLINASLOE LEA-6",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3f4a-13a3-e055-000000000001",
+                "Pop2016": 28110,
+                "C19_P14_T": "275",
+                "P14_100k": 978.3,
+                "P14_100k_T": "978.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 94,
+                "LE_ID": "13210405",
+                "ENGLISH": "NEWPORT LEA-4",
+                "COUNTY": "TIPPERARY",
+                "GUID": "2ae19629-3ef4-13a3-e055-662310000001",
+                "Pop2016": 16355,
+                "C19_P14_T": "222",
+                "P14_100k": 1357.4,
+                "P14_100k_T": "1357.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 95,
+                "LE_ID": "13260403",
+                "ENGLISH": "CASTLEKNOCK LEA-6",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3efa-13a3-e055-000000000001",
+                "Pop2016": 46126,
+                "C19_P14_T": "781",
+                "P14_100k": 1693.2,
+                "P14_100k_T": "1693.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 96,
+                "LE_ID": "13120401",
+                "ENGLISH": "ADARE-RATHKEALE LEA-6",
+                "COUNTY": "LIMERICK",
+                "GUID": "2ae19629-3f08-13a3-e055-000000000001",
+                "Pop2016": 27710,
+                "C19_P14_T": "190",
+                "P14_100k": 685.7,
+                "P14_100k_T": "685.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 97,
+                "LE_ID": "13240403",
+                "ENGLISH": "ROSSLARE LEA-5",
+                "COUNTY": "WEXFORD",
+                "GUID": "2ae19629-3f3c-13a3-e055-000000000001",
+                "Pop2016": 21540,
+                "C19_P14_T": "240",
+                "P14_100k": 1114.2,
+                "P14_100k_T": "1114.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 98,
+                "LE_ID": "1340410",
+                "ENGLISH": "CORK CITY NORTH WEST LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3ef4-13a3-e055-774560000001",
+                "Pop2016": 40186,
+                "C19_P14_T": "638",
+                "P14_100k": 1587.6,
+                "P14_100k_T": "1587.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 99,
+                "LE_ID": "1340401",
+                "ENGLISH": "FERMOY LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3f64-13a3-e055-000000000001",
+                "Pop2016": 36406,
+                "C19_P14_T": "484",
+                "P14_100k": 1329.5,
+                "P14_100k_T": "1329.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 100,
+                "LE_ID": "13260424",
+                "ENGLISH": "PEMBROKE LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f5a-13a3-e055-000000000001",
+                "Pop2016": 45473,
+                "C19_P14_T": "519",
+                "P14_100k": 1141.3,
+                "P14_100k_T": "1141.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 101,
+                "LE_ID": "13260411",
+                "ENGLISH": "LUCAN LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f50-13a3-e055-000000000001",
+                "Pop2016": 33421,
+                "C19_P14_T": "626",
+                "P14_100k": 1873.1,
+                "P14_100k_T": "1873.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 102,
+                "LE_ID": "13250402",
+                "ENGLISH": "GREYSTONES LEA-6",
+                "COUNTY": "WICKLOW",
+                "GUID": "2ae19629-3ef4-13a3-e055-000000000001",
+                "Pop2016": 26323,
+                "C19_P14_T": "358",
+                "P14_100k": 1360,
+                "P14_100k_T": "1360",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 103,
+                "LE_ID": "13260413",
+                "ENGLISH": "RATHFARNHAM-TEMPLEOGUE LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f52-13a3-e055-000000000001",
+                "Pop2016": 47909,
+                "C19_P14_T": "632",
+                "P14_100k": 1319.2,
+                "P14_100k_T": "1319.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 104,
+                "LE_ID": "1310402",
+                "ENGLISH": "MUINEBEAG LEA-5",
+                "COUNTY": "CARLOW",
+                "GUID": "2ae19629-3ef4-13a3-e055-553330000001",
+                "Pop2016": 15630,
+                "C19_P14_T": "215",
+                "P14_100k": 1375.6,
+                "P14_100k_T": "1375.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 105,
+                "LE_ID": "1370401",
+                "ENGLISH": "CASTLEISLAND LEA-4",
+                "COUNTY": "KERRY",
+                "GUID": "2ae19629-3f6c-13a3-e055-000000000001",
+                "Pop2016": 17145,
+                "C19_P14_T": "134",
+                "P14_100k": 781.6,
+                "P14_100k_T": "781.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 106,
+                "LE_ID": "13160401",
+                "ENGLISH": "LAYTOWN  BETTYSTOWN-LEA-7",
+                "COUNTY": "MEATH",
+                "GUID": "2ae19629-3f19-13a3-e055-000000000001",
+                "Pop2016": 34121,
+                "C19_P14_T": "542",
+                "P14_100k": 1588.5,
+                "P14_100k_T": "1588.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 107,
+                "LE_ID": "1340404",
+                "ENGLISH": "COBH LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3f67-13a3-e055-000000000001",
+                "Pop2016": 34117,
+                "C19_P14_T": "612",
+                "P14_100k": 1793.8,
+                "P14_100k_T": "1793.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 108,
+                "LE_ID": "13220422",
+                "ENGLISH": "WATERFORD CITY EAST LEA-6",
+                "COUNTY": "WATERFORD",
+                "GUID": "2ae19629-3f35-13a3-e055-000000000001",
+                "Pop2016": 22987,
+                "C19_P14_T": "260",
+                "P14_100k": 1131.1,
+                "P14_100k_T": "1131.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 109,
+                "LE_ID": "1360420",
+                "ENGLISH": "GALWAY CITY WEST LEA-6",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3f4d-13a3-e055-000000000001",
+                "Pop2016": 25371,
+                "C19_P14_T": "319",
+                "P14_100k": 1257.3,
+                "P14_100k_T": "1257.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 110,
+                "LE_ID": "1340408",
+                "ENGLISH": "MACROOM LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3ef4-13a3-e055-222220000001",
+                "Pop2016": 36844,
+                "C19_P14_T": "520",
+                "P14_100k": 1411.4,
+                "P14_100k_T": "1411.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 111,
+                "LE_ID": "13220400",
+                "ENGLISH": "DUNGARVAN LEA-6",
+                "COUNTY": "WATERFORD",
+                "GUID": "2ae19629-3f31-13a3-e055-000000000001",
+                "Pop2016": 20497,
+                "C19_P14_T": "238",
+                "P14_100k": 1161.1,
+                "P14_100k_T": "1161.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 112,
+                "LE_ID": "13250401",
+                "ENGLISH": "BRAY WEST LEA-4",
+                "COUNTY": "WICKLOW",
+                "GUID": "2ae19629-3f3e-13a3-e055-000000000001",
+                "Pop2016": 18404,
+                "C19_P14_T": "185",
+                "P14_100k": 1005.2,
+                "P14_100k_T": "1005.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 113,
+                "LE_ID": "1320402",
+                "ENGLISH": "BALLYJAMESDUFF LEA-6",
+                "COUNTY": "CAVAN",
+                "GUID": "2ae19629-3f2b-13a3-e055-000000000001",
+                "Pop2016": 25802,
+                "C19_P14_T": "240",
+                "P14_100k": 930.2,
+                "P14_100k_T": "930.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 114,
+                "LE_ID": "1340409",
+                "ENGLISH": "MALLOW LEA-5",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3ef4-13a3-e055-444440000001",
+                "Pop2016": 29157,
+                "C19_P14_T": "348",
+                "P14_100k": 1193.5,
+                "P14_100k_T": "1193.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 115,
+                "LE_ID": "1380407",
+                "ENGLISH": "NEWBRIDGE LEA-6",
+                "COUNTY": "KILDARE",
+                "GUID": "2ae19629-3ef4-13a3-e055-777770000001",
+                "Pop2016": 35482,
+                "C19_P14_T": "675",
+                "P14_100k": 1902.4,
+                "P14_100k_T": "1902.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 116,
+                "LE_ID": "13160405",
+                "ENGLISH": "NAVAN LEA-7",
+                "COUNTY": "MEATH",
+                "GUID": "2ae19629-3f1d-13a3-e055-000000000001",
+                "Pop2016": 34931,
+                "C19_P14_T": "472",
+                "P14_100k": 1351.2,
+                "P14_100k_T": "1351.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 117,
+                "LE_ID": "13190402",
+                "ENGLISH": "ATHLONE LEA-6",
+                "COUNTY": "ROSCOMMON",
+                "GUID": "2ae19629-3f26-13a3-e055-000000000001",
+                "Pop2016": 19979,
+                "C19_P14_T": "313",
+                "P14_100k": 1566.6,
+                "P14_100k_T": "1566.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 118,
+                "LE_ID": "13130401",
+                "ENGLISH": "BALLYMAHON LEA-6",
+                "COUNTY": "LONGFORD",
+                "GUID": "2ae19629-3f0e-13a3-e055-000000000001",
+                "Pop2016": 14153,
+                "C19_P14_T": "191",
+                "P14_100k": 1349.5,
+                "P14_100k_T": "1349.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 119,
+                "LE_ID": "1370405",
+                "ENGLISH": "TRALEE LEA-7",
+                "COUNTY": "KERRY",
+                "GUID": "2ae19629-3ef4-13a3-e055-000005600001",
+                "Pop2016": 33038,
+                "C19_P14_T": "598",
+                "P14_100k": 1810,
+                "P14_100k_T": "1810",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 120,
+                "LE_ID": "1360421",
+                "ENGLISH": "GALWAY CITY CENTRAL LEA-6",
+                "COUNTY": "GALWAY",
+                "GUID": "2ae19629-3f69-13a3-e055-000000000001",
+                "Pop2016": 26702,
+                "C19_P14_T": "400",
+                "P14_100k": 1498,
+                "P14_100k_T": "1498",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 121,
+                "LE_ID": "13260423",
+                "ENGLISH": "KIMMAGE-RATHMINES LEA-6",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f59-13a3-e055-000000000001",
+                "Pop2016": 55861,
+                "C19_P14_T": "777",
+                "P14_100k": 1391,
+                "P14_100k_T": "1391",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 122,
+                "LE_ID": "13120422",
+                "ENGLISH": "LIMERICK CITY EAST LEA-7",
+                "COUNTY": "LIMERICK",
+                "GUID": "2ae19629-3f0c-13a3-e055-000000000001",
+                "Pop2016": 35342,
+                "C19_P14_T": "437",
+                "P14_100k": 1236.5,
+                "P14_100k_T": "1236.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 123,
+                "LE_ID": "13210406",
+                "ENGLISH": "THURLES LEA-5",
+                "COUNTY": "TIPPERARY",
+                "GUID": "2ae19629-3ef4-13a3-e055-000005500001",
+                "Pop2016": 19382,
+                "C19_P14_T": "211",
+                "P14_100k": 1088.6,
+                "P14_100k_T": "1088.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 124,
+                "LE_ID": "13190401",
+                "ENGLISH": "ROSCOMMON LEA-6",
+                "COUNTY": "ROSCOMMON",
+                "GUID": "2ae19629-3f25-13a3-e055-000000000001",
+                "Pop2016": 22734,
+                "C19_P14_T": "211",
+                "P14_100k": 928.1,
+                "P14_100k_T": "928.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 125,
+                "LE_ID": "1380404",
+                "ENGLISH": "KILDARE LEA-5",
+                "COUNTY": "KILDARE",
+                "GUID": "2ae19629-3f73-13a3-e055-000000000001",
+                "Pop2016": 25702,
+                "C19_P14_T": "433",
+                "P14_100k": 1684.7,
+                "P14_100k_T": "1684.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 126,
+                "LE_ID": "1350402",
+                "ENGLISH": "CARNDONAGH LEA-4",
+                "COUNTY": "DONEGAL",
+                "GUID": "2ae19629-3f45-13a3-e055-000000000001",
+                "Pop2016": 16964,
+                "C19_P14_T": "181",
+                "P14_100k": 1067,
+                "P14_100k_T": "1067",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 127,
+                "LE_ID": "1330401",
+                "ENGLISH": "KILLALOE LEA-5",
+                "COUNTY": "CLARE",
+                "GUID": "2ae19629-3f60-13a3-e055-000000000001",
+                "Pop2016": 20108,
+                "C19_P14_T": "205",
+                "P14_100k": 1019.5,
+                "P14_100k_T": "1019.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 128,
+                "LE_ID": "1340405",
+                "ENGLISH": "BANDON - KINSALE LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3f68-13a3-e055-000000000001",
+                "Pop2016": 37269,
+                "C19_P14_T": "612",
+                "P14_100k": 1642.1,
+                "P14_100k_T": "1642.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 129,
+                "LE_ID": "13190400",
+                "ENGLISH": "BOYLE LEA-6",
+                "COUNTY": "ROSCOMMON",
+                "GUID": "2ae19629-3f24-13a3-e055-000000000001",
+                "Pop2016": 21831,
+                "C19_P14_T": "233",
+                "P14_100k": 1067.3,
+                "P14_100k_T": "1067.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 130,
+                "LE_ID": "13260427",
+                "ENGLISH": "CLONTARF LEA-6",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f5d-13a3-e055-000000000001",
+                "Pop2016": 54182,
+                "C19_P14_T": "745",
+                "P14_100k": 1375,
+                "P14_100k_T": "1375",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 131,
+                "LE_ID": "13220401",
+                "ENGLISH": "PORTLAW-KILMACTHOMAS LEA-5",
+                "COUNTY": "WATERFORD",
+                "GUID": "2ae19629-3f32-13a3-e055-000000000001",
+                "Pop2016": 17120,
+                "C19_P14_T": "366",
+                "P14_100k": 2137.9,
+                "P14_100k_T": "2137.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 132,
+                "LE_ID": "13220402",
+                "ENGLISH": "LISMORE LEA-3",
+                "COUNTY": "WATERFORD",
+                "GUID": "2ae19629-3ef4-13a3-e055-000005300001",
+                "Pop2016": 10724,
+                "C19_P14_T": "159",
+                "P14_100k": 1482.7,
+                "P14_100k_T": "1482.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 133,
+                "LE_ID": "1380403",
+                "ENGLISH": "ATHY LEA-5",
+                "COUNTY": "KILDARE",
+                "GUID": "2ae19629-3f72-13a3-e055-000000000001",
+                "Pop2016": 26541,
+                "C19_P14_T": "319",
+                "P14_100k": 1201.9,
+                "P14_100k_T": "1201.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 134,
+                "LE_ID": "13110401",
+                "ENGLISH": "BALLINAMORE-LEA-6",
+                "COUNTY": "LEITRIM",
+                "GUID": "2ae19629-3f05-13a3-e055-000000000001",
+                "Pop2016": 9862,
+                "C19_P14_T": "118",
+                "P14_100k": 1196.5,
+                "P14_100k_T": "1196.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 135,
+                "LE_ID": "13120420",
+                "ENGLISH": "LIMERICK CITY WEST LEA-7",
+                "COUNTY": "LIMERICK",
+                "GUID": "2ae19629-3f0a-13a3-e055-000000000001",
+                "Pop2016": 34896,
+                "C19_P14_T": "373",
+                "P14_100k": 1068.9,
+                "P14_100k_T": "1068.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 136,
+                "LE_ID": "13240405",
+                "ENGLISH": "ENNISCORTHY LEA-6",
+                "COUNTY": "WEXFORD",
+                "GUID": "2ae19629-3ef4-13a3-e055-999550000001",
+                "Pop2016": 27253,
+                "C19_P14_T": "255",
+                "P14_100k": 935.7,
+                "P14_100k_T": "935.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 137,
+                "LE_ID": "13150405",
+                "ENGLISH": "SWINFORD LEA-4",
+                "COUNTY": "MAYO",
+                "GUID": "2ae19629-3ef4-13a3-e055-999110000001",
+                "Pop2016": 17286,
+                "C19_P14_T": "140",
+                "P14_100k": 809.9,
+                "P14_100k_T": "809.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 138,
+                "LE_ID": "1370404",
+                "ENGLISH": "CORCA DHUIBHNE LEA-3",
+                "COUNTY": "KERRY",
+                "GUID": "2ae19629-3ef4-13a3-e055-883360000001",
+                "Pop2016": 14181,
+                "C19_P14_T": "127",
+                "P14_100k": 895.6,
+                "P14_100k_T": "895.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 139,
+                "LE_ID": "13150404",
+                "ENGLISH": "WESTPORT LEA-4",
+                "COUNTY": "MAYO",
+                "GUID": "2ae19629-3ef4-13a3-e055-111110000001",
+                "Pop2016": 18378,
+                "C19_P14_T": "184",
+                "P14_100k": 1001.2,
+                "P14_100k_T": "1001.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 140,
+                "LE_ID": "13110402",
+                "ENGLISH": "CARRICK-ON-SHANNON LEA-6",
+                "COUNTY": "LEITRIM",
+                "GUID": "2ae19629-3f06-13a3-e055-000000000001",
+                "Pop2016": 11361,
+                "C19_P14_T": "146",
+                "P14_100k": 1285.1,
+                "P14_100k_T": "1285.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 141,
+                "LE_ID": "13260408",
+                "ENGLISH": "KILLINEY-SHANKILL LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f40-13a3-e055-000000000001",
+                "Pop2016": 38082,
+                "C19_P14_T": "383",
+                "P14_100k": 1005.7,
+                "P14_100k_T": "1005.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 142,
+                "LE_ID": "13260415",
+                "ENGLISH": "TALLAGHT SOUTH LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f54-13a3-e055-000000000001",
+                "Pop2016": 35465,
+                "C19_P14_T": "593",
+                "P14_100k": 1672.1,
+                "P14_100k_T": "1672.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 143,
+                "LE_ID": "13210407",
+                "ENGLISH": "CAHIR LEA-4",
+                "COUNTY": "TIPPERARY",
+                "GUID": "2ae19629-3ef4-13a3-e055-000005400001",
+                "Pop2016": 14717,
+                "C19_P14_T": "257",
+                "P14_100k": 1746.3,
+                "P14_100k_T": "1746.3",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 144,
+                "LE_ID": "13260407",
+                "ENGLISH": "GLENCULLEN-SANDYFORD LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f3f-13a3-e055-000000000001",
+                "Pop2016": 36622,
+                "C19_P14_T": "577",
+                "P14_100k": 1575.6,
+                "P14_100k_T": "1575.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 145,
+                "LE_ID": "13260429",
+                "ENGLISH": "ARTANE-WHITEHALL LEA-6",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3ef4-13a3-e055-000005200001",
+                "Pop2016": 51156,
+                "C19_P14_T": "705",
+                "P14_100k": 1378.1,
+                "P14_100k_T": "1378.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 146,
+                "LE_ID": "13170401",
+                "ENGLISH": "CARRICKMACROSS-CASTLEBLAYNEY LEA-6",
+                "COUNTY": "MONAGHAN",
+                "GUID": "2ae19629-3f1f-13a3-e055-000000000001",
+                "Pop2016": 21436,
+                "C19_P14_T": "252",
+                "P14_100k": 1175.6,
+                "P14_100k_T": "1175.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 147,
+                "LE_ID": "13200401",
+                "ENGLISH": "SLIGO-DRUMCLIFF LEA-5",
+                "COUNTY": "SLIGO",
+                "GUID": "2ae19629-3f28-13a3-e055-000000000001",
+                "Pop2016": 17675,
+                "C19_P14_T": "191",
+                "P14_100k": 1080.6,
+                "P14_100k_T": "1080.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 148,
+                "LE_ID": "13260401",
+                "ENGLISH": "SWORDS LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3ef8-13a3-e055-000000000001",
+                "Pop2016": 51370,
+                "C19_P14_T": "836",
+                "P14_100k": 1627.4,
+                "P14_100k_T": "1627.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 149,
+                "LE_ID": "1330402",
+                "ENGLISH": "SHANNON LEA-7",
+                "COUNTY": "CLARE",
+                "GUID": "2ae19629-3f61-13a3-e055-000000000001",
+                "Pop2016": 30397,
+                "C19_P14_T": "376",
+                "P14_100k": 1237,
+                "P14_100k_T": "1237",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 150,
+                "LE_ID": "1340413",
+                "ENGLISH": "CORK CITY SOUTH CENTRAL LEA-6",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3ef4-13a3-e055-000001100001",
+                "Pop2016": 38667,
+                "C19_P14_T": "388",
+                "P14_100k": 1003.4,
+                "P14_100k_T": "1003.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 151,
+                "LE_ID": "13260418",
+                "ENGLISH": "ONGAR LEA-5",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3ef4-13a3-e055-000002200001",
+                "Pop2016": 35834,
+                "C19_P14_T": "601",
+                "P14_100k": 1677.2,
+                "P14_100k_T": "1677.2",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 152,
+                "LE_ID": "1340406",
+                "ENGLISH": "BANTRY-WEST CORK LEA-4",
+                "COUNTY": "CORK",
+                "GUID": "2ae19629-3f41-13a3-e055-000000000001",
+                "Pop2016": 22424,
+                "C19_P14_T": "146",
+                "P14_100k": 651.1,
+                "P14_100k_T": "651.1",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 153,
+                "LE_ID": "1330403",
+                "ENGLISH": "ENNIS LEA-7",
+                "COUNTY": "CLARE",
+                "GUID": "2ae19629-3f62-13a3-e055-000000000001",
+                "Pop2016": 30910,
+                "C19_P14_T": "425",
+                "P14_100k": 1375,
+                "P14_100k_T": "1375",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 154,
+                "LE_ID": "13150402",
+                "ENGLISH": "CASTLEBAR LEA-7",
+                "COUNTY": "MAYO",
+                "GUID": "2ae19629-3f16-13a3-e055-000000000001",
+                "Pop2016": 29992,
+                "C19_P14_T": "334",
+                "P14_100k": 1113.6,
+                "P14_100k_T": "1113.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 155,
+                "LE_ID": "13230403",
+                "ENGLISH": "MULLINGAR LEA-6",
+                "COUNTY": "WESTMEATH",
+                "GUID": "2ae19629-3ef4-13a3-e055-900000000111",
+                "Pop2016": 25960,
+                "C19_P14_T": "460",
+                "P14_100k": 1772,
+                "P14_100k_T": "1772",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 156,
+                "LE_ID": "13120402",
+                "ENGLISH": "CAPPAMORE-KILMALLOCK LEA-7",
+                "COUNTY": "LIMERICK",
+                "GUID": "2ae19629-3f09-13a3-e055-000000000001",
+                "Pop2016": 34821,
+                "C19_P14_T": "336",
+                "P14_100k": 964.9,
+                "P14_100k_T": "964.9",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 157,
+                "LE_ID": "13260410",
+                "ENGLISH": "BLACKROCK LEA-6",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f4f-13a3-e055-000000000001",
+                "Pop2016": 33727,
+                "C19_P14_T": "296",
+                "P14_100k": 877.6,
+                "P14_100k_T": "877.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 158,
+                "LE_ID": "1350400",
+                "ENGLISH": "GLENTIES LEA-6",
+                "COUNTY": "DONEGAL",
+                "GUID": "2ae19629-3f43-13a3-e055-000000000001",
+                "Pop2016": 23919,
+                "C19_P14_T": "179",
+                "P14_100k": 748.4,
+                "P14_100k_T": "748.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 159,
+                "LE_ID": "1350403",
+                "ENGLISH": "BUNCRANA LEA-5",
+                "COUNTY": "DONEGAL",
+                "GUID": "2ae19629-3f46-13a3-e055-000000000001",
+                "Pop2016": 22366,
+                "C19_P14_T": "205",
+                "P14_100k": 916.6,
+                "P14_100k_T": "916.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 160,
+                "LE_ID": "13260409",
+                "ENGLISH": "DÚN LAOGHAIRE LEA-7",
+                "COUNTY": "DUBLIN",
+                "GUID": "2ae19629-3f4e-13a3-e055-000000000001",
+                "Pop2016": 41627,
+                "C19_P14_T": "489",
+                "P14_100k": 1174.7,
+                "P14_100k_T": "1174.7",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 161,
+                "LE_ID": "13200402",
+                "ENGLISH": "SLIGO-STRANDHILL LEA-6",
+                "COUNTY": "SLIGO",
+                "GUID": "2ae19629-3ef4-13a3-e055-007589300001",
+                "Pop2016": 21129,
+                "C19_P14_T": "259",
+                "P14_100k": 1225.8,
+                "P14_100k_T": "1225.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 162,
+                "LE_ID": "1350405",
+                "ENGLISH": "LETTERKENNY LEA-7",
+                "COUNTY": "DONEGAL",
+                "GUID": "2ae19629-3ef4-13a3-e055-700012002301",
+                "Pop2016": 29791,
+                "C19_P14_T": "369",
+                "P14_100k": 1238.6,
+                "P14_100k_T": "1238.6",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 163,
+                "LE_ID": "1380401",
+                "ENGLISH": "CELBRIDGE LEA-4",
+                "COUNTY": "KILDARE",
+                "GUID": "2ae19629-3f70-13a3-e055-000000000001",
+                "Pop2016": 21626,
+                "C19_P14_T": "366",
+                "P14_100k": 1692.4,
+                "P14_100k_T": "1692.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 164,
+                "LE_ID": "1330400",
+                "ENGLISH": "ENNISTIMON LEA-4",
+                "COUNTY": "CLARE",
+                "GUID": "2ae19629-3f5f-13a3-e055-000000000001",
+                "Pop2016": 16408,
+                "C19_P14_T": "205",
+                "P14_100k": 1249.4,
+                "P14_100k_T": "1249.4",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 165,
+                "LE_ID": "1370403",
+                "ENGLISH": "KENMARE LEA-6",
+                "COUNTY": "KERRY",
+                "GUID": "2ae19629-3f6e-13a3-e055-000000000001",
+                "Pop2016": 25062,
+                "C19_P14_T": "156",
+                "P14_100k": 622.5,
+                "P14_100k_T": "622.5",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        },
+        {
+            "attributes": {
+                "FID": 166,
+                "LE_ID": "13160404",
+                "ENGLISH": "TRIM LEA-6",
+                "COUNTY": "MEATH",
+                "GUID": "2ae19629-3f1c-13a3-e055-000000000001",
+                "Pop2016": 31195,
+                "C19_P14_T": "417",
+                "P14_100k": 1336.8,
+                "P14_100k_T": "1336.8",
+                "Ire_IncP14": 1305.1,
+                "EventDate": 1639353600000
+            }
+        }
+    ]
+}

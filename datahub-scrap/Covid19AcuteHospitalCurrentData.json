@@ -1,0 +1,85 @@
+{
+    "objectIdFieldName": "OBJECTID",
+    "uniqueIdField": {
+        "name": "OBJECTID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+    },
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Date",
+            "type": "esriFieldTypeDate",
+            "alias": "Date",
+            "sqlType": "sqlTypeOther",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "FREQUENCY",
+            "type": "esriFieldTypeInteger",
+            "alias": "FREQUENCY",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "SUM_number_of_confirmed_covid_1",
+            "type": "esriFieldTypeDouble",
+            "alias": "SUM_number_of_confirmed_covid_19_ca",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "SUM_no_new_admissions_covid19_p",
+            "type": "esriFieldTypeDouble",
+            "alias": "SUM_no_new_admissions_covid19_posit",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "SUM_no_discharges_covid19_posit",
+            "type": "esriFieldTypeDouble",
+            "alias": "SUM_no_discharges_covid19_positive_",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "SUM_number_of_new_covid_19_cases_co",
+            "type": "esriFieldTypeDouble",
+            "alias": "SUM_number_of_new_covid_19_cases_co",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 649,
+                "Date": 1639738800000,
+                "FREQUENCY": 29,
+                "SUM_number_of_confirmed_covid_1": 420,
+                "SUM_no_new_admissions_covid19_p": 26,
+                "SUM_no_discharges_covid19_posit": 44,
+                "SUM_number_of_new_covid_19_cases_co": 41
+            }
+        }
+    ]
+}

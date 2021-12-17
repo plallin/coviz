@@ -1,0 +1,69 @@
+{
+    "objectIdFieldName": "objectid",
+    "uniqueIdField": {
+        "name": "objectid",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "globalid",
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+    },
+    "fields": [
+        {
+            "name": "objectid",
+            "type": "esriFieldTypeOID",
+            "alias": "ObjectID",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "globalid",
+            "type": "esriFieldTypeGlobalID",
+            "alias": "GlobalID",
+            "sqlType": "sqlTypeGUID",
+            "length": 38,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "NotifiedDate",
+            "type": "esriFieldTypeDate",
+            "alias": "Date of Notified Deaths",
+            "sqlType": "sqlTypeOther",
+            "length": 255,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "dateText",
+            "type": "esriFieldTypeString",
+            "alias": "Text Date",
+            "sqlType": "sqlTypeOther",
+            "length": 255,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "DeathsNumber",
+            "type": "esriFieldTypeInteger",
+            "alias": "Number of notified COVID19 Deaths in the past week",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "objectid": 48,
+                "globalid": "b53c8e2c-3789-4737-8eeb-a4f8f076b272",
+                "NotifiedDate": 1639569600000,
+                "dateText": "Wed, 15 Dec 2021",
+                "DeathsNumber": 47
+            }
+        }
+    ]
+}

@@ -1,0 +1,5723 @@
+{
+    "objectIdFieldName": "OBJECTID",
+    "uniqueIdField": {
+        "name": "OBJECTID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "extract",
+            "type": "esriFieldTypeDate",
+            "alias": "Daily Extract",
+            "sqlType": "sqlTypeOther",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "ncovidconf",
+            "type": "esriFieldTypeInteger",
+            "alias": "nCovidConf",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "ndischcovidconf",
+            "type": "esriFieldTypeInteger",
+            "alias": "nDischCovidConf",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "adcconf",
+            "type": "esriFieldTypeInteger",
+            "alias": "nAdmitCovidConf",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 1,
+                "extract": 1585267200000,
+                "ncovidconf": 68,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 2,
+                "extract": 1585353600000,
+                "ncovidconf": 80,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 3,
+                "extract": 1585440000000,
+                "ncovidconf": 96,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 4,
+                "extract": 1585526400000,
+                "ncovidconf": 107,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 5,
+                "extract": 1585612800000,
+                "ncovidconf": 120,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 6,
+                "extract": 1585699200000,
+                "ncovidconf": 128,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 7,
+                "extract": 1585785600000,
+                "ncovidconf": 132,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 8,
+                "extract": 1585872000000,
+                "ncovidconf": 137,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 9,
+                "extract": 1585958400000,
+                "ncovidconf": 140,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 10,
+                "extract": 1586044800000,
+                "ncovidconf": 139,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 11,
+                "extract": 1586131200000,
+                "ncovidconf": 144,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 12,
+                "extract": 1586217600000,
+                "ncovidconf": 143,
+                "ndischcovidconf": 6,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 13,
+                "extract": 1586304000000,
+                "ncovidconf": 146,
+                "ndischcovidconf": 11,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 14,
+                "extract": 1586390400000,
+                "ncovidconf": 151,
+                "ndischcovidconf": 7,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 15,
+                "extract": 1586476800000,
+                "ncovidconf": 155,
+                "ndischcovidconf": 7,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 16,
+                "extract": 1586563200000,
+                "ncovidconf": 155,
+                "ndischcovidconf": 7,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 17,
+                "extract": 1586649600000,
+                "ncovidconf": 148,
+                "ndischcovidconf": 8,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 18,
+                "extract": 1586736000000,
+                "ncovidconf": 143,
+                "ndischcovidconf": 6,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 19,
+                "extract": 1586822400000,
+                "ncovidconf": 149,
+                "ndischcovidconf": 4,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 20,
+                "extract": 1586908800000,
+                "ncovidconf": 140,
+                "ndischcovidconf": 12,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 21,
+                "extract": 1587081600000,
+                "ncovidconf": 137,
+                "ndischcovidconf": 13,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 22,
+                "extract": 1587168000000,
+                "ncovidconf": 134,
+                "ndischcovidconf": 6,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 23,
+                "extract": 1587254400000,
+                "ncovidconf": 133,
+                "ndischcovidconf": 10,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 24,
+                "extract": 1587340800000,
+                "ncovidconf": 139,
+                "ndischcovidconf": 7,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 25,
+                "extract": 1587427200000,
+                "ncovidconf": 133,
+                "ndischcovidconf": 10,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 26,
+                "extract": 1587513600000,
+                "ncovidconf": 131,
+                "ndischcovidconf": 3,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 27,
+                "extract": 1587600000000,
+                "ncovidconf": 123,
+                "ndischcovidconf": 5,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 32,
+                "extract": 1588243500000,
+                "ncovidconf": 106,
+                "ndischcovidconf": null,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 33,
+                "extract": 1588877100000,
+                "ncovidconf": 76,
+                "ndischcovidconf": null,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 37,
+                "extract": 1588964400000,
+                "ncovidconf": 72,
+                "ndischcovidconf": null,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 39,
+                "extract": 1589050800000,
+                "ncovidconf": 72,
+                "ndischcovidconf": null,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 41,
+                "extract": 1589136300000,
+                "ncovidconf": 72,
+                "ndischcovidconf": null,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 45,
+                "extract": 1588617900000,
+                "ncovidconf": 91,
+                "ndischcovidconf": null,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 46,
+                "extract": 1588676400000,
+                "ncovidconf": 90,
+                "ndischcovidconf": null,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 47,
+                "extract": 1588358705000,
+                "ncovidconf": 99,
+                "ndischcovidconf": null,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 48,
+                "extract": 1588418138000,
+                "ncovidconf": 99,
+                "ndischcovidconf": null,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 49,
+                "extract": 1588503600000,
+                "ncovidconf": 93,
+                "ndischcovidconf": null,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 51,
+                "extract": 1588790700000,
+                "ncovidconf": 82,
+                "ndischcovidconf": null,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 53,
+                "extract": 1587033000000,
+                "ncovidconf": 142,
+                "ndischcovidconf": 8,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 55,
+                "extract": 1589222700000,
+                "ncovidconf": 69,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 58,
+                "extract": 1587753900000,
+                "ncovidconf": 118,
+                "ndischcovidconf": 7,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 59,
+                "extract": 1587840303000,
+                "ncovidconf": 123,
+                "ndischcovidconf": 8,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 60,
+                "extract": 1587926700000,
+                "ncovidconf": 120,
+                "ndischcovidconf": 5,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 61,
+                "extract": 1588014000000,
+                "ncovidconf": 117,
+                "ndischcovidconf": 2,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 62,
+                "extract": 1588100400000,
+                "ncovidconf": 113,
+                "ndischcovidconf": 5,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 63,
+                "extract": 1588185900000,
+                "ncovidconf": 103,
+                "ndischcovidconf": 11,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 65,
+                "extract": 1589310000000,
+                "ncovidconf": 67,
+                "ndischcovidconf": 6,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 67,
+                "extract": 1589395500000,
+                "ncovidconf": 62,
+                "ndischcovidconf": 4,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 69,
+                "extract": 1589482800000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 71,
+                "extract": 1589569200000,
+                "ncovidconf": 56,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 73,
+                "extract": 1589656500000,
+                "ncovidconf": 54,
+                "ndischcovidconf": 0,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 75,
+                "extract": 1589742905000,
+                "ncovidconf": 51,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 77,
+                "extract": 1589828400000,
+                "ncovidconf": 55,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 79,
+                "extract": 1589913900000,
+                "ncovidconf": 54,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 81,
+                "extract": 1590002100000,
+                "ncovidconf": 49,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 83,
+                "extract": 1590086700000,
+                "ncovidconf": 52,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 85,
+                "extract": 1590173100000,
+                "ncovidconf": 49,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 87,
+                "extract": 1590260400000,
+                "ncovidconf": 51,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 89,
+                "extract": 1590347700000,
+                "ncovidconf": 49,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 91,
+                "extract": 1590432300000,
+                "ncovidconf": 48,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 93,
+                "extract": 1590519600000,
+                "ncovidconf": 48,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 95,
+                "extract": 1590606005000,
+                "ncovidconf": 48,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 97,
+                "extract": 1590693900000,
+                "ncovidconf": 45,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 99,
+                "extract": 1590777900000,
+                "ncovidconf": 42,
+                "ndischcovidconf": 4,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 101,
+                "extract": 1590865205000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 103,
+                "extract": 1590950700000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 105,
+                "extract": 1591037100000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 107,
+                "extract": 1591123505000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 109,
+                "extract": 1591210800000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 111,
+                "extract": 1591297205000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 113,
+                "extract": 1591382700000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 115,
+                "extract": 1591469105000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 117,
+                "extract": 1591557304000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 119,
+                "extract": 1591643700000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 121,
+                "extract": 1591728306000,
+                "ncovidconf": 35,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 123,
+                "extract": 1591814700000,
+                "ncovidconf": 29,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 125,
+                "extract": 1591902006000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 127,
+                "extract": 1591987500000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 130,
+                "extract": 1592161205000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 132,
+                "extract": 1592247605000,
+                "ncovidconf": 24,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 134,
+                "extract": 1592334000000,
+                "ncovidconf": 20,
+                "ndischcovidconf": 3,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 136,
+                "extract": 1592419500000,
+                "ncovidconf": 21,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 138,
+                "extract": 1592506805000,
+                "ncovidconf": 21,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 142,
+                "extract": 1592677800000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 144,
+                "extract": 1592765100000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 146,
+                "extract": 1592851500000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 148,
+                "extract": 1592938800000,
+                "ncovidconf": 11,
+                "ndischcovidconf": 3,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 150,
+                "extract": 1592594100000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 5,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 151,
+                "extract": 1593023405000,
+                "ncovidconf": 9,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 153,
+                "extract": 1593109805000,
+                "ncovidconf": 12,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 155,
+                "extract": 1593198000000,
+                "ncovidconf": 12,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 157,
+                "extract": 1593282600000,
+                "ncovidconf": 11,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 159,
+                "extract": 1593369905000,
+                "ncovidconf": 11,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 161,
+                "extract": 1593457200000,
+                "ncovidconf": 12,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 163,
+                "extract": 1593541800000,
+                "ncovidconf": 13,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 165,
+                "extract": 1593628200000,
+                "ncovidconf": 12,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 167,
+                "extract": 1593715500000,
+                "ncovidconf": 10,
+                "ndischcovidconf": 3,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 169,
+                "extract": 1593801900000,
+                "ncovidconf": 10,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 171,
+                "extract": 1593890106000,
+                "ncovidconf": 11,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 176,
+                "extract": 1593973805000,
+                "ncovidconf": 10,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 177,
+                "extract": 1594060200000,
+                "ncovidconf": 10,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 179,
+                "extract": 1594148400000,
+                "ncovidconf": 9,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 181,
+                "extract": 1594233900000,
+                "ncovidconf": 9,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 183,
+                "extract": 1594321200000,
+                "ncovidconf": 9,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 185,
+                "extract": 1594405800000,
+                "ncovidconf": 9,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 187,
+                "extract": 1594494000000,
+                "ncovidconf": 10,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 189,
+                "extract": 1594578600000,
+                "ncovidconf": 11,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 191,
+                "extract": 1594665900000,
+                "ncovidconf": 10,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 193,
+                "extract": 1594752300000,
+                "ncovidconf": 10,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 195,
+                "extract": 1594837800000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 197,
+                "extract": 1594925100000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 200,
+                "extract": 1595012400000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 202,
+                "extract": 1595097900000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 204,
+                "extract": 1595184300000,
+                "ncovidconf": 9,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 206,
+                "extract": 1595270700000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 208,
+                "extract": 1595358900000,
+                "ncovidconf": 7,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 210,
+                "extract": 1595443500000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 212,
+                "extract": 1595528100000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 214,
+                "extract": 1595616300000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 216,
+                "extract": 1595701800000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 218,
+                "extract": 1595786400000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 220,
+                "extract": 1595874600000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 222,
+                "extract": 1595962803000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 224,
+                "extract": 1596048300000,
+                "ncovidconf": 4,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 226,
+                "extract": 1596134703000,
+                "ncovidconf": 4,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 228,
+                "extract": 1596220200000,
+                "ncovidconf": 4,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 230,
+                "extract": 1596307500000,
+                "ncovidconf": 4,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 232,
+                "extract": 1596393900000,
+                "ncovidconf": 4,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 234,
+                "extract": 1596479400000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 236,
+                "extract": 1596566700000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 238,
+                "extract": 1596654000000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 240,
+                "extract": 1596739500000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 242,
+                "extract": 1596825900000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 244,
+                "extract": 1596912300000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 246,
+                "extract": 1596997800000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 248,
+                "extract": 1597085100000,
+                "ncovidconf": 7,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 250,
+                "extract": 1597174204000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 252,
+                "extract": 1597257003000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 254,
+                "extract": 1597345200000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 256,
+                "extract": 1597430700000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 258,
+                "extract": 1597516200000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 260,
+                "extract": 1597603500000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 262,
+                "extract": 1597689900000,
+                "ncovidconf": 8,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 264,
+                "extract": 1597775400000,
+                "ncovidconf": 7,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 266,
+                "extract": 1597864506000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 268,
+                "extract": 1597947303000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 270,
+                "extract": 1598035504000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 272,
+                "extract": 1598124600000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 274,
+                "extract": 1598207406000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 276,
+                "extract": 1598300105000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 278,
+                "extract": 1598382004000,
+                "ncovidconf": 4,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 280,
+                "extract": 1598466603000,
+                "ncovidconf": 4,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 282,
+                "extract": 1598553004000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 284,
+                "extract": 1598638503000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 286,
+                "extract": 1598724903000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 288,
+                "extract": 1598810454000,
+                "ncovidconf": 5,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 290,
+                "extract": 1598897706000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 292,
+                "extract": 1598985900000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 294,
+                "extract": 1599070504000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 296,
+                "extract": 1599156053000,
+                "ncovidconf": 7,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 298,
+                "extract": 1599245100000,
+                "ncovidconf": 7,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 300,
+                "extract": 1599330600000,
+                "ncovidconf": 7,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 302,
+                "extract": 1599417000000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 304,
+                "extract": 1599504300000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 306,
+                "extract": 1599590700000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 308,
+                "extract": 1599677100000,
+                "ncovidconf": 6,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 310,
+                "extract": 1599764400000,
+                "ncovidconf": 7,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 312,
+                "extract": 1599849900000,
+                "ncovidconf": 7,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 314,
+                "extract": 1599933654000,
+                "ncovidconf": 9,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 316,
+                "extract": 1600020054000,
+                "ncovidconf": 10,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 318,
+                "extract": 1600106454000,
+                "ncovidconf": 11,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 320,
+                "extract": 1600192854000,
+                "ncovidconf": 13,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 322,
+                "extract": 1600279254000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 324,
+                "extract": 1600366504000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 326,
+                "extract": 1600454700000,
+                "ncovidconf": 15,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 328,
+                "extract": 1600542000000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 330,
+                "extract": 1600628400000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 332,
+                "extract": 1600713900000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 334,
+                "extract": 1600799400000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 336,
+                "extract": 1600886700000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 339,
+                "extract": 1600971300000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 341,
+                "extract": 1601059500000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 0,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 343,
+                "extract": 1601145900000,
+                "ncovidconf": 18,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 345,
+                "extract": 1601233200000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 347,
+                "extract": 1601317800000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 349,
+                "extract": 1601404204000,
+                "ncovidconf": 18,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 351,
+                "extract": 1601488856000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 353,
+                "extract": 1601578800000,
+                "ncovidconf": 20,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 355,
+                "extract": 1601663405000,
+                "ncovidconf": 21,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 357,
+                "extract": 1601748053000,
+                "ncovidconf": 20,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 359,
+                "extract": 1601835303000,
+                "ncovidconf": 21,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 361,
+                "extract": 1601922600000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 363,
+                "extract": 1602009003000,
+                "ncovidconf": 24,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 365,
+                "extract": 1602095400000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 366,
+                "extract": 1602157538000,
+                "ncovidconf": 25,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 368,
+                "extract": 1602267305000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 0,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 370,
+                "extract": 1602354605000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 372,
+                "extract": 1602439200000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 374,
+                "extract": 1602525600000,
+                "ncovidconf": 32,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 376,
+                "extract": 1602613800000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 378,
+                "extract": 1602701100000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 380,
+                "extract": 1602787500000,
+                "ncovidconf": 29,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 382,
+                "extract": 1602873900000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 384,
+                "extract": 1602959400000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 386,
+                "extract": 1603046700000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 388,
+                "extract": 1603131304000,
+                "ncovidconf": 32,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 391,
+                "extract": 1603219500000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 2,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 393,
+                "extract": 1603305000000,
+                "ncovidconf": 35,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 395,
+                "extract": 1603390503000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 397,
+                "extract": 1603476053000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 399,
+                "extract": 1603563304000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 401,
+                "extract": 1603650600000,
+                "ncovidconf": 39,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 403,
+                "extract": 1603737000000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 405,
+                "extract": 1603823400000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 407,
+                "extract": 1603911600000,
+                "ncovidconf": 40,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 409,
+                "extract": 1603996200000,
+                "ncovidconf": 43,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411,
+                "extract": 1604084400000,
+                "ncovidconf": 42,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 413,
+                "extract": 1604169000000,
+                "ncovidconf": 44,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 415,
+                "extract": 1604255400000,
+                "ncovidconf": 44,
+                "ndischcovidconf": 2,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 417,
+                "extract": 1604340904000,
+                "ncovidconf": 44,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 419,
+                "extract": 1604429106000,
+                "ncovidconf": 43,
+                "ndischcovidconf": 5,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 421,
+                "extract": 1604513705000,
+                "ncovidconf": 40,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 423,
+                "extract": 1604602800000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 425,
+                "extract": 1604686500000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 5,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 427,
+                "extract": 1604772054000,
+                "ncovidconf": 40,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 429,
+                "extract": 1604859303000,
+                "ncovidconf": 40,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 431,
+                "extract": 1604945703000,
+                "ncovidconf": 41,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 433,
+                "extract": 1605031254000,
+                "ncovidconf": 40,
+                "ndischcovidconf": 4,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 435,
+                "extract": 1605119406000,
+                "ncovidconf": 39,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 437,
+                "extract": 1605205800000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 439,
+                "extract": 1605292200000,
+                "ncovidconf": 33,
+                "ndischcovidconf": 6,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 441,
+                "extract": 1605378600000,
+                "ncovidconf": 33,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 443,
+                "extract": 1605465000000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 445,
+                "extract": 1605551404000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 447,
+                "extract": 1605636903000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 449,
+                "extract": 1605724200000,
+                "ncovidconf": 33,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 451,
+                "extract": 1605809706000,
+                "ncovidconf": 32,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 452,
+                "extract": 1605871836000,
+                "ncovidconf": 33,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 454,
+                "extract": 1605981655000,
+                "ncovidconf": 32,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 456,
+                "extract": 1606068053000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 458,
+                "extract": 1606157100000,
+                "ncovidconf": 33,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 461,
+                "extract": 1606242600000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 0,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 463,
+                "extract": 1606330800000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 465,
+                "extract": 1606415400000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 0,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 467,
+                "extract": 1606502700000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 469,
+                "extract": 1606588200000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 471,
+                "extract": 1606674600000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 473,
+                "extract": 1606760103000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 475,
+                "extract": 1606845654000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 477,
+                "extract": 1606932054000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 479,
+                "extract": 1607018453000,
+                "ncovidconf": 32,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 481,
+                "extract": 1607107500000,
+                "ncovidconf": 29,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 483,
+                "extract": 1607192104000,
+                "ncovidconf": 28,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 485,
+                "extract": 1607278506000,
+                "ncovidconf": 28,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 487,
+                "extract": 1607364055000,
+                "ncovidconf": 28,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 489,
+                "extract": 1607451304000,
+                "ncovidconf": 32,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 491,
+                "extract": 1607538603000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 1,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 493,
+                "extract": 1607623254000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 495,
+                "extract": 1607710500000,
+                "ncovidconf": 35,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 497,
+                "extract": 1607797800000,
+                "ncovidconf": 32,
+                "ndischcovidconf": 3,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 499,
+                "extract": 1607884200000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 501,
+                "extract": 1607969700000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 503,
+                "extract": 1608055255000,
+                "ncovidconf": 32,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 505,
+                "extract": 1608144304000,
+                "ncovidconf": 28,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 507,
+                "extract": 1608229803000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 509,
+                "extract": 1608318000000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 5,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 511,
+                "extract": 1608401704000,
+                "ncovidconf": 29,
+                "ndischcovidconf": 5,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 513,
+                "extract": 1608489003000,
+                "ncovidconf": 29,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 515,
+                "extract": 1608574504000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 517,
+                "extract": 1608661806000,
+                "ncovidconf": 28,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 519,
+                "extract": 1608746455000,
+                "ncovidconf": 25,
+                "ndischcovidconf": 7,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 521,
+                "extract": 1608836400000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 523,
+                "extract": 1608921000000,
+                "ncovidconf": 25,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 525,
+                "extract": 1609006504000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 3,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 527,
+                "extract": 1609093805000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 0,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 529,
+                "extract": 1609180200000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 1,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 531,
+                "extract": 1609266600000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 3,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 533,
+                "extract": 1609353004000,
+                "ncovidconf": 39,
+                "ndischcovidconf": 4,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 535,
+                "extract": 1609438505000,
+                "ncovidconf": 42,
+                "ndischcovidconf": 2,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 537,
+                "extract": 1609524905000,
+                "ncovidconf": 50,
+                "ndischcovidconf": 1,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 539,
+                "extract": 1609614000000,
+                "ncovidconf": 56,
+                "ndischcovidconf": 1,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 541,
+                "extract": 1609699500000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 3,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 543,
+                "extract": 1609783254000,
+                "ncovidconf": 73,
+                "ndischcovidconf": 3,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 545,
+                "extract": 1609869653000,
+                "ncovidconf": 76,
+                "ndischcovidconf": 4,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 547,
+                "extract": 1609956904000,
+                "ncovidconf": 89,
+                "ndischcovidconf": 5,
+                "adcconf": 18
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 549,
+                "extract": 1610042454000,
+                "ncovidconf": 101,
+                "ndischcovidconf": 4,
+                "adcconf": 18
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 552,
+                "extract": 1610131500000,
+                "ncovidconf": 107,
+                "ndischcovidconf": 6,
+                "adcconf": 18
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 554,
+                "extract": 1610219706000,
+                "ncovidconf": 121,
+                "ndischcovidconf": 3,
+                "adcconf": 17
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 556,
+                "extract": 1610304300000,
+                "ncovidconf": 128,
+                "ndischcovidconf": 4,
+                "adcconf": 19
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 558,
+                "extract": 1610388903000,
+                "ncovidconf": 144,
+                "ndischcovidconf": 7,
+                "adcconf": 22
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 560,
+                "extract": 1610478904000,
+                "ncovidconf": 160,
+                "ndischcovidconf": 4,
+                "adcconf": 21
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 562,
+                "extract": 1610562603000,
+                "ncovidconf": 176,
+                "ndischcovidconf": 14,
+                "adcconf": 25
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 564,
+                "extract": 1610649004000,
+                "ncovidconf": 173,
+                "ndischcovidconf": 10,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 566,
+                "extract": 1610734504000,
+                "ncovidconf": 187,
+                "ndischcovidconf": 7,
+                "adcconf": 25
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 568,
+                "extract": 1610820056000,
+                "ncovidconf": 191,
+                "ndischcovidconf": 7,
+                "adcconf": 16
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 570,
+                "extract": 1610906455000,
+                "ncovidconf": 196,
+                "ndischcovidconf": 10,
+                "adcconf": 21
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 572,
+                "extract": 1610994600000,
+                "ncovidconf": 199,
+                "ndischcovidconf": 10,
+                "adcconf": 19
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 574,
+                "extract": 1611079254000,
+                "ncovidconf": 209,
+                "ndischcovidconf": 9,
+                "adcconf": 21
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 576,
+                "extract": 1611166504000,
+                "ncovidconf": 210,
+                "ndischcovidconf": 10,
+                "adcconf": 20
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 578,
+                "extract": 1611254704000,
+                "ncovidconf": 214,
+                "ndischcovidconf": 11,
+                "adcconf": 16
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 580,
+                "extract": 1611339303000,
+                "ncovidconf": 218,
+                "ndischcovidconf": 10,
+                "adcconf": 14
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 582,
+                "extract": 1611424854000,
+                "ncovidconf": 216,
+                "ndischcovidconf": 8,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 584,
+                "extract": 1611513000000,
+                "ncovidconf": 221,
+                "ndischcovidconf": 8,
+                "adcconf": 17
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 586,
+                "extract": 1611598505000,
+                "ncovidconf": 218,
+                "ndischcovidconf": 6,
+                "adcconf": 13
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 588,
+                "extract": 1611684055000,
+                "ncovidconf": 216,
+                "ndischcovidconf": 15,
+                "adcconf": 15
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 590,
+                "extract": 1611772203000,
+                "ncovidconf": 212,
+                "ndischcovidconf": 13,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 593,
+                "extract": 1611943254000,
+                "ncovidconf": 211,
+                "ndischcovidconf": 8,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 595,
+                "extract": 1612030504000,
+                "ncovidconf": 213,
+                "ndischcovidconf": 8,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 597,
+                "extract": 1612116900000,
+                "ncovidconf": 211,
+                "ndischcovidconf": 5,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 601,
+                "extract": 1611856854000,
+                "ncovidconf": 214,
+                "ndischcovidconf": 12,
+                "adcconf": 15
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 602,
+                "extract": 1612289700000,
+                "ncovidconf": 207,
+                "ndischcovidconf": 8,
+                "adcconf": 14
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 604,
+                "extract": 1612377900000,
+                "ncovidconf": 202,
+                "ndischcovidconf": 11,
+                "adcconf": 14
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 606,
+                "extract": 1612462503000,
+                "ncovidconf": 187,
+                "ndischcovidconf": 12,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 608,
+                "extract": 1612179038000,
+                "ncovidconf": 207,
+                "ndischcovidconf": 6,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 610,
+                "extract": 1612548054000,
+                "ncovidconf": 181,
+                "ndischcovidconf": 9,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 612,
+                "extract": 1612635305000,
+                "ncovidconf": 180,
+                "ndischcovidconf": 6,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 614,
+                "extract": 1612721700000,
+                "ncovidconf": 179,
+                "ndischcovidconf": 2,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 616,
+                "extract": 1612807207000,
+                "ncovidconf": 175,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 618,
+                "extract": 1612896304000,
+                "ncovidconf": 178,
+                "ndischcovidconf": 5,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 620,
+                "extract": 1612981806000,
+                "ncovidconf": 170,
+                "ndischcovidconf": 9,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 622,
+                "extract": 1613068205000,
+                "ncovidconf": 170,
+                "ndischcovidconf": 9,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 624,
+                "extract": 1613152803000,
+                "ncovidconf": 173,
+                "ndischcovidconf": 5,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 626,
+                "extract": 1613240103000,
+                "ncovidconf": 170,
+                "ndischcovidconf": 7,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 628,
+                "extract": 1613327404000,
+                "ncovidconf": 160,
+                "ndischcovidconf": 9,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 630,
+                "extract": 1613413804000,
+                "ncovidconf": 158,
+                "ndischcovidconf": 5,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 633,
+                "extract": 1613499304000,
+                "ncovidconf": 155,
+                "ndischcovidconf": 7,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 635,
+                "extract": 1613587504000,
+                "ncovidconf": 154,
+                "ndischcovidconf": 5,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 637,
+                "extract": 1613671206000,
+                "ncovidconf": 151,
+                "ndischcovidconf": 9,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 639,
+                "extract": 1613758505000,
+                "ncovidconf": 153,
+                "ndischcovidconf": 5,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 641,
+                "extract": 1613844905000,
+                "ncovidconf": 149,
+                "ndischcovidconf": 4,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 643,
+                "extract": 1613930404000,
+                "ncovidconf": 151,
+                "ndischcovidconf": 3,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 645,
+                "extract": 1614019504000,
+                "ncovidconf": 156,
+                "ndischcovidconf": 4,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 647,
+                "extract": 1614103204000,
+                "ncovidconf": 151,
+                "ndischcovidconf": 5,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 649,
+                "extract": 1614191403000,
+                "ncovidconf": 136,
+                "ndischcovidconf": 7,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 651,
+                "extract": 1614279607000,
+                "ncovidconf": 141,
+                "ndischcovidconf": 5,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 653,
+                "extract": 1614362407000,
+                "ncovidconf": 136,
+                "ndischcovidconf": 6,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 655,
+                "extract": 1614449705000,
+                "ncovidconf": 134,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 657,
+                "extract": 1614537905000,
+                "ncovidconf": 134,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 659,
+                "extract": 1614625200000,
+                "ncovidconf": 117,
+                "ndischcovidconf": 9,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 661,
+                "extract": 1614710700000,
+                "ncovidconf": 115,
+                "ndischcovidconf": 4,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 663,
+                "extract": 1614796200000,
+                "ncovidconf": 110,
+                "ndischcovidconf": 6,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 665,
+                "extract": 1614883500000,
+                "ncovidconf": 105,
+                "ndischcovidconf": 7,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 667,
+                "extract": 1614970804000,
+                "ncovidconf": 100,
+                "ndischcovidconf": 5,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 669,
+                "extract": 1615055400000,
+                "ncovidconf": 103,
+                "ndischcovidconf": 1,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 671,
+                "extract": 1615144506000,
+                "ncovidconf": 103,
+                "ndischcovidconf": 2,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 673,
+                "extract": 1615228200000,
+                "ncovidconf": 101,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 675,
+                "extract": 1615316400000,
+                "ncovidconf": 93,
+                "ndischcovidconf": 7,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 677,
+                "extract": 1615401900000,
+                "ncovidconf": 92,
+                "ndischcovidconf": 5,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 679,
+                "extract": 1615487400000,
+                "ncovidconf": 87,
+                "ndischcovidconf": 5,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 681,
+                "extract": 1615573800000,
+                "ncovidconf": 86,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 683,
+                "extract": 1615659300000,
+                "ncovidconf": 85,
+                "ndischcovidconf": 5,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 685,
+                "extract": 1615745700000,
+                "ncovidconf": 86,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 687,
+                "extract": 1615833004000,
+                "ncovidconf": 85,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 689,
+                "extract": 1615919400000,
+                "ncovidconf": 85,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 691,
+                "extract": 1616004900000,
+                "ncovidconf": 82,
+                "ndischcovidconf": 6,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 693,
+                "extract": 1616092200000,
+                "ncovidconf": 83,
+                "ndischcovidconf": 4,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 695,
+                "extract": 1616177704000,
+                "ncovidconf": 87,
+                "ndischcovidconf": 2,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 697,
+                "extract": 1616263206000,
+                "ncovidconf": 83,
+                "ndischcovidconf": 5,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 699,
+                "extract": 1616350505000,
+                "ncovidconf": 80,
+                "ndischcovidconf": 4,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 701,
+                "extract": 1616438700000,
+                "ncovidconf": 80,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 703,
+                "extract": 1616523304000,
+                "ncovidconf": 76,
+                "ndischcovidconf": 6,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 705,
+                "extract": 1616611505000,
+                "ncovidconf": 75,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 707,
+                "extract": 1616695205000,
+                "ncovidconf": 75,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 709,
+                "extract": 1616781600000,
+                "ncovidconf": 66,
+                "ndischcovidconf": 4,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 711,
+                "extract": 1616869804000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 713,
+                "extract": 1616956205000,
+                "ncovidconf": 68,
+                "ndischcovidconf": 1,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 714,
+                "extract": 1617042603000,
+                "ncovidconf": 70,
+                "ndischcovidconf": 2,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 716,
+                "extract": 1617127200000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 718,
+                "extract": 1617215400000,
+                "ncovidconf": 64,
+                "ndischcovidconf": 7,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 719,
+                "extract": 1617276637000,
+                "ncovidconf": 63,
+                "ndischcovidconf": 5,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 720,
+                "extract": 1617363038000,
+                "ncovidconf": 62,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 721,
+                "extract": 1617448538000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 2,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 722,
+                "extract": 1617534937000,
+                "ncovidconf": 58,
+                "ndischcovidconf": 6,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 723,
+                "extract": 1617620400000,
+                "ncovidconf": 58,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 724,
+                "extract": 1617707737000,
+                "ncovidconf": 60,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 725,
+                "extract": 1617792336000,
+                "ncovidconf": 56,
+                "ndischcovidconf": 3,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 726,
+                "extract": 1617880536000,
+                "ncovidconf": 55,
+                "ndischcovidconf": 3,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 727,
+                "extract": 1617966937000,
+                "ncovidconf": 53,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 728,
+                "extract": 1618051539000,
+                "ncovidconf": 52,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 729,
+                "extract": 1618139737000,
+                "ncovidconf": 53,
+                "ndischcovidconf": 4,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 730,
+                "extract": 1618225237000,
+                "ncovidconf": 50,
+                "ndischcovidconf": 4,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 731,
+                "extract": 1618311638000,
+                "ncovidconf": 48,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 732,
+                "extract": 1618399837000,
+                "ncovidconf": 49,
+                "ndischcovidconf": 3,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 733,
+                "extract": 1618487137000,
+                "ncovidconf": 51,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 734,
+                "extract": 1618570838000,
+                "ncovidconf": 53,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 735,
+                "extract": 1618658137000,
+                "ncovidconf": 50,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 736,
+                "extract": 1618745436000,
+                "ncovidconf": 47,
+                "ndischcovidconf": 3,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 737,
+                "extract": 1618830938000,
+                "ncovidconf": 50,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 738,
+                "extract": 1618917337000,
+                "ncovidconf": 48,
+                "ndischcovidconf": 5,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 739,
+                "extract": 1619002836000,
+                "ncovidconf": 47,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 740,
+                "extract": 1619091038000,
+                "ncovidconf": 48,
+                "ndischcovidconf": 3,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 741,
+                "extract": 1619177437000,
+                "ncovidconf": 48,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 742,
+                "extract": 1619262936000,
+                "ncovidconf": 46,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 743,
+                "extract": 1619347538000,
+                "ncovidconf": 45,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 744,
+                "extract": 1619435737000,
+                "ncovidconf": 46,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 745,
+                "extract": 1619521238000,
+                "ncovidconf": 47,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 746,
+                "extract": 1619609438000,
+                "ncovidconf": 45,
+                "ndischcovidconf": 4,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 747,
+                "extract": 1619695836000,
+                "ncovidconf": 44,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 748,
+                "extract": 1619780437000,
+                "ncovidconf": 44,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 749,
+                "extract": 1619869537000,
+                "ncovidconf": 41,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 750,
+                "extract": 1619954136000,
+                "ncovidconf": 41,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 751,
+                "extract": 1620041436000,
+                "ncovidconf": 40,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 752,
+                "extract": 1620127837000,
+                "ncovidconf": 41,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 753,
+                "extract": 1620211538000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 3,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 754,
+                "extract": 1620299738000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 755,
+                "extract": 1620386137000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 756,
+                "extract": 1620474336000,
+                "ncovidconf": 33,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 757,
+                "extract": 1620560737000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 758,
+                "extract": 1620645336000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 759,
+                "extract": 1620729936000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 760,
+                "extract": 1620819037000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 761,
+                "extract": 1620903639000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 764,
+                "extract": 1620994500000,
+                "ncovidconf": 39,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 765,
+                "extract": 1621078200000,
+                "ncovidconf": 40,
+                "ndischcovidconf": 0,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 766,
+                "extract": 1621163700000,
+                "ncovidconf": 42,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 767,
+                "extract": 1621251000000,
+                "ncovidconf": 42,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 768,
+                "extract": 1621338300000,
+                "ncovidconf": 39,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 769,
+                "extract": 1621423800000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 770,
+                "extract": 1621509300000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 771,
+                "extract": 1621594800000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 772,
+                "extract": 1621683000000,
+                "ncovidconf": 42,
+                "ndischcovidconf": 1,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 773,
+                "extract": 1621769400000,
+                "ncovidconf": 43,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 774,
+                "extract": 1621855800000,
+                "ncovidconf": 44,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 775,
+                "extract": 1621939500000,
+                "ncovidconf": 41,
+                "ndischcovidconf": 4,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 776,
+                "extract": 1622027700000,
+                "ncovidconf": 41,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 777,
+                "extract": 1622115000000,
+                "ncovidconf": 39,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 778,
+                "extract": 1622200500000,
+                "ncovidconf": 38,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 779,
+                "extract": 1622287800000,
+                "ncovidconf": 35,
+                "ndischcovidconf": 3,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 780,
+                "extract": 1622372400000,
+                "ncovidconf": 35,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 781,
+                "extract": 1622458800000,
+                "ncovidconf": 35,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 782,
+                "extract": 1622546100000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 783,
+                "extract": 1622633400000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 784,
+                "extract": 1622720700000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 5,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 785,
+                "extract": 1622804400000,
+                "ncovidconf": 28,
+                "ndischcovidconf": 6,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 786,
+                "extract": 1622892600000,
+                "ncovidconf": 29,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 787,
+                "extract": 1622977200000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 788,
+                "extract": 1623066300000,
+                "ncovidconf": 26,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 789,
+                "extract": 1623150900000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 791,
+                "extract": 1623238200000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 792,
+                "extract": 1623324600000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 4,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 793,
+                "extract": 1623411000000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 794,
+                "extract": 1623495600000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 795,
+                "extract": 1623584700000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 796,
+                "extract": 1623670200000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 797,
+                "extract": 1623756600000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 798,
+                "extract": 1623843000000,
+                "ncovidconf": 19,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 799,
+                "extract": 1623929400000,
+                "ncovidconf": 18,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 800,
+                "extract": 1624014000000,
+                "ncovidconf": 15,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 801,
+                "extract": 1624100400000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 802,
+                "extract": 1624186800000,
+                "ncovidconf": 15,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 804,
+                "extract": 1624275000000,
+                "ncovidconf": 13,
+                "ndischcovidconf": 1,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 805,
+                "extract": 1624362300000,
+                "ncovidconf": 13,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 806,
+                "extract": 1624446900000,
+                "ncovidconf": 13,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 807,
+                "extract": 1624534200000,
+                "ncovidconf": 13,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 808,
+                "extract": 1624619700000,
+                "ncovidconf": 13,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 809,
+                "extract": 1624706100000,
+                "ncovidconf": 13,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 810,
+                "extract": 1624790700000,
+                "ncovidconf": 15,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 811,
+                "extract": 1624879800000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 812,
+                "extract": 1624963500000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 813,
+                "extract": 1625053500000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 814,
+                "extract": 1625138100000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 815,
+                "extract": 1625225400000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 816,
+                "extract": 1625311851000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 817,
+                "extract": 1625396400000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 818,
+                "extract": 1625481900000,
+                "ncovidconf": 14,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 819,
+                "extract": 1625569200000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 820,
+                "extract": 1625657400000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 821,
+                "extract": 1625742000000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 822,
+                "extract": 1625827500000,
+                "ncovidconf": 15,
+                "ndischcovidconf": 2,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 823,
+                "extract": 1625914800000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 824,
+                "extract": 1626000300000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 825,
+                "extract": 1626086700000,
+                "ncovidconf": 16,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 826,
+                "extract": 1626175800000,
+                "ncovidconf": 17,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 827,
+                "extract": 1626261300000,
+                "ncovidconf": 20,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 828,
+                "extract": 1626347700000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 829,
+                "extract": 1626435000000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 830,
+                "extract": 1626520500000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 831,
+                "extract": 1626606900000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 0,
+                "adcconf": 0
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 832,
+                "extract": 1626693352000,
+                "ncovidconf": 20,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 833,
+                "extract": 1626781552000,
+                "ncovidconf": 21,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 834,
+                "extract": 1626868800000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 2,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 835,
+                "extract": 1626950700000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 836,
+                "extract": 1627039800000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 3,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 837,
+                "extract": 1627126200000,
+                "ncovidconf": 21,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 838,
+                "extract": 1627209900000,
+                "ncovidconf": 22,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 839,
+                "extract": 1627300800000,
+                "ncovidconf": 25,
+                "ndischcovidconf": 1,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 840,
+                "extract": 1627384500000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 3,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 841,
+                "extract": 1627474500000,
+                "ncovidconf": 26,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 842,
+                "extract": 1627558200000,
+                "ncovidconf": 26,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 843,
+                "extract": 1627644600000,
+                "ncovidconf": 23,
+                "ndischcovidconf": 3,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 845,
+                "extract": 1627730100000,
+                "ncovidconf": 26,
+                "ndischcovidconf": 1,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 846,
+                "extract": 1627814700000,
+                "ncovidconf": 26,
+                "ndischcovidconf": 1,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 847,
+                "extract": 1627902000000,
+                "ncovidconf": 27,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 848,
+                "extract": 1627988400000,
+                "ncovidconf": 29,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 849,
+                "extract": 1628075700000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 0,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 850,
+                "extract": 1628162100000,
+                "ncovidconf": 28,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 851,
+                "extract": 1628248500000,
+                "ncovidconf": 30,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 852,
+                "extract": 1628333100000,
+                "ncovidconf": 33,
+                "ndischcovidconf": 1,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 853,
+                "extract": 1628420400000,
+                "ncovidconf": 31,
+                "ndischcovidconf": 4,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 854,
+                "extract": 1628507700000,
+                "ncovidconf": 34,
+                "ndischcovidconf": 0,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 855,
+                "extract": 1628593200000,
+                "ncovidconf": 33,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 856,
+                "extract": 1628679600000,
+                "ncovidconf": 36,
+                "ndischcovidconf": 3,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 857,
+                "extract": 1628767800000,
+                "ncovidconf": 37,
+                "ndischcovidconf": 4,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 858,
+                "extract": 1628854200000,
+                "ncovidconf": 43,
+                "ndischcovidconf": 1,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 859,
+                "extract": 1628939700000,
+                "ncovidconf": 43,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 860,
+                "extract": 1629025200000,
+                "ncovidconf": 48,
+                "ndischcovidconf": 1,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 861,
+                "extract": 1629112500000,
+                "ncovidconf": 51,
+                "ndischcovidconf": 1,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 862,
+                "extract": 1629199800000,
+                "ncovidconf": 54,
+                "ndischcovidconf": 2,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 863,
+                "extract": 1629287100000,
+                "ncovidconf": 54,
+                "ndischcovidconf": 5,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 864,
+                "extract": 1629372600000,
+                "ncovidconf": 52,
+                "ndischcovidconf": 4,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 865,
+                "extract": 1629459000000,
+                "ncovidconf": 52,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 866,
+                "extract": 1629545400000,
+                "ncovidconf": 54,
+                "ndischcovidconf": 1,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 867,
+                "extract": 1629629100000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 0,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 868,
+                "extract": 1629717300000,
+                "ncovidconf": 60,
+                "ndischcovidconf": 5,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 869,
+                "extract": 1629803700000,
+                "ncovidconf": 55,
+                "ndischcovidconf": 9,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 870,
+                "extract": 1629891900000,
+                "ncovidconf": 56,
+                "ndischcovidconf": 4,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 871,
+                "extract": 1629976500000,
+                "ncovidconf": 61,
+                "ndischcovidconf": 3,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 872,
+                "extract": 1630062900000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 3,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 873,
+                "extract": 1630149300000,
+                "ncovidconf": 61,
+                "ndischcovidconf": 2,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 874,
+                "extract": 1630237500000,
+                "ncovidconf": 60,
+                "ndischcovidconf": 3,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 875,
+                "extract": 1630323000000,
+                "ncovidconf": 61,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 876,
+                "extract": 1630408500000,
+                "ncovidconf": 54,
+                "ndischcovidconf": 9,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 877,
+                "extract": 1630495800000,
+                "ncovidconf": 56,
+                "ndischcovidconf": 4,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 878,
+                "extract": 1630583100000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 2,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 879,
+                "extract": 1630668600000,
+                "ncovidconf": 55,
+                "ndischcovidconf": 6,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 880,
+                "extract": 1630754100000,
+                "ncovidconf": 52,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 881,
+                "extract": 1630844100000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 0,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 882,
+                "extract": 1630927800000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 883,
+                "extract": 1631013300000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 4,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 884,
+                "extract": 1631100600000,
+                "ncovidconf": 56,
+                "ndischcovidconf": 8,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 885,
+                "extract": 1631185200000,
+                "ncovidconf": 54,
+                "ndischcovidconf": 4,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 886,
+                "extract": 1631274300000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 2,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 887,
+                "extract": 1631360700000,
+                "ncovidconf": 58,
+                "ndischcovidconf": 4,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 888,
+                "extract": 1631443500000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 889,
+                "extract": 1631531700000,
+                "ncovidconf": 58,
+                "ndischcovidconf": 0,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 890,
+                "extract": 1631619900000,
+                "ncovidconf": 60,
+                "ndischcovidconf": 2,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 891,
+                "extract": 1631707200000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 3,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 892,
+                "extract": 1631791800000,
+                "ncovidconf": 67,
+                "ndischcovidconf": 3,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 893,
+                "extract": 1631879100000,
+                "ncovidconf": 73,
+                "ndischcovidconf": 2,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 894,
+                "extract": 1631964600000,
+                "ncovidconf": 66,
+                "ndischcovidconf": 6,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 895,
+                "extract": 1632051000000,
+                "ncovidconf": 63,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 896,
+                "extract": 1632137400000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 1,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 897,
+                "extract": 1632225600000,
+                "ncovidconf": 63,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 898,
+                "extract": 1632311100000,
+                "ncovidconf": 63,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 899,
+                "extract": 1632398400000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 5,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 900,
+                "extract": 1632484800000,
+                "ncovidconf": 61,
+                "ndischcovidconf": 3,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 901,
+                "extract": 1632569400000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 1,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 902,
+                "extract": 1632656700000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 4,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 903,
+                "extract": 1632743100000,
+                "ncovidconf": 66,
+                "ndischcovidconf": 2,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 904,
+                "extract": 1632829500000,
+                "ncovidconf": 63,
+                "ndischcovidconf": 7,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 905,
+                "extract": 1632915000000,
+                "ncovidconf": 60,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 906,
+                "extract": 1633003200000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 907,
+                "extract": 1633091400000,
+                "ncovidconf": 59,
+                "ndischcovidconf": 4,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 908,
+                "extract": 1633174200000,
+                "ncovidconf": 56,
+                "ndischcovidconf": 5,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 909,
+                "extract": 1633257900000,
+                "ncovidconf": 60,
+                "ndischcovidconf": 0,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 910,
+                "extract": 1633347900000,
+                "ncovidconf": 64,
+                "ndischcovidconf": 2,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 911,
+                "extract": 1633433400000,
+                "ncovidconf": 65,
+                "ndischcovidconf": 2,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 912,
+                "extract": 1633520700000,
+                "ncovidconf": 70,
+                "ndischcovidconf": 2,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 913,
+                "extract": 1633608000000,
+                "ncovidconf": 69,
+                "ndischcovidconf": 5,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 914,
+                "extract": 1633693500000,
+                "ncovidconf": 73,
+                "ndischcovidconf": 2,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 915,
+                "extract": 1633778100000,
+                "ncovidconf": 74,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 916,
+                "extract": 1633864500000,
+                "ncovidconf": 74,
+                "ndischcovidconf": 4,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 917,
+                "extract": 1633951800000,
+                "ncovidconf": 75,
+                "ndischcovidconf": 4,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 918,
+                "extract": 1634037300000,
+                "ncovidconf": 73,
+                "ndischcovidconf": 4,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 919,
+                "extract": 1634126400000,
+                "ncovidconf": 69,
+                "ndischcovidconf": 4,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 920,
+                "extract": 1634212800000,
+                "ncovidconf": 70,
+                "ndischcovidconf": 7,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 921,
+                "extract": 1634298300000,
+                "ncovidconf": 73,
+                "ndischcovidconf": 2,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 922,
+                "extract": 1634385600000,
+                "ncovidconf": 71,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 923,
+                "extract": 1634472000000,
+                "ncovidconf": 74,
+                "ndischcovidconf": 2,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 924,
+                "extract": 1634558400000,
+                "ncovidconf": 73,
+                "ndischcovidconf": 2,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 925,
+                "extract": 1634643900000,
+                "ncovidconf": 74,
+                "ndischcovidconf": 4,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 926,
+                "extract": 1634730300000,
+                "ncovidconf": 86,
+                "ndischcovidconf": 0,
+                "adcconf": 14
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 927,
+                "extract": 1634814000000,
+                "ncovidconf": 88,
+                "ndischcovidconf": 0,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 928,
+                "extract": 1634902200000,
+                "ncovidconf": 90,
+                "ndischcovidconf": 4,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 929,
+                "extract": 1634988600000,
+                "ncovidconf": 93,
+                "ndischcovidconf": 2,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 930,
+                "extract": 1635074100000,
+                "ncovidconf": 97,
+                "ndischcovidconf": 1,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 931,
+                "extract": 1635161400000,
+                "ncovidconf": 99,
+                "ndischcovidconf": 5,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 932,
+                "extract": 1635248700000,
+                "ncovidconf": 97,
+                "ndischcovidconf": 3,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 933,
+                "extract": 1635334200000,
+                "ncovidconf": 101,
+                "ndischcovidconf": 3,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 934,
+                "extract": 1635423300000,
+                "ncovidconf": 99,
+                "ndischcovidconf": 9,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 935,
+                "extract": 1635507900000,
+                "ncovidconf": 97,
+                "ndischcovidconf": 6,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 936,
+                "extract": 1635595200000,
+                "ncovidconf": 92,
+                "ndischcovidconf": 8,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 937,
+                "extract": 1635681600000,
+                "ncovidconf": 93,
+                "ndischcovidconf": 5,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 938,
+                "extract": 1635766200000,
+                "ncovidconf": 91,
+                "ndischcovidconf": 2,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 940,
+                "extract": 1635853500000,
+                "ncovidconf": 90,
+                "ndischcovidconf": 2,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 941,
+                "extract": 1635938152000,
+                "ncovidconf": 86,
+                "ndischcovidconf": 7,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 942,
+                "extract": 1636027200000,
+                "ncovidconf": 90,
+                "ndischcovidconf": 3,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 943,
+                "extract": 1636113600000,
+                "ncovidconf": 76,
+                "ndischcovidconf": 11,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 944,
+                "extract": 1636197300000,
+                "ncovidconf": 74,
+                "ndischcovidconf": 8,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 945,
+                "extract": 1636281900000,
+                "ncovidconf": 75,
+                "ndischcovidconf": 1,
+                "adcconf": 3
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 946,
+                "extract": 1636370100000,
+                "ncovidconf": 78,
+                "ndischcovidconf": 3,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 947,
+                "extract": 1636458300000,
+                "ncovidconf": 83,
+                "ndischcovidconf": 3,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 948,
+                "extract": 1636545600000,
+                "ncovidconf": 89,
+                "ndischcovidconf": 4,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 949,
+                "extract": 1636631100000,
+                "ncovidconf": 97,
+                "ndischcovidconf": 1,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 950,
+                "extract": 1636718400000,
+                "ncovidconf": 96,
+                "ndischcovidconf": 4,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 951,
+                "extract": 1636804800000,
+                "ncovidconf": 107,
+                "ndischcovidconf": 3,
+                "adcconf": 15
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 952,
+                "extract": 1636887600000,
+                "ncovidconf": 106,
+                "ndischcovidconf": 2,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 953,
+                "extract": 1636975800000,
+                "ncovidconf": 117,
+                "ndischcovidconf": 2,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 954,
+                "extract": 1637061300000,
+                "ncovidconf": 114,
+                "ndischcovidconf": 5,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 955,
+                "extract": 1637149500000,
+                "ncovidconf": 119,
+                "ndischcovidconf": 6,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 956,
+                "extract": 1637236800000,
+                "ncovidconf": 118,
+                "ndischcovidconf": 4,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 957,
+                "extract": 1637323200000,
+                "ncovidconf": 118,
+                "ndischcovidconf": 8,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 958,
+                "extract": 1637409600000,
+                "ncovidconf": 121,
+                "ndischcovidconf": 5,
+                "adcconf": 11
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 959,
+                "extract": 1637493300000,
+                "ncovidconf": 125,
+                "ndischcovidconf": 2,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 960,
+                "extract": 1637582400000,
+                "ncovidconf": 126,
+                "ndischcovidconf": 4,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 961,
+                "extract": 1637667900000,
+                "ncovidconf": 130,
+                "ndischcovidconf": 4,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 963,
+                "extract": 1637756100000,
+                "ncovidconf": 132,
+                "ndischcovidconf": 6,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 964,
+                "extract": 1637840700000,
+                "ncovidconf": 126,
+                "ndischcovidconf": 11,
+                "adcconf": 8
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 965,
+                "extract": 1637923500000,
+                "ncovidconf": 118,
+                "ndischcovidconf": 5,
+                "adcconf": 2
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 966,
+                "extract": 1638014400000,
+                "ncovidconf": 121,
+                "ndischcovidconf": 4,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 967,
+                "extract": 1638099900000,
+                "ncovidconf": 117,
+                "ndischcovidconf": 8,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 968,
+                "extract": 1638187200000,
+                "ncovidconf": 115,
+                "ndischcovidconf": 5,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 969,
+                "extract": 1638271800000,
+                "ncovidconf": 122,
+                "ndischcovidconf": 0,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 970,
+                "extract": 1638360900000,
+                "ncovidconf": 117,
+                "ndischcovidconf": 7,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 971,
+                "extract": 1638444600000,
+                "ncovidconf": 117,
+                "ndischcovidconf": 2,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 972,
+                "extract": 1638532800000,
+                "ncovidconf": 110,
+                "ndischcovidconf": 10,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 973,
+                "extract": 1638617400000,
+                "ncovidconf": 114,
+                "ndischcovidconf": 5,
+                "adcconf": 10
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 974,
+                "extract": 1638701100000,
+                "ncovidconf": 110,
+                "ndischcovidconf": 4,
+                "adcconf": 1
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 975,
+                "extract": 1638792000000,
+                "ncovidconf": 110,
+                "ndischcovidconf": 4,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 976,
+                "extract": 1638879300000,
+                "ncovidconf": 117,
+                "ndischcovidconf": 3,
+                "adcconf": 14
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 977,
+                "extract": 1638961200000,
+                "ncovidconf": 118,
+                "ndischcovidconf": 3,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 978,
+                "extract": 1639058460000,
+                "ncovidconf": 115,
+                "ndischcovidconf": 10,
+                "adcconf": 7
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 979,
+                "extract": 1639136700000,
+                "ncovidconf": 110,
+                "ndischcovidconf": 8,
+                "adcconf": 5
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 980,
+                "extract": 1639220400000,
+                "ncovidconf": 111,
+                "ndischcovidconf": 3,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 981,
+                "extract": 1639305000000,
+                "ncovidconf": 109,
+                "ndischcovidconf": 6,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 982,
+                "extract": 1639396800000,
+                "ncovidconf": 108,
+                "ndischcovidconf": 3,
+                "adcconf": 4
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 983,
+                "extract": 1639480500000,
+                "ncovidconf": 109,
+                "ndischcovidconf": 8,
+                "adcconf": 9
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 984,
+                "extract": 1639566900000,
+                "ncovidconf": 105,
+                "ndischcovidconf": 10,
+                "adcconf": 12
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 985,
+                "extract": 1639654200000,
+                "ncovidconf": 108,
+                "ndischcovidconf": 1,
+                "adcconf": 6
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 986,
+                "extract": 1639741500000,
+                "ncovidconf": 105,
+                "ndischcovidconf": 3,
+                "adcconf": 6
+            }
+        }
+    ]
+}

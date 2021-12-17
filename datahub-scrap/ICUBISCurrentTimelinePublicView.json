@@ -1,0 +1,62 @@
+{
+    "objectIdFieldName": "OBJECTID",
+    "uniqueIdField": {
+        "name": "OBJECTID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "extract",
+            "type": "esriFieldTypeDate",
+            "alias": "Daily Extract",
+            "sqlType": "sqlTypeOther",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "ncovidconf",
+            "type": "esriFieldTypeInteger",
+            "alias": "nCovidConf",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "ndischcovidconf",
+            "type": "esriFieldTypeInteger",
+            "alias": "nDischCovidConf",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "adcconf",
+            "type": "esriFieldTypeInteger",
+            "alias": "nAdmitCovidConf",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 935,
+                "extract": 1639741500000,
+                "ncovidconf": 105,
+                "ndischcovidconf": 3,
+                "adcconf": 6
+            }
+        }
+    ]
+}
