@@ -18,7 +18,7 @@ From October 5th 2021, vaccine visualisation has been discontinued. The schema f
 
 ## Booster rollout
 
-tbd
+https://plallin.github.io/coviz/booster.html
 
 ## Data scrap
 
