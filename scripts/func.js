@@ -198,3 +198,53 @@ function tabulate(data, columns) {
     // d3.select("#data_table").append("table").attr("id", "datatable")
     return table;
 }
+
+function tabulateBooster(data, columns) {
+    var table = d3.select("#booster_table").append("table").attr("id", "datatable"),
+        thead = table.append("thead"),
+        tbody = table.append("tbody");
+
+    // append the header row
+    thead.append("tr")
+        .selectAll("th")
+        .data(columns)
+        .enter()
+        .append("th")
+        .text(function(column) {
+            return column;
+        });
+
+    // create a row for each object in the data
+    var rows = tbody.selectAll("tr")
+        .data(data)
+        .enter()
+        .append("tr");
+
+    // create a cell in each row for each column
+    var cells = rows.selectAll("td")
+        .data(function(row) {
+            return columns.map(function(column) {
+                return {
+                    column: column,
+                    value: row[column]
+                };
+            });
+        })
+        .enter()
+        .append("td")
+        .html(function(d) {
+            // d3.select(this.parentNode).style("background-color", "#FFFF00")
+            if (d.column == "VaccineText") {
+                tableDateFormat = d3.time.format("%a %d %b %y")
+                return tableDateFormat(d.value)
+            }
+            if (d.column == "PerBoosterDose") {
+                return parseFloat(d.value).toFixed(2)+"%"
+
+            }
+            return parseInt(d.value).toLocaleString();
+        });
+
+    // d3.select("#data_table").append("table").attr("id", "datatable")
+    return table;
+}
