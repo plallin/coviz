@@ -16,12 +16,7 @@ var parseDate = d3.time.format("%a %d %b %Y").parse,
 
 var colors = {
     total: '#1E3F66',
-    first_dose: '#73A5C6',
-    second_dose: '#BCD2E8',
-    pfizer_biontech: '#A9DDB1',
-    moderna: '#FEDD9E',
-    astrazeneca: '#D9C4EC',
-    janssen: '#FF8776',
+    immuno: '#73A5C6',
     day: '#BCD2E8'
 }
 
@@ -160,7 +155,7 @@ d3.json("datahub-scrap/COVID19_HSE_vaccine_booster_dose_daily.json", function(er
     svgAppendy(svgDayAvg, yDayAvgAxis, "Daily boosters, 7 day average")
 
     // add line to graph
-    svgAppendPath(svgTotalVax, data, "line-first-dose", lineImmuno, "ImmunocompromisedDose")
+    svgAppendPath(svgTotalVax, data, "line-immuno", lineImmuno, "ImmunocompromisedDose")
     svgAppendPath(svgTotalVax, data, "line-total", lineTotal, "AdditionalDoseCumulative")
     svgAppendPath(svgDayAvg, data, "line", lineDayAvg, "")
     svgAppendPath(svgDayAvg, data, "area", areaDayAvg, "")
@@ -169,10 +164,10 @@ d3.json("datahub-scrap/COVID19_HSE_vaccine_booster_dose_daily.json", function(er
 
     // do mouseover thingy
     var focusTotal = svgAppengg(svgTotalVax, colors.total)
-    var focusFirstDose = svgAppengg(svgTotalVax, colors.first_dose)
+    var focusImmuno = svgAppengg(svgTotalVax, colors.immuno)
     var focusDayAvg = svgAppengg(svgDayAvg, "#2E5984")
 
-    var allTotalFocus = [focusTotal, focusFirstDose]
+    var allTotalFocus = [focusTotal, focusImmuno]
     var allTotalValues = ["AdditionalDoseCum", "ImmunoDoseCum"]
 
     svgAppendRect(svgTotalVax, data, width, height, allTotalFocus, x, yTotal, allTotalValues, formatDate)
@@ -180,7 +175,7 @@ d3.json("datahub-scrap/COVID19_HSE_vaccine_booster_dose_daily.json", function(er
 
     // Create tool tip
     appendTooltip(focusTotal, '#91BAD6')
-    appendTooltip(focusFirstDose, colors.first_dose)
+    appendTooltip(focusImmuno, colors.immuno)
     appendTooltip(focusDayAvg, colors.day, 'Average')
 
 

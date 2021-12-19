@@ -37,6 +37,12 @@ body {
   stroke-width: 1.75px;
 }
 
+.line-immuno {
+  fill: none;
+  stroke: #73A5C6;
+  stroke-width: 1.75px;
+}
+
 .line-second-dose {
   fill: none;
   stroke: #BCD2E8;
