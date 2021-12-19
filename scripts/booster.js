@@ -111,12 +111,11 @@ d3.json("datahub-scrap/COVID19_HSE_vaccine_booster_dose_daily.json", function(er
     
     // read data
     daily_data.forEach(function(d) {
-        // console.log(d["attributes"])
         d["attributes"].VaccineText = parseDate(d["attributes"].VaccineText);
         d["attributes"].AdditionalDoseCum = +d["attributes"].AdditionalDoseCum;
         d["attributes"].AdditionalDose = +d["attributes"].AdditionalDose;
-        d["attributes"].AdditionalDose = +d["attributes"].ImmunoDose;
-        d["attributes"].AdditionalDose = +d["attributes"].ImmunoDoseCum;
+        d["attributes"].ImmunoDose = +d["attributes"].ImmunoDose;
+        d["attributes"].ImmunoDoseCum = +d["attributes"].ImmunoDoseCum;
         data.push(d["attributes"])
     });
 
@@ -128,19 +127,13 @@ d3.json("datahub-scrap/COVID19_HSE_vaccine_booster_dose_daily.json", function(er
     rolling_day_avg = 0
     // compute 7-day average
     data.forEach((d, i) => {
-        console.log(d)
-        rolling_day_avg = 0
-        for (j=0; j<7; j++) {
-            if (i-j < 0) {
-
-            } else {
-                console.log(data[i-j].AdditionalDose)
-                rolling_day_avg += data[i-j].AdditionalDose
-            }
+        if (i-7 < 0) {
+            rolling_day_avg += d.AdditionalDose
+        } else {
+            rolling_day_avg = rolling_day_avg + d.AdditionalDose - data[i-7].AdditionalDose
         }
         d["rolling_day_avg"] = Math.round(rolling_day_avg / 7)
         d["date"] = d.VaccineText // screw this, I'm taking the easy way out!
-        // console.log(d)
     })
 
     // date of first vaccine
