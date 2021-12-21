@@ -133,7 +133,7 @@ d3.json("datahub-scrap/COVID19_HSE_vaccine_booster_dose_daily.json", function(er
 
     // date of first vaccine
     firstVax = data[0].date
-    dateOfLastUpdate = data.at(-1).date
+    dateOfLastUpdate = data[data.length - 1].date
 
     // x domain (date) is the same for both graph
     x.domain([firstVax, dateOfLastUpdate]);
