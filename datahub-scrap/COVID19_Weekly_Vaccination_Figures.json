@@ -184,7 +184,7 @@
         {
             "name": "ParCum_Age10to19",
             "type": "esriFieldTypeInteger",
-            "alias": "Cumulative Age 12 to 19",
+            "alias": "Cumulative Age 10 to 19",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -256,7 +256,7 @@
         {
             "name": "ParPer_Age0to9",
             "type": "esriFieldTypeDouble",
-            "alias": "At Least One Dose Percent Age 5 to 11",
+            "alias": "At Least One Dose Percent Age 0 to 9",
             "sqlType": "sqlTypeFloat",
             "domain": null,
             "defaultValue": null
@@ -264,7 +264,7 @@
         {
             "name": "ParPer_Age10to19",
             "type": "esriFieldTypeDouble",
-            "alias": "At Least One Dose Percent Age 12 to 19",
+            "alias": "At Least One Dose Percent Age 10 to 19",
             "sqlType": "sqlTypeFloat",
             "domain": null,
             "defaultValue": null
@@ -337,7 +337,7 @@
         {
             "name": "Fully_Age0to9",
             "type": "esriFieldTypeInteger",
-            "alias": "Fully Vaccinated Age 5 to 11",
+            "alias": "Fully Vaccinated Age 0 to 9",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -345,7 +345,7 @@
         {
             "name": "Fully_Age10to19",
             "type": "esriFieldTypeInteger",
-            "alias": "Fully Vaccinated Age 12 to 19",
+            "alias": "Fully Vaccinated Age 10 to 19",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
