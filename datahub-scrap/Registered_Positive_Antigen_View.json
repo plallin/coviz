@@ -29,42 +29,6 @@
             "defaultValue": null
         },
         {
-            "name": "CreationDate",
-            "type": "esriFieldTypeDate",
-            "alias": "CreationDate",
-            "sqlType": "sqlTypeOther",
-            "length": 8,
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Creator",
-            "type": "esriFieldTypeString",
-            "alias": "Creator",
-            "sqlType": "sqlTypeOther",
-            "length": 128,
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "EditDate",
-            "type": "esriFieldTypeDate",
-            "alias": "EditDate",
-            "sqlType": "sqlTypeOther",
-            "length": 8,
-            "domain": null,
-            "defaultValue": null
-        },
-        {
-            "name": "Editor",
-            "type": "esriFieldTypeString",
-            "alias": "Editor",
-            "sqlType": "sqlTypeOther",
-            "length": 128,
-            "domain": null,
-            "defaultValue": null
-        },
-        {
             "name": "DateOfData",
             "type": "esriFieldTypeDate",
             "alias": "Date",
@@ -87,10 +51,6 @@
             "attributes": {
                 "objectid": 1,
                 "globalid": "f9d98b44-d890-4e7a-8309-9dc434147a5f",
-                "CreationDate": 1642610900950,
-                "Creator": "content_osireland",
-                "EditDate": 1642610900950,
-                "Editor": "content_osireland",
                 "DateOfData": 1642161600000,
                 "RegisteredPositiveAntigenFigure": 3764
             }
@@ -99,10 +59,6 @@
             "attributes": {
                 "objectid": 2,
                 "globalid": "2bb5db84-22ba-4961-8d01-5ce87871f44f",
-                "CreationDate": 1642611008877,
-                "Creator": "content_osireland",
-                "EditDate": 1642611008877,
-                "Editor": "content_osireland",
                 "DateOfData": 1642248000000,
                 "RegisteredPositiveAntigenFigure": 5406
             }
@@ -111,10 +67,6 @@
             "attributes": {
                 "objectid": 3,
                 "globalid": "2765a5ff-5bfa-4e19-8b9d-a74ea28a6245",
-                "CreationDate": 1642611069238,
-                "Creator": "content_osireland",
-                "EditDate": 1642611069238,
-                "Editor": "content_osireland",
                 "DateOfData": 1642334400000,
                 "RegisteredPositiveAntigenFigure": 5000
             }
@@ -123,10 +75,6 @@
             "attributes": {
                 "objectid": 4,
                 "globalid": "dc2adbbf-40d1-466f-867a-33f5e3d0938a",
-                "CreationDate": 1642611084946,
-                "Creator": "content_osireland",
-                "EditDate": 1642611084946,
-                "Editor": "content_osireland",
                 "DateOfData": 1642420800000,
                 "RegisteredPositiveAntigenFigure": 4810
             }
