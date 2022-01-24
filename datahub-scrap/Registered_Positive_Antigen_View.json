@@ -51,32 +51,56 @@
             "attributes": {
                 "objectid": 1,
                 "globalid": "f9d98b44-d890-4e7a-8309-9dc434147a5f",
-                "DateOfData": 1642161600000,
-                "RegisteredPositiveAntigenFigure": 3764
-            }
-        },
-        {
-            "attributes": {
-                "objectid": 2,
-                "globalid": "2bb5db84-22ba-4961-8d01-5ce87871f44f",
                 "DateOfData": 1642248000000,
                 "RegisteredPositiveAntigenFigure": 5406
             }
         },
         {
             "attributes": {
+                "objectid": 2,
+                "globalid": "2bb5db84-22ba-4961-8d01-5ce87871f44f",
+                "DateOfData": 1642334400000,
+                "RegisteredPositiveAntigenFigure": 4208
+            }
+        },
+        {
+            "attributes": {
                 "objectid": 3,
                 "globalid": "2765a5ff-5bfa-4e19-8b9d-a74ea28a6245",
-                "DateOfData": 1642334400000,
-                "RegisteredPositiveAntigenFigure": 5000
+                "DateOfData": 1642420800000,
+                "RegisteredPositiveAntigenFigure": 4810
             }
         },
         {
             "attributes": {
                 "objectid": 4,
                 "globalid": "dc2adbbf-40d1-466f-867a-33f5e3d0938a",
-                "DateOfData": 1642420800000,
-                "RegisteredPositiveAntigenFigure": 4810
+                "DateOfData": 1642507200000,
+                "RegisteredPositiveAntigenFigure": 5916
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 5,
+                "globalid": "f80a6642-1c9e-42fa-8ded-9a12eee6fa3f",
+                "DateOfData": 1642593600000,
+                "RegisteredPositiveAntigenFigure": 5295
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 6,
+                "globalid": "13a3548e-dbc5-444e-810f-2d52bfe6860a",
+                "DateOfData": 1642680000000,
+                "RegisteredPositiveAntigenFigure": 5048
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 7,
+                "globalid": "35bb90b3-efc1-4bf6-8042-7634fbb97da8",
+                "DateOfData": 1642766400000,
+                "RegisteredPositiveAntigenFigure": 4564
             }
         }
     ]
