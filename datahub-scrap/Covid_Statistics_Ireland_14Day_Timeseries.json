@@ -5574,6 +5574,30 @@
                 "FID": 691,
                 "DateTimeStampText": "Fri, 28th Jan 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1643414400000,
+                "TotalConfirmedCovidCases": 33499,
+                "FID": 692,
+                "DateTimeStampText": "Sat, 29th Jan 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1643500800000,
+                "TotalConfirmedCovidCases": 33168,
+                "FID": 693,
+                "DateTimeStampText": "Sun, 30th Jan 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1643587200000,
+                "TotalConfirmedCovidCases": 33348,
+                "FID": 694,
+                "DateTimeStampText": "Mon, 31st Jan 2022"
+            }
         }
     ]
 }
