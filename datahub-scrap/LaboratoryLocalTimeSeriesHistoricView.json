@@ -10278,12 +10278,12 @@
                 "Hospitals": 3569745,
                 "TotalLabs": 10839355,
                 "NonHospitals": 7269610,
-                "Positive": 1192646,
+                "Positive": 1192645,
                 "PRate": 11,
                 "Test24": 15729,
                 "Test7": 129449,
-                "Pos7": 39029,
-                "PosR7": 30.2,
+                "Pos7": 39028,
+                "PosR7": 30.1,
                 "FID": 679
             }
         },
@@ -10293,11 +10293,11 @@
                 "Hospitals": 3578015,
                 "TotalLabs": 10859605,
                 "NonHospitals": 7281590,
-                "Positive": 1198384,
+                "Positive": 1198383,
                 "PRate": 11,
                 "Test24": 20250,
                 "Test7": 126923,
-                "Pos7": 37921,
+                "Pos7": 37920,
                 "PosR7": 29.9,
                 "FID": 680
             }
@@ -10308,11 +10308,11 @@
                 "Hospitals": 3585367,
                 "TotalLabs": 10877578,
                 "NonHospitals": 7292211,
-                "Positive": 1203779,
+                "Positive": 1203778,
                 "PRate": 11.1,
                 "Test24": 17973,
                 "Test7": 124399,
-                "Pos7": 37474,
+                "Pos7": 37473,
                 "PosR7": 30.1,
                 "FID": 681
             }
@@ -10323,11 +10323,11 @@
                 "Hospitals": 3592185,
                 "TotalLabs": 10895212,
                 "NonHospitals": 7303027,
-                "Positive": 1209096,
+                "Positive": 1209095,
                 "PRate": 11.1,
                 "Test24": 17634,
                 "Test7": 121344,
-                "Pos7": 35953,
+                "Pos7": 35952,
                 "PosR7": 29.6,
                 "FID": 682
             }
@@ -10350,14 +10350,14 @@
         {
             "attributes": {
                 "Date_HPSC": 1643540400000,
-                "Hospitals": 3604014,
-                "TotalLabs": 10927169,
+                "Hospitals": 3604042,
+                "TotalLabs": 10927197,
                 "NonHospitals": 7323155,
-                "Positive": 1218864,
+                "Positive": 1218871,
                 "PRate": 11.2,
-                "Test24": 14508,
-                "Test7": 116900,
-                "Pos7": 34429,
+                "Test24": 14536,
+                "Test7": 116928,
+                "Pos7": 34436,
                 "PosR7": 29.5,
                 "FID": 684
             }
@@ -10365,14 +10365,14 @@
         {
             "attributes": {
                 "Date_HPSC": 1643626800000,
-                "Hospitals": 3608411,
-                "TotalLabs": 10940412,
+                "Hospitals": 3608486,
+                "TotalLabs": 10940487,
                 "NonHospitals": 7332001,
-                "Positive": 1222982,
+                "Positive": 1223001,
                 "PRate": 11.2,
-                "Test24": 13243,
-                "Test7": 116786,
-                "Pos7": 34558,
+                "Test24": 13290,
+                "Test7": 116861,
+                "Pos7": 34577,
                 "PosR7": 29.6,
                 "FID": 685
             }
@@ -10380,14 +10380,14 @@
         {
             "attributes": {
                 "Date_HPSC": 1643713200000,
-                "Hospitals": 3616020,
-                "TotalLabs": 10956316,
-                "NonHospitals": 7340296,
-                "Positive": 1227312,
+                "Hospitals": 3616221,
+                "TotalLabs": 10956516,
+                "NonHospitals": 7340295,
+                "Positive": 1227337,
                 "PRate": 11.2,
-                "Test24": 15904,
-                "Test7": 116961,
-                "Pos7": 34666,
+                "Test24": 16029,
+                "Test7": 117161,
+                "Pos7": 34692,
                 "PosR7": 29.6,
                 "FID": 686
             }
@@ -10395,16 +10395,31 @@
         {
             "attributes": {
                 "Date_HPSC": 1643799600000,
-                "Hospitals": 3623019,
-                "TotalLabs": 10974971,
-                "NonHospitals": 7351952,
-                "Positive": 1233099,
+                "Hospitals": 3623961,
+                "TotalLabs": 10975911,
+                "NonHospitals": 7351950,
+                "Positive": 1233174,
                 "PRate": 11.2,
-                "Test24": 18655,
-                "Test7": 115366,
-                "Pos7": 34715,
-                "PosR7": 30.1,
+                "Test24": 19395,
+                "Test7": 116306,
+                "Pos7": 34791,
+                "PosR7": 29.9,
                 "FID": 687
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1643886000000,
+                "Hospitals": 3630955,
+                "TotalLabs": 10994994,
+                "NonHospitals": 7364039,
+                "Positive": 1239442,
+                "PRate": 11.3,
+                "Test24": 19083,
+                "Test7": 117416,
+                "Pos7": 35664,
+                "PosR7": 30.4,
+                "FID": 688
             }
         }
     ]
