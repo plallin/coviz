@@ -5630,6 +5630,30 @@
                 "FID": 698,
                 "DateTimeStampText": "Fri, 4th Feb 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1644019200000,
+                "TotalConfirmedCovidCases": 37438,
+                "FID": 699,
+                "DateTimeStampText": "Sat, 5th Feb 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1644105600000,
+                "TotalConfirmedCovidCases": 37971,
+                "FID": 700,
+                "DateTimeStampText": "Sun, 6th Feb 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1644192000000,
+                "TotalConfirmedCovidCases": 38074,
+                "FID": 701,
+                "DateTimeStampText": "Mon, 7th Feb 2022"
+            }
         }
     ]
 }
