@@ -270,6 +270,30 @@
                 "DateOfData": 1644580800000,
                 "RegisteredPositiveAntigenFigure": 4445
             }
+        },
+        {
+            "attributes": {
+                "objectid": 29,
+                "globalid": "a1c29d4d-8c14-47cf-8089-fe1a3931a12b",
+                "DateOfData": 1644667200000,
+                "RegisteredPositiveAntigenFigure": 3650
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 30,
+                "globalid": "afd8e537-0439-40a1-8646-4cbb8bd300f3",
+                "DateOfData": 1644753600000,
+                "RegisteredPositiveAntigenFigure": 2950
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 31,
+                "globalid": "fb85779c-a125-4306-82a3-acd07998fbd4",
+                "DateOfData": 1644840000000,
+                "RegisteredPositiveAntigenFigure": 3609
+            }
         }
     ]
 }

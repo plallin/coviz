@@ -5686,6 +5686,30 @@
                 "FID": 705,
                 "DateTimeStampText": "Fri, 11th Feb 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1644624000000,
+                "TotalConfirmedCovidCases": 35572,
+                "FID": 706,
+                "DateTimeStampText": "Sat, 12th Feb 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1644710400000,
+                "TotalConfirmedCovidCases": 34970,
+                "FID": 707,
+                "DateTimeStampText": "Sun, 13th Feb 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1644796800000,
+                "TotalConfirmedCovidCases": 34489,
+                "FID": 708,
+                "DateTimeStampText": "Mon, 14th Feb 2022"
+            }
         }
     ]
 }
