@@ -5750,6 +5750,30 @@
                 "FID": 713,
                 "DateTimeStampText": "Fri, 18th Feb 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1645228800000,
+                "TotalConfirmedCovidCases": 22208,
+                "FID": 714,
+                "DateTimeStampText": "Sat, 19th Feb 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1645315200000,
+                "TotalConfirmedCovidCases": 21228,
+                "FID": 715,
+                "DateTimeStampText": "Sun, 20th Feb 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1645401600000,
+                "TotalConfirmedCovidCases": 21207,
+                "FID": 716,
+                "DateTimeStampText": "Mon, 21st Feb 2022"
+            }
         }
     ]
 }
