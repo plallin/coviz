@@ -5918,6 +5918,30 @@
                 "FID": 734,
                 "DateTimeStampText": "Fri, 11th Mar 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1647043200000,
+                "TotalConfirmedCovidCases": 27204,
+                "FID": 735,
+                "DateTimeStampText": "Sat, 12th Mar 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1647129600000,
+                "TotalConfirmedCovidCases": 31425,
+                "FID": 736,
+                "DateTimeStampText": "Sun, 13th Mar 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1647216000000,
+                "TotalConfirmedCovidCases": 31142,
+                "FID": 737,
+                "DateTimeStampText": "Mon, 14th Mar 2022"
+            }
         }
     ]
 }
