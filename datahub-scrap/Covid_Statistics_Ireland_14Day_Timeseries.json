@@ -6030,6 +6030,30 @@
                 "FID": 748,
                 "DateTimeStampText": "Fri, 25th Mar 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1648252800000,
+                "TotalConfirmedCovidCases": 49588,
+                "FID": 749,
+                "DateTimeStampText": "Sat, 26th Mar 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1648339200000,
+                "TotalConfirmedCovidCases": 51461,
+                "FID": 750,
+                "DateTimeStampText": "Sun, 27th Mar 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1648425600000,
+                "TotalConfirmedCovidCases": 52700,
+                "FID": 751,
+                "DateTimeStampText": "Mon, 28th Mar 2022"
+            }
         }
     ]
 }
