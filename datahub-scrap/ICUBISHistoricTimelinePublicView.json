@@ -6663,6 +6663,15 @@
                 "ndischcovidconf": 8,
                 "adcconf": 10
             }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 1093,
+                "extract": 1648898100000,
+                "ncovidconf": 52,
+                "ndischcovidconf": 10,
+                "adcconf": 4
+            }
         }
     ]
 }
