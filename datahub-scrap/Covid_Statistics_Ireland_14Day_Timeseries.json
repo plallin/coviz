@@ -6142,6 +6142,30 @@
                 "FID": 762,
                 "DateTimeStampText": "Fri, 8th Apr 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1649462400000,
+                "TotalConfirmedCovidCases": 21012,
+                "FID": 763,
+                "DateTimeStampText": "Sat, 9th Apr 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1649548800000,
+                "TotalConfirmedCovidCases": 20141,
+                "FID": 764,
+                "DateTimeStampText": "Sun, 10th Apr 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1649635200000,
+                "TotalConfirmedCovidCases": 18692,
+                "FID": 765,
+                "DateTimeStampText": "Mon, 11th Apr 2022"
+            }
         }
     ]
 }
