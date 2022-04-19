@@ -6190,6 +6190,46 @@
                 "FID": 768,
                 "DateTimeStampText": "Thu, 14th Apr 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1649980800000,
+                "TotalConfirmedCovidCases": 13440,
+                "FID": 769,
+                "DateTimeStampText": "Fri, 15th Apr 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1650067200000,
+                "TotalConfirmedCovidCases": 12361,
+                "FID": 770,
+                "DateTimeStampText": "Sat, 16th Apr 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1650153600000,
+                "TotalConfirmedCovidCases": 11771,
+                "FID": 771,
+                "DateTimeStampText": "Sun, 17th Apr 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1650240000000,
+                "TotalConfirmedCovidCases": 11724,
+                "FID": 772,
+                "DateTimeStampText": "Mon, 18th Apr 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1650326400000,
+                "TotalConfirmedCovidCases": 10754,
+                "FID": 773,
+                "DateTimeStampText": "Tue, 19th Apr 2022"
+            }
         }
     ]
 }
