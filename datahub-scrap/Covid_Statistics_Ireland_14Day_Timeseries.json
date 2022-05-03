@@ -6310,6 +6310,38 @@
                 "FID": 783,
                 "DateTimeStampText": "Fri, 29th Apr 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1651276800000,
+                "TotalConfirmedCovidCases": 6784,
+                "FID": 784,
+                "DateTimeStampText": "Sat, 30th Apr 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1651363200000,
+                "TotalConfirmedCovidCases": 6267,
+                "FID": 785,
+                "DateTimeStampText": "Sun, 1st May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1651449600000,
+                "TotalConfirmedCovidCases": 5993,
+                "FID": 786,
+                "DateTimeStampText": "Mon, 2nd May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1651536000000,
+                "TotalConfirmedCovidCases": 5261,
+                "FID": 787,
+                "DateTimeStampText": "Tue, 3rd May 2022"
+            }
         }
     ]
 }
