@@ -6366,6 +6366,30 @@
                 "FID": 790,
                 "DateTimeStampText": "Fri, 6th May 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1651881600000,
+                "TotalConfirmedCovidCases": 5735,
+                "FID": 791,
+                "DateTimeStampText": "Sat, 7th May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1651968000000,
+                "TotalConfirmedCovidCases": 6071,
+                "FID": 792,
+                "DateTimeStampText": "Sun, 8th May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1652054400000,
+                "TotalConfirmedCovidCases": 5750,
+                "FID": 793,
+                "DateTimeStampText": "Mon, 9th May 2022"
+            }
         }
     ]
 }
