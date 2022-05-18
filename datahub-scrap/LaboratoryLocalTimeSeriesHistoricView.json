@@ -11925,13 +11925,13 @@
         {
             "attributes": {
                 "Date_HPSC": 1652612400000,
-                "Hospitals": 4171043,
-                "TotalLabs": 12154266,
+                "Hospitals": 4171040,
+                "TotalLabs": 12154263,
                 "NonHospitals": 7983223,
                 "Positive": 1592450,
                 "PRate": 13.1,
-                "Test24": 3938,
-                "Test7": 39710,
+                "Test24": 3935,
+                "Test7": 39707,
                 "Pos7": 4941,
                 "PosR7": 12.4,
                 "FID": 789
@@ -11940,13 +11940,13 @@
         {
             "attributes": {
                 "Date_HPSC": 1652698800000,
-                "Hospitals": 4174155,
-                "TotalLabs": 12158872,
+                "Hospitals": 4174151,
+                "TotalLabs": 12158868,
                 "NonHospitals": 7984717,
                 "Positive": 1592997,
                 "PRate": 13.1,
-                "Test24": 4606,
-                "Test7": 39078,
+                "Test24": 4605,
+                "Test7": 39074,
                 "Pos7": 4839,
                 "PosR7": 12.4,
                 "FID": 790
@@ -11955,16 +11955,31 @@
         {
             "attributes": {
                 "Date_HPSC": 1652785200000,
-                "Hospitals": 4177907,
-                "TotalLabs": 12163385,
+                "Hospitals": 4178516,
+                "TotalLabs": 12163994,
                 "NonHospitals": 7985478,
-                "Positive": 1593534,
+                "Positive": 1593559,
                 "PRate": 13.1,
-                "Test24": 4513,
-                "Test7": 37156,
-                "Pos7": 4681,
-                "PosR7": 12.6,
+                "Test24": 5126,
+                "Test7": 37765,
+                "Pos7": 4706,
+                "PosR7": 12.5,
                 "FID": 791
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1652871600000,
+                "Hospitals": 4182175,
+                "TotalLabs": 12169068,
+                "NonHospitals": 7986893,
+                "Positive": 1594233,
+                "PRate": 13.1,
+                "Test24": 5074,
+                "Test7": 35704,
+                "Pos7": 4450,
+                "PosR7": 12.5,
+                "FID": 792
             }
         }
     ]
