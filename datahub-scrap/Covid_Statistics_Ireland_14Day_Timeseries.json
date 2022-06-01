@@ -6518,6 +6518,62 @@
                 "FID": 809,
                 "DateTimeStampText": "Wed, 25th May 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1653523200000,
+                "TotalConfirmedCovidCases": 3897,
+                "FID": 810,
+                "DateTimeStampText": "Thu, 26th May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1653609600000,
+                "TotalConfirmedCovidCases": 4138,
+                "FID": 811,
+                "DateTimeStampText": "Fri, 27th May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1653696000000,
+                "TotalConfirmedCovidCases": 4396,
+                "FID": 812,
+                "DateTimeStampText": "Sat, 28th May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1653782400000,
+                "TotalConfirmedCovidCases": 4279,
+                "FID": 813,
+                "DateTimeStampText": "Sun, 29th May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1653868800000,
+                "TotalConfirmedCovidCases": 4045,
+                "FID": 814,
+                "DateTimeStampText": "Mon, 30th May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1653955200000,
+                "TotalConfirmedCovidCases": 4443,
+                "FID": 815,
+                "DateTimeStampText": "Tue, 31st May 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1654041600000,
+                "TotalConfirmedCovidCases": 4338,
+                "FID": 816,
+                "DateTimeStampText": "Wed, 1st Jun 2022"
+            }
         }
     ]
 }
