@@ -344,9 +344,10 @@
         },
         {
             "name": "BoosterPer_Age0to9",
-            "type": "esriFieldTypeInteger",
+            "type": "esriFieldTypeString",
             "alias": "IDandADTotal % of Population Age5to11",
             "sqlType": "sqlTypeInteger",
+            "length": 256,
             "domain": null,
             "defaultValue": null
         },
