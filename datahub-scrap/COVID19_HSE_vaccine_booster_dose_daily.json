@@ -90,7 +90,7 @@
     "features": [
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1632697200000,
                 "VaccineText": "Mon 27 Sep 2021",
                 "AdditionalDose": 238,
@@ -103,7 +103,7 @@
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1632783600000,
                 "VaccineText": "Tue 28 Sep 2021",
                 "AdditionalDose": 509,
@@ -116,7 +116,7 @@
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1632870000000,
                 "VaccineText": "Wed 29 Sep 2021",
                 "AdditionalDose": 647,
@@ -129,3707 +129,3720 @@
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1632956400000,
                 "VaccineText": "Thu 30 Sep 2021",
-                "AdditionalDose": 1575,
-                "ImmunoDose": 180,
-                "AdditionalDoseCum": 2969,
-                "ImmunoDoseCum": 303,
+                "AdditionalDose": 1574,
+                "ImmunoDose": 181,
+                "AdditionalDoseCum": 2968,
+                "ImmunoDoseCum": 304,
                 "PerBoosterDose": 0.0694853391668173,
                 "ObjectId": 4
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633042800000,
                 "VaccineText": "Fri 01 Oct 2021",
                 "AdditionalDose": 2462,
                 "ImmunoDose": 301,
-                "AdditionalDoseCum": 5431,
-                "ImmunoDoseCum": 604,
+                "AdditionalDoseCum": 5430,
+                "ImmunoDoseCum": 605,
                 "PerBoosterDose": 0.128161375877672,
                 "ObjectId": 5
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633129200000,
                 "VaccineText": "Sat 02 Oct 2021",
                 "AdditionalDose": 1018,
                 "ImmunoDose": 243,
-                "AdditionalDoseCum": 6449,
-                "ImmunoDoseCum": 847,
+                "AdditionalDoseCum": 6448,
+                "ImmunoDoseCum": 848,
                 "PerBoosterDose": 0.154940413985666,
                 "ObjectId": 6
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633215600000,
                 "VaccineText": "Sun 03 Oct 2021",
                 "AdditionalDose": 33,
                 "ImmunoDose": 1171,
-                "AdditionalDoseCum": 6482,
-                "ImmunoDoseCum": 2018,
+                "AdditionalDoseCum": 6481,
+                "ImmunoDoseCum": 2019,
                 "PerBoosterDose": 0.180508980109397,
                 "ObjectId": 7
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633302000000,
                 "VaccineText": "Mon 04 Oct 2021",
                 "AdditionalDose": 4275,
                 "ImmunoDose": 587,
-                "AdditionalDoseCum": 10757,
-                "ImmunoDoseCum": 2605,
+                "AdditionalDoseCum": 10756,
+                "ImmunoDoseCum": 2606,
                 "PerBoosterDose": 0.283760116731972,
                 "ObjectId": 8
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633388400000,
                 "VaccineText": "Tue 05 Oct 2021",
                 "AdditionalDose": 8227,
                 "ImmunoDose": 547,
-                "AdditionalDoseCum": 18984,
-                "ImmunoDoseCum": 3152,
+                "AdditionalDoseCum": 18983,
+                "ImmunoDoseCum": 3153,
                 "PerBoosterDose": 0.470087856906072,
                 "ObjectId": 9
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633474800000,
                 "VaccineText": "Wed 06 Oct 2021",
                 "AdditionalDose": 10734,
                 "ImmunoDose": 1669,
-                "AdditionalDoseCum": 29718,
-                "ImmunoDoseCum": 4821,
+                "AdditionalDoseCum": 29717,
+                "ImmunoDoseCum": 4822,
                 "PerBoosterDose": 0.733482313411584,
                 "ObjectId": 10
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633561200000,
                 "VaccineText": "Thu 07 Oct 2021",
-                "AdditionalDose": 10558,
-                "ImmunoDose": 1459,
-                "AdditionalDoseCum": 40276,
-                "ImmunoDoseCum": 6280,
-                "PerBoosterDose": 0.988679538585069,
+                "AdditionalDose": 10557,
+                "ImmunoDose": 1461,
+                "AdditionalDoseCum": 40274,
+                "ImmunoDoseCum": 6283,
+                "PerBoosterDose": 0.98870077493567,
                 "ObjectId": 11
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633647600000,
                 "VaccineText": "Fri 08 Oct 2021",
-                "AdditionalDose": 10652,
-                "ImmunoDose": 1771,
-                "AdditionalDoseCum": 50928,
-                "ImmunoDoseCum": 8051,
-                "PerBoosterDose": 1.2524987221026,
+                "AdditionalDose": 10651,
+                "ImmunoDose": 1772,
+                "AdditionalDoseCum": 50925,
+                "ImmunoDoseCum": 8055,
+                "PerBoosterDose": 1.2525199584532,
                 "ObjectId": 12
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633734000000,
                 "VaccineText": "Sat 09 Oct 2021",
                 "AdditionalDose": 4902,
                 "ImmunoDose": 1668,
-                "AdditionalDoseCum": 55830,
-                "ImmunoDoseCum": 9719,
-                "PerBoosterDose": 1.39202154555187,
+                "AdditionalDoseCum": 55827,
+                "ImmunoDoseCum": 9723,
+                "PerBoosterDose": 1.39204278190247,
                 "ObjectId": 13
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633820400000,
                 "VaccineText": "Sun 10 Oct 2021",
                 "AdditionalDose": 726,
                 "ImmunoDose": 585,
-                "AdditionalDoseCum": 56556,
-                "ImmunoDoseCum": 10304,
-                "PerBoosterDose": 1.41986240118992,
+                "AdditionalDoseCum": 56553,
+                "ImmunoDoseCum": 10308,
+                "PerBoosterDose": 1.41988363754052,
                 "ObjectId": 14
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633906800000,
                 "VaccineText": "Mon 11 Oct 2021",
                 "AdditionalDose": 5660,
                 "ImmunoDose": 1031,
-                "AdditionalDoseCum": 62216,
-                "ImmunoDoseCum": 11335,
-                "PerBoosterDose": 1.56195482306191,
+                "AdditionalDoseCum": 62213,
+                "ImmunoDoseCum": 11339,
+                "PerBoosterDose": 1.56197605941251,
                 "ObjectId": 15
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1633993200000,
                 "VaccineText": "Tue 12 Oct 2021",
-                "AdditionalDose": 9528,
-                "ImmunoDose": 1117,
-                "AdditionalDoseCum": 71744,
-                "ImmunoDoseCum": 12452,
-                "PerBoosterDose": 1.78799453886008,
+                "AdditionalDose": 9527,
+                "ImmunoDose": 1118,
+                "AdditionalDoseCum": 71740,
+                "ImmunoDoseCum": 12457,
+                "PerBoosterDose": 1.78801577521068,
                 "ObjectId": 16
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634079600000,
                 "VaccineText": "Wed 13 Oct 2021",
-                "AdditionalDose": 10704,
-                "ImmunoDose": 1334,
-                "AdditionalDoseCum": 82448,
-                "ImmunoDoseCum": 13786,
-                "PerBoosterDose": 2.04363772739619,
+                "AdditionalDose": 10702,
+                "ImmunoDose": 1336,
+                "AdditionalDoseCum": 82442,
+                "ImmunoDoseCum": 13793,
+                "PerBoosterDose": 2.04365896374679,
                 "ObjectId": 17
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634166000000,
                 "VaccineText": "Thu 14 Oct 2021",
                 "AdditionalDose": 12402,
                 "ImmunoDose": 1880,
-                "AdditionalDoseCum": 94850,
-                "ImmunoDoseCum": 15666,
-                "PerBoosterDose": 2.34693528668118,
+                "AdditionalDoseCum": 94844,
+                "ImmunoDoseCum": 15673,
+                "PerBoosterDose": 2.34695652303178,
                 "ObjectId": 18
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634252400000,
                 "VaccineText": "Fri 15 Oct 2021",
                 "AdditionalDose": 8348,
                 "ImmunoDose": 2720,
-                "AdditionalDoseCum": 103198,
-                "ImmunoDoseCum": 18386,
-                "PerBoosterDose": 2.58197921513421,
+                "AdditionalDoseCum": 103192,
+                "ImmunoDoseCum": 18393,
+                "PerBoosterDose": 2.58200045148481,
                 "ObjectId": 19
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634338800000,
                 "VaccineText": "Sat 16 Oct 2021",
                 "AdditionalDose": 4963,
                 "ImmunoDose": 2945,
-                "AdditionalDoseCum": 108161,
-                "ImmunoDoseCum": 21331,
-                "PerBoosterDose": 2.74991627568776,
+                "AdditionalDoseCum": 108155,
+                "ImmunoDoseCum": 21338,
+                "PerBoosterDose": 2.74993751203836,
                 "ObjectId": 20
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634425200000,
                 "VaccineText": "Sun 17 Oct 2021",
                 "AdditionalDose": 569,
                 "ImmunoDose": 1125,
-                "AdditionalDoseCum": 108730,
-                "ImmunoDoseCum": 22456,
-                "PerBoosterDose": 2.78589065360603,
+                "AdditionalDoseCum": 108724,
+                "ImmunoDoseCum": 22463,
+                "PerBoosterDose": 2.78591188995663,
                 "ObjectId": 21
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634511600000,
                 "VaccineText": "Mon 18 Oct 2021",
                 "AdditionalDose": 3888,
                 "ImmunoDose": 1138,
-                "AdditionalDoseCum": 112618,
-                "ImmunoDoseCum": 23594,
-                "PerBoosterDose": 2.89262455172718,
+                "AdditionalDoseCum": 112612,
+                "ImmunoDoseCum": 23601,
+                "PerBoosterDose": 2.89264578807779,
                 "ObjectId": 22
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634598000000,
                 "VaccineText": "Tue 19 Oct 2021",
                 "AdditionalDose": 7612,
                 "ImmunoDose": 2433,
-                "AdditionalDoseCum": 120230,
-                "ImmunoDoseCum": 26027,
-                "PerBoosterDose": 3.10594369351529,
+                "AdditionalDoseCum": 120224,
+                "ImmunoDoseCum": 26034,
+                "PerBoosterDose": 3.10596492986589,
                 "ObjectId": 23
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634684400000,
                 "VaccineText": "Wed 20 Oct 2021",
-                "AdditionalDose": 7413,
-                "ImmunoDose": 2609,
-                "AdditionalDoseCum": 127643,
-                "ImmunoDoseCum": 28636,
-                "PerBoosterDose": 3.31877439923957,
+                "AdditionalDose": 7409,
+                "ImmunoDose": 2613,
+                "AdditionalDoseCum": 127633,
+                "ImmunoDoseCum": 28647,
+                "PerBoosterDose": 3.31879563559017,
                 "ObjectId": 24
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634770800000,
                 "VaccineText": "Thu 21 Oct 2021",
-                "AdditionalDose": 8175,
-                "ImmunoDose": 3209,
-                "AdditionalDoseCum": 135818,
-                "ImmunoDoseCum": 31845,
-                "PerBoosterDose": 3.56050777813195,
+                "AdditionalDose": 8174,
+                "ImmunoDose": 3210,
+                "AdditionalDoseCum": 135807,
+                "ImmunoDoseCum": 31857,
+                "PerBoosterDose": 3.56052901448255,
                 "ObjectId": 25
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634857200000,
                 "VaccineText": "Fri 22 Oct 2021",
-                "AdditionalDose": 4965,
-                "ImmunoDose": 3159,
-                "AdditionalDoseCum": 140783,
-                "ImmunoDoseCum": 35004,
-                "PerBoosterDose": 3.73303189041533,
+                "AdditionalDose": 4963,
+                "ImmunoDose": 3161,
+                "AdditionalDoseCum": 140770,
+                "ImmunoDoseCum": 35018,
+                "PerBoosterDose": 3.73305312676594,
                 "ObjectId": 26
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1634943600000,
                 "VaccineText": "Sat 23 Oct 2021",
-                "AdditionalDose": 700,
-                "ImmunoDose": 754,
-                "AdditionalDoseCum": 141483,
-                "ImmunoDoseCum": 35758,
-                "PerBoosterDose": 3.76390954418934,
+                "AdditionalDose": 699,
+                "ImmunoDose": 755,
+                "AdditionalDoseCum": 141469,
+                "ImmunoDoseCum": 35773,
+                "PerBoosterDose": 3.76393078053994,
                 "ObjectId": 27
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635030000000,
                 "VaccineText": "Sun 24 Oct 2021",
                 "AdditionalDose": 90,
                 "ImmunoDose": 1284,
-                "AdditionalDoseCum": 141573,
-                "ImmunoDoseCum": 37042,
-                "PerBoosterDose": 3.79308828991526,
+                "AdditionalDoseCum": 141559,
+                "ImmunoDoseCum": 37057,
+                "PerBoosterDose": 3.79310952626586,
                 "ObjectId": 28
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635116400000,
                 "VaccineText": "Mon 25 Oct 2021",
                 "AdditionalDose": 87,
                 "ImmunoDose": 453,
-                "AdditionalDoseCum": 141660,
-                "ImmunoDoseCum": 37495,
-                "PerBoosterDose": 3.80455591923986,
+                "AdditionalDoseCum": 141646,
+                "ImmunoDoseCum": 37510,
+                "PerBoosterDose": 3.80457715559046,
                 "ObjectId": 29
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635202800000,
                 "VaccineText": "Tue 26 Oct 2021",
-                "AdditionalDose": 2681,
+                "AdditionalDose": 2680,
                 "ImmunoDose": 1857,
-                "AdditionalDoseCum": 144341,
-                "ImmunoDoseCum": 39352,
+                "AdditionalDoseCum": 144326,
+                "ImmunoDoseCum": 39367,
                 "PerBoosterDose": 3.90092647826767,
                 "ObjectId": 30
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635289200000,
                 "VaccineText": "Wed 27 Oct 2021",
-                "AdditionalDose": 4000,
-                "ImmunoDose": 3387,
-                "AdditionalDoseCum": 148341,
-                "ImmunoDoseCum": 42739,
-                "PerBoosterDose": 4.05779940015804,
+                "AdditionalDose": 3998,
+                "ImmunoDose": 3388,
+                "AdditionalDoseCum": 148324,
+                "ImmunoDoseCum": 42755,
+                "PerBoosterDose": 4.05777816380744,
                 "ObjectId": 31
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635375600000,
                 "VaccineText": "Thu 28 Oct 2021",
-                "AdditionalDose": 4241,
-                "ImmunoDose": 3234,
-                "AdditionalDoseCum": 152582,
-                "ImmunoDoseCum": 45973,
-                "PerBoosterDose": 4.21654112090131,
+                "AdditionalDose": 4240,
+                "ImmunoDose": 3235,
+                "AdditionalDoseCum": 152564,
+                "ImmunoDoseCum": 45990,
+                "PerBoosterDose": 4.2165198845507,
                 "ObjectId": 32
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635462000000,
                 "VaccineText": "Fri 29 Oct 2021",
                 "AdditionalDose": 3492,
-                "ImmunoDose": 3267,
-                "AdditionalDoseCum": 156074,
-                "ImmunoDoseCum": 49240,
+                "ImmunoDose": 3268,
+                "AdditionalDoseCum": 156056,
+                "ImmunoDoseCum": 49258,
                 "PerBoosterDose": 4.36007761461418,
                 "ObjectId": 33
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635548400000,
                 "VaccineText": "Sat 30 Oct 2021",
-                "AdditionalDose": 1178,
-                "ImmunoDose": 1005,
-                "AdditionalDoseCum": 157252,
-                "ImmunoDoseCum": 50245,
-                "PerBoosterDose": 4.40643656797639,
+                "AdditionalDose": 1177,
+                "ImmunoDose": 1007,
+                "AdditionalDoseCum": 157233,
+                "ImmunoDoseCum": 50265,
+                "PerBoosterDose": 4.40645780432699,
                 "ObjectId": 34
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635634800000,
                 "VaccineText": "Sun 31 Oct 2021",
                 "AdditionalDose": 202,
                 "ImmunoDose": 819,
-                "AdditionalDoseCum": 157454,
-                "ImmunoDoseCum": 51064,
-                "PerBoosterDose": 4.42811888194012,
+                "AdditionalDoseCum": 157435,
+                "ImmunoDoseCum": 51084,
+                "PerBoosterDose": 4.42814011829072,
                 "ObjectId": 35
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635724800000,
                 "VaccineText": "Mon 01 Nov 2021",
                 "AdditionalDose": 2566,
                 "ImmunoDose": 324,
-                "AdditionalDoseCum": 160020,
-                "ImmunoDoseCum": 51388,
-                "PerBoosterDose": 4.48949193517731,
+                "AdditionalDoseCum": 160001,
+                "ImmunoDoseCum": 51408,
+                "PerBoosterDose": 4.48951317152792,
                 "ObjectId": 36
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635811200000,
                 "VaccineText": "Tue 02 Nov 2021",
-                "AdditionalDose": 5476,
-                "ImmunoDose": 2930,
-                "AdditionalDoseCum": 165496,
-                "ImmunoDoseCum": 54318,
-                "PerBoosterDose": 4.66800469833021,
+                "AdditionalDose": 5473,
+                "ImmunoDose": 2933,
+                "AdditionalDoseCum": 165474,
+                "ImmunoDoseCum": 54341,
+                "PerBoosterDose": 4.66802593468081,
                 "ObjectId": 37
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635897600000,
                 "VaccineText": "Wed 03 Nov 2021",
-                "AdditionalDose": 6272,
-                "ImmunoDose": 2388,
-                "AdditionalDoseCum": 171768,
-                "ImmunoDoseCum": 56706,
-                "PerBoosterDose": 4.85191149453578,
+                "AdditionalDose": 6271,
+                "ImmunoDose": 2389,
+                "AdditionalDoseCum": 171745,
+                "ImmunoDoseCum": 56730,
+                "PerBoosterDose": 4.85193273088638,
                 "ObjectId": 38
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1635984000000,
                 "VaccineText": "Thu 04 Nov 2021",
-                "AdditionalDose": 10013,
-                "ImmunoDose": 2269,
-                "AdditionalDoseCum": 181781,
-                "ImmunoDoseCum": 58975,
-                "PerBoosterDose": 5.11273635261856,
+                "AdditionalDose": 10011,
+                "ImmunoDose": 2271,
+                "AdditionalDoseCum": 181756,
+                "ImmunoDoseCum": 59001,
+                "PerBoosterDose": 5.11275758896916,
                 "ObjectId": 39
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636070400000,
                 "VaccineText": "Fri 05 Nov 2021",
-                "AdditionalDose": 12824,
-                "ImmunoDose": 1527,
-                "AdditionalDoseCum": 194605,
-                "ImmunoDoseCum": 60502,
-                "PerBoosterDose": 5.41749922009502,
+                "AdditionalDose": 12822,
+                "ImmunoDose": 1529,
+                "AdditionalDoseCum": 194578,
+                "ImmunoDoseCum": 60530,
+                "PerBoosterDose": 5.41752045644562,
                 "ObjectId": 40
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636156800000,
                 "VaccineText": "Sat 06 Nov 2021",
                 "AdditionalDose": 9821,
                 "ImmunoDose": 1562,
-                "AdditionalDoseCum": 204426,
-                "ImmunoDoseCum": 62064,
-                "PerBoosterDose": 5.65923259898741,
+                "AdditionalDoseCum": 204399,
+                "ImmunoDoseCum": 62092,
+                "PerBoosterDose": 5.65925383533801,
                 "ObjectId": 41
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636243200000,
                 "VaccineText": "Sun 07 Nov 2021",
                 "AdditionalDose": 10705,
                 "ImmunoDose": 581,
-                "AdditionalDoseCum": 215131,
-                "ImmunoDoseCum": 62645,
-                "PerBoosterDose": 5.89890605187149,
+                "AdditionalDoseCum": 215104,
+                "ImmunoDoseCum": 62673,
+                "PerBoosterDose": 5.89892728822209,
                 "ObjectId": 42
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636329600000,
                 "VaccineText": "Mon 08 Nov 2021",
                 "AdditionalDose": 14232,
                 "ImmunoDose": 562,
-                "AdditionalDoseCum": 229363,
-                "ImmunoDoseCum": 63207,
-                "PerBoosterDose": 6.21307662266424,
+                "AdditionalDoseCum": 229336,
+                "ImmunoDoseCum": 63235,
+                "PerBoosterDose": 6.21309785901484,
                 "ObjectId": 43
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636416000000,
                 "VaccineText": "Tue 09 Nov 2021",
                 "AdditionalDose": 22220,
-                "ImmunoDose": 1112,
-                "AdditionalDoseCum": 251583,
-                "ImmunoDoseCum": 64319,
-                "PerBoosterDose": 6.70856315488923,
+                "ImmunoDose": 1113,
+                "AdditionalDoseCum": 251556,
+                "ImmunoDoseCum": 64348,
+                "PerBoosterDose": 6.70860562759044,
                 "ObjectId": 44
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636502400000,
                 "VaccineText": "Wed 10 Nov 2021",
-                "AdditionalDose": 25695,
-                "ImmunoDose": 1314,
-                "AdditionalDoseCum": 277278,
-                "ImmunoDoseCum": 65633,
-                "PerBoosterDose": 7.28213574827449,
+                "AdditionalDose": 25692,
+                "ImmunoDose": 1317,
+                "AdditionalDoseCum": 277248,
+                "ImmunoDoseCum": 65665,
+                "PerBoosterDose": 7.28217822097569,
                 "ObjectId": 45
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636588800000,
                 "VaccineText": "Thu 11 Nov 2021",
-                "AdditionalDose": 28582,
-                "ImmunoDose": 1562,
-                "AdditionalDoseCum": 305860,
-                "ImmunoDoseCum": 67195,
-                "PerBoosterDose": 7.92228430079422,
+                "AdditionalDose": 28579,
+                "ImmunoDose": 1565,
+                "AdditionalDoseCum": 305827,
+                "ImmunoDoseCum": 67230,
+                "PerBoosterDose": 7.92232677349542,
                 "ObjectId": 46
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636675200000,
                 "VaccineText": "Fri 12 Nov 2021",
                 "AdditionalDose": 24762,
                 "ImmunoDose": 1454,
-                "AdditionalDoseCum": 330622,
-                "ImmunoDoseCum": 68649,
-                "PerBoosterDose": 8.4790164681528,
+                "AdditionalDoseCum": 330589,
+                "ImmunoDoseCum": 68684,
+                "PerBoosterDose": 8.479058940854,
                 "ObjectId": 47
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636761600000,
                 "VaccineText": "Sat 13 Nov 2021",
-                "AdditionalDose": 18997,
-                "ImmunoDose": 1059,
-                "AdditionalDoseCum": 349619,
-                "ImmunoDoseCum": 69708,
-                "PerBoosterDose": 8.90493271580857,
+                "AdditionalDose": 18996,
+                "ImmunoDose": 1060,
+                "AdditionalDoseCum": 349585,
+                "ImmunoDoseCum": 69744,
+                "PerBoosterDose": 8.90497518850978,
                 "ObjectId": 48
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636848000000,
                 "VaccineText": "Sun 14 Nov 2021",
                 "AdditionalDose": 8914,
                 "ImmunoDose": 326,
-                "AdditionalDoseCum": 358533,
-                "ImmunoDoseCum": 70034,
-                "PerBoosterDose": 9.10115659536279,
+                "AdditionalDoseCum": 358499,
+                "ImmunoDoseCum": 70070,
+                "PerBoosterDose": 9.10119906806399,
                 "ObjectId": 49
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1636934400000,
                 "VaccineText": "Mon 15 Nov 2021",
-                "AdditionalDose": 14306,
-                "ImmunoDose": 674,
-                "AdditionalDoseCum": 372839,
-                "ImmunoDoseCum": 70708,
-                "PerBoosterDose": 9.41927712736735,
+                "AdditionalDose": 14305,
+                "ImmunoDose": 675,
+                "AdditionalDoseCum": 372804,
+                "ImmunoDoseCum": 70745,
+                "PerBoosterDose": 9.41931960006855,
                 "ObjectId": 50
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637020800000,
                 "VaccineText": "Tue 16 Nov 2021",
-                "AdditionalDose": 26729,
+                "AdditionalDose": 26730,
                 "ImmunoDose": 1579,
-                "AdditionalDoseCum": 399568,
-                "ImmunoDoseCum": 72287,
-                "PerBoosterDose": 10.0204357401834,
+                "AdditionalDoseCum": 399534,
+                "ImmunoDoseCum": 72324,
+                "PerBoosterDose": 10.0204994492352,
                 "ObjectId": 51
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637107200000,
                 "VaccineText": "Wed 17 Nov 2021",
-                "AdditionalDose": 31241,
-                "ImmunoDose": 2228,
-                "AdditionalDoseCum": 430809,
-                "ImmunoDoseCum": 74515,
-                "PerBoosterDose": 10.7311951584518,
+                "AdditionalDose": 31238,
+                "ImmunoDose": 2231,
+                "AdditionalDoseCum": 430772,
+                "ImmunoDoseCum": 74555,
+                "PerBoosterDose": 10.7312588675036,
                 "ObjectId": 52
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637193600000,
                 "VaccineText": "Thu 18 Nov 2021",
                 "AdditionalDose": 35873,
                 "ImmunoDose": 2507,
-                "AdditionalDoseCum": 466682,
-                "ImmunoDoseCum": 77022,
-                "PerBoosterDose": 11.5462462945223,
+                "AdditionalDoseCum": 466645,
+                "ImmunoDoseCum": 77062,
+                "PerBoosterDose": 11.5463100035741,
                 "ObjectId": 53
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637280000000,
                 "VaccineText": "Fri 19 Nov 2021",
-                "AdditionalDose": 29011,
-                "ImmunoDose": 2554,
-                "AdditionalDoseCum": 495693,
-                "ImmunoDoseCum": 79576,
-                "PerBoosterDose": 12.2165717012462,
+                "AdditionalDose": 29010,
+                "ImmunoDose": 2556,
+                "AdditionalDoseCum": 495655,
+                "ImmunoDoseCum": 79618,
+                "PerBoosterDose": 12.2166566466486,
                 "ObjectId": 54
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637366400000,
                 "VaccineText": "Sat 20 Nov 2021",
                 "AdditionalDose": 19954,
-                "ImmunoDose": 1369,
-                "AdditionalDoseCum": 515647,
-                "ImmunoDoseCum": 80945,
-                "PerBoosterDose": 12.6693944051135,
+                "ImmunoDose": 1368,
+                "AdditionalDoseCum": 515609,
+                "ImmunoDoseCum": 80986,
+                "PerBoosterDose": 12.6694581141653,
                 "ObjectId": 55
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637452800000,
                 "VaccineText": "Sun 21 Nov 2021",
                 "AdditionalDose": 12865,
                 "ImmunoDose": 385,
-                "AdditionalDoseCum": 528512,
-                "ImmunoDoseCum": 81330,
-                "PerBoosterDose": 12.9507760505782,
+                "AdditionalDoseCum": 528474,
+                "ImmunoDoseCum": 81371,
+                "PerBoosterDose": 12.95083975963,
                 "ObjectId": 56
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637539200000,
                 "VaccineText": "Mon 22 Nov 2021",
-                "AdditionalDose": 15254,
+                "AdditionalDose": 15255,
                 "ImmunoDose": 1336,
-                "AdditionalDoseCum": 543766,
-                "ImmunoDoseCum": 82666,
-                "PerBoosterDose": 13.3030871070505,
+                "AdditionalDoseCum": 543729,
+                "ImmunoDoseCum": 82707,
+                "PerBoosterDose": 13.3031720524529,
                 "ObjectId": 57
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637625600000,
                 "VaccineText": "Tue 23 Nov 2021",
-                "AdditionalDose": 29868,
-                "ImmunoDose": 3344,
-                "AdditionalDoseCum": 573634,
-                "ImmunoDoseCum": 86010,
-                "PerBoosterDose": 14.0083675468638,
+                "AdditionalDose": 29864,
+                "ImmunoDose": 3348,
+                "AdditionalDoseCum": 573593,
+                "ImmunoDoseCum": 86055,
+                "PerBoosterDose": 14.0084524922663,
                 "ObjectId": 58
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637712000000,
                 "VaccineText": "Wed 24 Nov 2021",
                 "AdditionalDose": 33346,
                 "ImmunoDose": 2231,
-                "AdditionalDoseCum": 606980,
-                "ImmunoDoseCum": 88241,
-                "PerBoosterDose": 14.7638931921994,
+                "AdditionalDoseCum": 606939,
+                "ImmunoDoseCum": 88286,
+                "PerBoosterDose": 14.7639781376018,
                 "ObjectId": 59
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637798400000,
                 "VaccineText": "Thu 25 Nov 2021",
-                "AdditionalDose": 38467,
-                "ImmunoDose": 2379,
-                "AdditionalDoseCum": 645447,
-                "ImmunoDoseCum": 90620,
-                "PerBoosterDose": 15.6313131688521,
+                "AdditionalDose": 38464,
+                "ImmunoDose": 2380,
+                "AdditionalDoseCum": 645403,
+                "ImmunoDoseCum": 90666,
+                "PerBoosterDose": 15.6313556415533,
                 "ObjectId": 60
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637884800000,
                 "VaccineText": "Fri 26 Nov 2021",
-                "AdditionalDose": 33343,
-                "ImmunoDose": 2623,
-                "AdditionalDoseCum": 678790,
-                "ImmunoDoseCum": 93243,
-                "PerBoosterDose": 16.3950997545715,
+                "AdditionalDose": 33341,
+                "ImmunoDose": 2626,
+                "AdditionalDoseCum": 678744,
+                "ImmunoDoseCum": 93292,
+                "PerBoosterDose": 16.3951634636233,
                 "ObjectId": 61
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1637971200000,
                 "VaccineText": "Sat 27 Nov 2021",
-                "AdditionalDose": 23265,
-                "ImmunoDose": 1276,
-                "AdditionalDoseCum": 702055,
-                "ImmunoDoseCum": 94519,
-                "PerBoosterDose": 16.9162610346732,
+                "AdditionalDose": 23263,
+                "ImmunoDose": 1277,
+                "AdditionalDoseCum": 702007,
+                "ImmunoDoseCum": 94569,
+                "PerBoosterDose": 16.9163035073744,
                 "ObjectId": 62
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638057600000,
                 "VaccineText": "Sun 28 Nov 2021",
-                "AdditionalDose": 15802,
-                "ImmunoDose": 290,
-                "AdditionalDoseCum": 717857,
-                "ImmunoDoseCum": 94809,
-                "PerBoosterDose": 17.2579963885462,
+                "AdditionalDose": 15801,
+                "ImmunoDose": 291,
+                "AdditionalDoseCum": 717808,
+                "ImmunoDoseCum": 94860,
+                "PerBoosterDose": 17.2580388612474,
                 "ObjectId": 63
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638144000000,
                 "VaccineText": "Mon 29 Nov 2021",
-                "AdditionalDose": 20367,
-                "ImmunoDose": 1215,
-                "AdditionalDoseCum": 738224,
-                "ImmunoDoseCum": 96024,
-                "PerBoosterDose": 17.7163193072193,
+                "AdditionalDose": 20366,
+                "ImmunoDose": 1217,
+                "AdditionalDoseCum": 738174,
+                "ImmunoDoseCum": 96077,
+                "PerBoosterDose": 17.7163830162711,
                 "ObjectId": 64
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638230400000,
                 "VaccineText": "Tue 30 Nov 2021",
-                "AdditionalDose": 36791,
-                "ImmunoDose": 2002,
-                "AdditionalDoseCum": 775015,
-                "ImmunoDoseCum": 98026,
-                "PerBoosterDose": 18.540141056088,
+                "AdditionalDose": 36783,
+                "ImmunoDose": 2010,
+                "AdditionalDoseCum": 774957,
+                "ImmunoDoseCum": 98087,
+                "PerBoosterDose": 18.5402047651398,
                 "ObjectId": 65
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638316800000,
                 "VaccineText": "Wed 01 Dec 2021",
-                "AdditionalDose": 37387,
-                "ImmunoDose": 1830,
-                "AdditionalDoseCum": 812402,
-                "ImmunoDoseCum": 99856,
-                "PerBoosterDose": 19.3729670176115,
+                "AdditionalDose": 37385,
+                "ImmunoDose": 1832,
+                "AdditionalDoseCum": 812342,
+                "ImmunoDoseCum": 99919,
+                "PerBoosterDose": 19.3730307266633,
                 "ObjectId": 66
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638403200000,
                 "VaccineText": "Thu 02 Dec 2021",
-                "AdditionalDose": 38266,
-                "ImmunoDose": 1702,
-                "AdditionalDoseCum": 850668,
-                "ImmunoDoseCum": 101558,
-                "PerBoosterDose": 20.2217414784365,
+                "AdditionalDose": 38263,
+                "ImmunoDose": 1705,
+                "AdditionalDoseCum": 850605,
+                "ImmunoDoseCum": 101624,
+                "PerBoosterDose": 20.2218051874883,
                 "ObjectId": 67
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638489600000,
                 "VaccineText": "Fri 03 Dec 2021",
-                "AdditionalDose": 34622,
-                "ImmunoDose": 1563,
-                "AdditionalDoseCum": 885290,
-                "ImmunoDoseCum": 103121,
-                "PerBoosterDose": 20.9901788249375,
+                "AdditionalDose": 34617,
+                "ImmunoDose": 1567,
+                "AdditionalDoseCum": 885222,
+                "ImmunoDoseCum": 103191,
+                "PerBoosterDose": 20.9902212976387,
                 "ObjectId": 68
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638576000000,
                 "VaccineText": "Sat 04 Dec 2021",
-                "AdditionalDose": 22857,
+                "AdditionalDose": 22858,
                 "ImmunoDose": 484,
-                "AdditionalDoseCum": 908147,
-                "ImmunoDoseCum": 103605,
-                "PerBoosterDose": 21.4858564843179,
+                "AdditionalDoseCum": 908080,
+                "ImmunoDoseCum": 103675,
+                "PerBoosterDose": 21.4859201933697,
                 "ObjectId": 69
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638662400000,
                 "VaccineText": "Sun 05 Dec 2021",
                 "AdditionalDose": 15020,
                 "ImmunoDose": 178,
-                "AdditionalDoseCum": 923167,
-                "ImmunoDoseCum": 103783,
-                "PerBoosterDose": 21.8086065407535,
+                "AdditionalDoseCum": 923100,
+                "ImmunoDoseCum": 103853,
+                "PerBoosterDose": 21.8086702498053,
                 "ObjectId": 70
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638748800000,
                 "VaccineText": "Mon 06 Dec 2021",
-                "AdditionalDose": 21355,
-                "ImmunoDose": 783,
-                "AdditionalDoseCum": 944522,
-                "ImmunoDoseCum": 104566,
-                "PerBoosterDose": 22.2787368703608,
+                "AdditionalDose": 21351,
+                "ImmunoDose": 785,
+                "AdditionalDoseCum": 944451,
+                "ImmunoDoseCum": 104638,
+                "PerBoosterDose": 22.2787581067114,
                 "ObjectId": 71
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638835200000,
                 "VaccineText": "Tue 07 Dec 2021",
-                "AdditionalDose": 28567,
-                "ImmunoDose": 597,
-                "AdditionalDoseCum": 973089,
-                "ImmunoDoseCum": 105163,
-                "PerBoosterDose": 22.8980737992914,
+                "AdditionalDose": 28566,
+                "ImmunoDose": 598,
+                "AdditionalDoseCum": 973017,
+                "ImmunoDoseCum": 105236,
+                "PerBoosterDose": 22.898095035642,
                 "ObjectId": 72
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1638921600000,
                 "VaccineText": "Wed 08 Dec 2021",
-                "AdditionalDose": 36396,
-                "ImmunoDose": 794,
-                "AdditionalDoseCum": 1009485,
-                "ImmunoDoseCum": 105957,
-                "PerBoosterDose": 23.6878536781465,
+                "AdditionalDose": 36394,
+                "ImmunoDose": 796,
+                "AdditionalDoseCum": 1009411,
+                "ImmunoDoseCum": 106032,
+                "PerBoosterDose": 23.6878749144971,
                 "ObjectId": 73
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639008000000,
                 "VaccineText": "Thu 09 Dec 2021",
-                "AdditionalDose": 45415,
-                "ImmunoDose": 820,
-                "AdditionalDoseCum": 1054900,
-                "ImmunoDoseCum": 106777,
-                "PerBoosterDose": 24.6697163481887,
+                "AdditionalDose": 45414,
+                "ImmunoDose": 822,
+                "AdditionalDoseCum": 1054825,
+                "ImmunoDoseCum": 106854,
+                "PerBoosterDose": 24.6697588208899,
                 "ObjectId": 74
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639094400000,
                 "VaccineText": "Fri 10 Dec 2021",
-                "AdditionalDose": 40088,
-                "ImmunoDose": 1032,
-                "AdditionalDoseCum": 1094988,
-                "ImmunoDoseCum": 107809,
-                "PerBoosterDose": 25.5429550849061,
+                "AdditionalDose": 40085,
+                "ImmunoDose": 1034,
+                "AdditionalDoseCum": 1094910,
+                "ImmunoDoseCum": 107888,
+                "PerBoosterDose": 25.5429763212567,
                 "ObjectId": 75
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639180800000,
                 "VaccineText": "Sat 11 Dec 2021",
                 "AdditionalDose": 28824,
-                "ImmunoDose": 316,
-                "AdditionalDoseCum": 1123812,
-                "ImmunoDoseCum": 108125,
-                "PerBoosterDose": 26.1617823414223,
+                "ImmunoDose": 317,
+                "AdditionalDoseCum": 1123734,
+                "ImmunoDoseCum": 108205,
+                "PerBoosterDose": 26.1618248141235,
                 "ObjectId": 76
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639267200000,
                 "VaccineText": "Sun 12 Dec 2021",
                 "AdditionalDose": 26289,
                 "ImmunoDose": 224,
-                "AdditionalDoseCum": 1150101,
-                "ImmunoDoseCum": 108349,
-                "PerBoosterDose": 26.7248217049094,
+                "AdditionalDoseCum": 1150023,
+                "ImmunoDoseCum": 108429,
+                "PerBoosterDose": 26.7248641776106,
                 "ObjectId": 77
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639353600000,
                 "VaccineText": "Mon 13 Dec 2021",
-                "AdditionalDose": 31186,
-                "ImmunoDose": 515,
-                "AdditionalDoseCum": 1181287,
-                "ImmunoDoseCum": 108864,
-                "PerBoosterDose": 27.3980352553151,
+                "AdditionalDose": 31187,
+                "ImmunoDose": 516,
+                "AdditionalDoseCum": 1181210,
+                "ImmunoDoseCum": 108945,
+                "PerBoosterDose": 27.3981202007175,
                 "ObjectId": 78
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639440000000,
                 "VaccineText": "Tue 14 Dec 2021",
                 "AdditionalDose": 52492,
-                "ImmunoDose": 1073,
-                "AdditionalDoseCum": 1233779,
-                "ImmunoDoseCum": 109937,
-                "PerBoosterDose": 28.5355603752633,
+                "ImmunoDose": 1074,
+                "AdditionalDoseCum": 1233702,
+                "ImmunoDoseCum": 110019,
+                "PerBoosterDose": 28.5356665570163,
                 "ObjectId": 79
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639526400000,
                 "VaccineText": "Wed 15 Dec 2021",
-                "AdditionalDose": 56882,
-                "ImmunoDose": 711,
-                "AdditionalDoseCum": 1290661,
-                "ImmunoDoseCum": 110648,
-                "PerBoosterDose": 29.7586255154328,
+                "AdditionalDose": 56880,
+                "ImmunoDose": 713,
+                "AdditionalDoseCum": 1290582,
+                "ImmunoDoseCum": 110732,
+                "PerBoosterDose": 29.7587316971858,
                 "ObjectId": 80
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639612800000,
                 "VaccineText": "Thu 16 Dec 2021",
-                "AdditionalDose": 65389,
-                "ImmunoDose": 972,
-                "AdditionalDoseCum": 1356050,
-                "ImmunoDoseCum": 111620,
-                "PerBoosterDose": 31.1678697413221,
+                "AdditionalDose": 65388,
+                "ImmunoDose": 973,
+                "AdditionalDoseCum": 1355970,
+                "ImmunoDoseCum": 111705,
+                "PerBoosterDose": 31.1679759230751,
                 "ObjectId": 81
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639699200000,
                 "VaccineText": "Fri 17 Dec 2021",
-                "AdditionalDose": 65317,
-                "ImmunoDose": 663,
-                "AdditionalDoseCum": 1421367,
-                "ImmunoDoseCum": 112283,
-                "PerBoosterDose": 32.5690016812819,
+                "AdditionalDose": 65315,
+                "ImmunoDose": 664,
+                "AdditionalDoseCum": 1421285,
+                "ImmunoDoseCum": 112369,
+                "PerBoosterDose": 32.5690866266843,
                 "ObjectId": 82
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639785600000,
                 "VaccineText": "Sat 18 Dec 2021",
-                "AdditionalDose": 45688,
-                "ImmunoDose": 417,
-                "AdditionalDoseCum": 1467055,
-                "ImmunoDoseCum": 112700,
-                "PerBoosterDose": 33.5480823893952,
+                "AdditionalDose": 45686,
+                "ImmunoDose": 419,
+                "AdditionalDoseCum": 1466971,
+                "ImmunoDoseCum": 112788,
+                "PerBoosterDose": 33.5481673347977,
                 "ObjectId": 83
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639872000000,
                 "VaccineText": "Sun 19 Dec 2021",
                 "AdditionalDose": 54668,
                 "ImmunoDose": 234,
-                "AdditionalDoseCum": 1521723,
-                "ImmunoDoseCum": 112934,
-                "PerBoosterDose": 34.7140005100971,
+                "AdditionalDoseCum": 1521639,
+                "ImmunoDoseCum": 113022,
+                "PerBoosterDose": 34.7140854554995,
                 "ObjectId": 84
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1639958400000,
                 "VaccineText": "Mon 20 Dec 2021",
                 "AdditionalDose": 92833,
-                "ImmunoDose": 563,
-                "AdditionalDoseCum": 1614556,
-                "ImmunoDoseCum": 113497,
-                "PerBoosterDose": 36.697390710838,
+                "ImmunoDose": 564,
+                "AdditionalDoseCum": 1614472,
+                "ImmunoDoseCum": 113586,
+                "PerBoosterDose": 36.697496892591,
                 "ObjectId": 85
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640044800000,
                 "VaccineText": "Tue 21 Dec 2021",
-                "AdditionalDose": 128787,
-                "ImmunoDose": 773,
-                "AdditionalDoseCum": 1743343,
-                "ImmunoDoseCum": 114270,
-                "PerBoosterDose": 39.4487510583666,
+                "AdditionalDose": 128784,
+                "ImmunoDose": 772,
+                "AdditionalDoseCum": 1743256,
+                "ImmunoDoseCum": 114358,
+                "PerBoosterDose": 39.4487722947172,
                 "ObjectId": 86
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640131200000,
                 "VaccineText": "Wed 22 Dec 2021",
                 "AdditionalDose": 131835,
-                "ImmunoDose": 849,
-                "AdditionalDoseCum": 1875178,
-                "ImmunoDoseCum": 115119,
-                "PerBoosterDose": 42.2664325288225,
+                "ImmunoDose": 850,
+                "AdditionalDoseCum": 1875091,
+                "ImmunoDoseCum": 115208,
+                "PerBoosterDose": 42.2664750015237,
                 "ObjectId": 87
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640217600000,
                 "VaccineText": "Thu 23 Dec 2021",
-                "AdditionalDose": 101449,
-                "ImmunoDose": 711,
-                "AdditionalDoseCum": 1976627,
-                "ImmunoDoseCum": 115830,
-                "PerBoosterDose": 44.4359168698808,
+                "AdditionalDose": 101447,
+                "ImmunoDose": 713,
+                "AdditionalDoseCum": 1976538,
+                "ImmunoDoseCum": 115921,
+                "PerBoosterDose": 44.4359593425821,
                 "ObjectId": 88
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640304000000,
                 "VaccineText": "Fri 24 Dec 2021",
-                "AdditionalDose": 10991,
-                "ImmunoDose": 77,
-                "AdditionalDoseCum": 1987618,
-                "ImmunoDoseCum": 115907,
-                "PerBoosterDose": 44.6709607983339,
+                "AdditionalDose": 10990,
+                "ImmunoDose": 78,
+                "AdditionalDoseCum": 1987528,
+                "ImmunoDoseCum": 115999,
+                "PerBoosterDose": 44.6710032710351,
                 "ObjectId": 89
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640390400000,
                 "VaccineText": "Sat 25 Dec 2021",
                 "AdditionalDose": 22,
                 "ImmunoDose": 0,
-                "AdditionalDoseCum": 1987640,
-                "ImmunoDoseCum": 115907,
-                "PerBoosterDose": 44.6714279980471,
+                "AdditionalDoseCum": 1987550,
+                "ImmunoDoseCum": 115999,
+                "PerBoosterDose": 44.6714704707483,
                 "ObjectId": 90
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640476800000,
                 "VaccineText": "Sun 26 Dec 2021",
                 "AdditionalDose": 243,
                 "ImmunoDose": 2,
-                "AdditionalDoseCum": 1987883,
-                "ImmunoDoseCum": 115909,
-                "PerBoosterDose": 44.6766309039444,
+                "AdditionalDoseCum": 1987793,
+                "ImmunoDoseCum": 116001,
+                "PerBoosterDose": 44.6766733766456,
                 "ObjectId": 91
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640563200000,
                 "VaccineText": "Mon 27 Dec 2021",
                 "AdditionalDose": 12792,
                 "ImmunoDose": 63,
-                "AdditionalDoseCum": 2000675,
-                "ImmunoDoseCum": 115972,
-                "PerBoosterDose": 44.9496241909216,
+                "AdditionalDoseCum": 2000585,
+                "ImmunoDoseCum": 116064,
+                "PerBoosterDose": 44.9496666636228,
                 "ObjectId": 92
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640649600000,
                 "VaccineText": "Tue 28 Dec 2021",
                 "AdditionalDose": 23134,
                 "ImmunoDose": 156,
-                "AdditionalDoseCum": 2023809,
-                "ImmunoDoseCum": 116128,
-                "PerBoosterDose": 45.4442187964213,
+                "AdditionalDoseCum": 2023719,
+                "ImmunoDoseCum": 116220,
+                "PerBoosterDose": 45.4442612691225,
                 "ObjectId": 93
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640736000000,
                 "VaccineText": "Wed 29 Dec 2021",
-                "AdditionalDose": 52888,
-                "ImmunoDose": 254,
-                "AdditionalDoseCum": 2076697,
-                "ImmunoDoseCum": 116382,
-                "PerBoosterDose": 46.5727609400653,
+                "AdditionalDose": 52884,
+                "ImmunoDose": 255,
+                "AdditionalDoseCum": 2076603,
+                "ImmunoDoseCum": 116475,
+                "PerBoosterDose": 46.5727397037147,
                 "ObjectId": 94
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640822400000,
                 "VaccineText": "Thu 30 Dec 2021",
                 "AdditionalDose": 60923,
-                "ImmunoDose": 396,
-                "AdditionalDoseCum": 2137620,
-                "ImmunoDoseCum": 116778,
-                "PerBoosterDose": 47.8748677771721,
+                "ImmunoDose": 398,
+                "AdditionalDoseCum": 2137526,
+                "ImmunoDoseCum": 116873,
+                "PerBoosterDose": 47.8748890135227,
                 "ObjectId": 95
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640908800000,
                 "VaccineText": "Fri 31 Dec 2021",
                 "AdditionalDose": 18974,
                 "ImmunoDose": 117,
-                "AdditionalDoseCum": 2156594,
-                "ImmunoDoseCum": 116895,
-                "PerBoosterDose": 48.2802909464978,
+                "AdditionalDoseCum": 2156500,
+                "ImmunoDoseCum": 116990,
+                "PerBoosterDose": 48.2803121828484,
                 "ObjectId": 96
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1640995200000,
                 "VaccineText": "Sat 01 Jan 2022",
                 "AdditionalDose": 8925,
                 "ImmunoDose": 9,
-                "AdditionalDoseCum": 2165519,
-                "ImmunoDoseCum": 116904,
-                "PerBoosterDose": 48.4700165027681,
+                "AdditionalDoseCum": 2165425,
+                "ImmunoDoseCum": 116999,
+                "PerBoosterDose": 48.4700377391187,
                 "ObjectId": 97
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641081600000,
                 "VaccineText": "Sun 02 Jan 2022",
                 "AdditionalDose": 13842,
                 "ImmunoDose": 36,
-                "AdditionalDoseCum": 2179361,
-                "ImmunoDoseCum": 116940,
-                "PerBoosterDose": 48.7647345764102,
+                "AdditionalDoseCum": 2179267,
+                "ImmunoDoseCum": 117035,
+                "PerBoosterDose": 48.7647558127608,
                 "ObjectId": 98
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641168000000,
                 "VaccineText": "Mon 03 Jan 2022",
                 "AdditionalDose": 16788,
                 "ImmunoDose": 60,
-                "AdditionalDoseCum": 2196149,
-                "ImmunoDoseCum": 117000,
-                "PerBoosterDose": 49.1225246113376,
+                "AdditionalDoseCum": 2196055,
+                "ImmunoDoseCum": 117095,
+                "PerBoosterDose": 49.1225458476882,
                 "ObjectId": 99
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641254400000,
                 "VaccineText": "Tue 04 Jan 2022",
-                "AdditionalDose": 31760,
-                "ImmunoDose": 163,
-                "AdditionalDoseCum": 2227909,
-                "ImmunoDoseCum": 117163,
-                "PerBoosterDose": 49.8004526315767,
+                "AdditionalDose": 31759,
+                "ImmunoDose": 164,
+                "AdditionalDoseCum": 2227814,
+                "ImmunoDoseCum": 117259,
+                "PerBoosterDose": 49.8004738679273,
                 "ObjectId": 100
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641340800000,
                 "VaccineText": "Wed 05 Jan 2022",
-                "AdditionalDose": 40741,
-                "ImmunoDose": 214,
-                "AdditionalDoseCum": 2268650,
-                "ImmunoDoseCum": 117377,
-                "PerBoosterDose": 50.670187370445,
+                "AdditionalDose": 40740,
+                "ImmunoDose": 216,
+                "AdditionalDoseCum": 2268554,
+                "ImmunoDoseCum": 117475,
+                "PerBoosterDose": 50.6702298431462,
                 "ObjectId": 101
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641427200000,
                 "VaccineText": "Thu 06 Jan 2022",
                 "AdditionalDose": 41279,
                 "ImmunoDose": 260,
-                "AdditionalDoseCum": 2309929,
-                "ImmunoDoseCum": 117637,
-                "PerBoosterDose": 51.5523241380643,
+                "AdditionalDoseCum": 2309833,
+                "ImmunoDoseCum": 117735,
+                "PerBoosterDose": 51.5523666107655,
                 "ObjectId": 102
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641513600000,
                 "VaccineText": "Fri 07 Jan 2022",
                 "AdditionalDose": 31177,
                 "ImmunoDose": 214,
-                "AdditionalDoseCum": 2341106,
-                "ImmunoDoseCum": 117851,
-                "PerBoosterDose": 52.218933183433,
+                "AdditionalDoseCum": 2341010,
+                "ImmunoDoseCum": 117949,
+                "PerBoosterDose": 52.2189756561342,
                 "ObjectId": 103
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641600000000,
                 "VaccineText": "Sat 08 Jan 2022",
                 "AdditionalDose": 14786,
                 "ImmunoDose": 81,
-                "AdditionalDoseCum": 2355892,
-                "ImmunoDoseCum": 117932,
-                "PerBoosterDose": 52.5346540078196,
+                "AdditionalDoseCum": 2355796,
+                "ImmunoDoseCum": 118030,
+                "PerBoosterDose": 52.5346964805209,
                 "ObjectId": 104
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641686400000,
                 "VaccineText": "Sun 09 Jan 2022",
                 "AdditionalDose": 10217,
                 "ImmunoDose": 31,
-                "AdditionalDoseCum": 2366109,
-                "ImmunoDoseCum": 117963,
-                "PerBoosterDose": 52.7522841287798,
+                "AdditionalDoseCum": 2366013,
+                "ImmunoDoseCum": 118061,
+                "PerBoosterDose": 52.752326601481,
                 "ObjectId": 105
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641772800000,
                 "VaccineText": "Mon 10 Jan 2022",
-                "AdditionalDose": 14649,
+                "AdditionalDose": 14648,
                 "ImmunoDose": 111,
-                "AdditionalDoseCum": 2380758,
-                "ImmunoDoseCum": 118074,
-                "PerBoosterDose": 53.0657326636521,
+                "AdditionalDoseCum": 2380661,
+                "ImmunoDoseCum": 118172,
+                "PerBoosterDose": 53.0657539000027,
                 "ObjectId": 106
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641859200000,
                 "VaccineText": "Tue 11 Jan 2022",
                 "AdditionalDose": 23846,
                 "ImmunoDose": 153,
-                "AdditionalDoseCum": 2404604,
-                "ImmunoDoseCum": 118227,
-                "PerBoosterDose": 53.575383841728,
+                "AdditionalDoseCum": 2404507,
+                "ImmunoDoseCum": 118325,
+                "PerBoosterDose": 53.5754050780786,
                 "ObjectId": 107
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1641945600000,
                 "VaccineText": "Wed 12 Jan 2022",
                 "AdditionalDose": 25287,
                 "ImmunoDose": 212,
-                "AdditionalDoseCum": 2429891,
-                "ImmunoDoseCum": 118439,
-                "PerBoosterDose": 54.1168895457056,
+                "AdditionalDoseCum": 2429794,
+                "ImmunoDoseCum": 118537,
+                "PerBoosterDose": 54.1169107820562,
                 "ObjectId": 108
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642032000000,
                 "VaccineText": "Thu 13 Jan 2022",
-                "AdditionalDose": 25310,
-                "ImmunoDose": 238,
-                "AdditionalDoseCum": 2455201,
-                "ImmunoDoseCum": 118677,
-                "PerBoosterDose": 54.6594358308627,
+                "AdditionalDose": 25309,
+                "ImmunoDose": 239,
+                "AdditionalDoseCum": 2455103,
+                "ImmunoDoseCum": 118776,
+                "PerBoosterDose": 54.6594570672133,
                 "ObjectId": 109
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642118400000,
                 "VaccineText": "Fri 14 Jan 2022",
-                "AdditionalDose": 22386,
-                "ImmunoDose": 157,
-                "AdditionalDoseCum": 2477587,
-                "ImmunoDoseCum": 118834,
-                "PerBoosterDose": 55.1381668824634,
+                "AdditionalDose": 22385,
+                "ImmunoDose": 158,
+                "AdditionalDoseCum": 2477488,
+                "ImmunoDoseCum": 118934,
+                "PerBoosterDose": 55.138188118814,
                 "ObjectId": 110
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642204800000,
                 "VaccineText": "Sat 15 Jan 2022",
                 "AdditionalDose": 12196,
                 "ImmunoDose": 115,
-                "AdditionalDoseCum": 2489783,
-                "ImmunoDoseCum": 118949,
-                "PerBoosterDose": 55.3996075947136,
+                "AdditionalDoseCum": 2489684,
+                "ImmunoDoseCum": 119049,
+                "PerBoosterDose": 55.3996288310642,
                 "ObjectId": 111
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642291200000,
                 "VaccineText": "Sun 16 Jan 2022",
                 "AdditionalDose": 6525,
                 "ImmunoDose": 24,
-                "AdditionalDoseCum": 2496308,
-                "ImmunoDoseCum": 118973,
-                "PerBoosterDose": 55.5386844548002,
+                "AdditionalDoseCum": 2496209,
+                "ImmunoDoseCum": 119073,
+                "PerBoosterDose": 55.5387056911508,
                 "ObjectId": 112
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642377600000,
                 "VaccineText": "Mon 17 Jan 2022",
-                "AdditionalDose": 11666,
+                "AdditionalDose": 11667,
                 "ImmunoDose": 82,
-                "AdditionalDoseCum": 2507974,
-                "ImmunoDoseCum": 119055,
-                "PerBoosterDose": 55.788169101662,
+                "AdditionalDoseCum": 2507876,
+                "ImmunoDoseCum": 119155,
+                "PerBoosterDose": 55.7882115743632,
                 "ObjectId": 113
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642464000000,
                 "VaccineText": "Tue 18 Jan 2022",
-                "AdditionalDose": 12680,
-                "ImmunoDose": 86,
-                "AdditionalDoseCum": 2520654,
-                "ImmunoDoseCum": 119141,
-                "PerBoosterDose": 56.0592723534357,
+                "AdditionalDose": 12678,
+                "ImmunoDose": 88,
+                "AdditionalDoseCum": 2520554,
+                "ImmunoDoseCum": 119243,
+                "PerBoosterDose": 56.0593148261369,
                 "ObjectId": 114
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642550400000,
                 "VaccineText": "Wed 19 Jan 2022",
                 "AdditionalDose": 11765,
                 "ImmunoDose": 94,
-                "AdditionalDoseCum": 2532419,
-                "ImmunoDoseCum": 119235,
-                "PerBoosterDose": 56.3110929988636,
+                "AdditionalDoseCum": 2532319,
+                "ImmunoDoseCum": 119337,
+                "PerBoosterDose": 56.3111354715648,
                 "ObjectId": 115
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642636800000,
                 "VaccineText": "Thu 20 Jan 2022",
-                "AdditionalDose": 10755,
+                "AdditionalDose": 10757,
                 "ImmunoDose": 74,
-                "AdditionalDoseCum": 2543174,
-                "ImmunoDoseCum": 119309,
-                "PerBoosterDose": 56.541061439523,
+                "AdditionalDoseCum": 2543076,
+                "ImmunoDoseCum": 119411,
+                "PerBoosterDose": 56.5411463849254,
                 "ObjectId": 116
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642723200000,
                 "VaccineText": "Fri 21 Jan 2022",
                 "AdditionalDose": 9079,
                 "ImmunoDose": 92,
-                "AdditionalDoseCum": 2552253,
-                "ImmunoDoseCum": 119401,
-                "PerBoosterDose": 56.7358200108858,
+                "AdditionalDoseCum": 2552155,
+                "ImmunoDoseCum": 119503,
+                "PerBoosterDose": 56.7359049562882,
                 "ObjectId": 117
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642809600000,
                 "VaccineText": "Sat 22 Jan 2022",
                 "AdditionalDose": 6060,
                 "ImmunoDose": 29,
-                "AdditionalDoseCum": 2558313,
-                "ImmunoDoseCum": 119430,
-                "PerBoosterDose": 56.8651281496959,
+                "AdditionalDoseCum": 2558215,
+                "ImmunoDoseCum": 119532,
+                "PerBoosterDose": 56.8652130950983,
                 "ObjectId": 118
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642896000000,
                 "VaccineText": "Sun 23 Jan 2022",
                 "AdditionalDose": 3522,
                 "ImmunoDose": 25,
-                "AdditionalDoseCum": 2561835,
-                "ImmunoDoseCum": 119455,
-                "PerBoosterDose": 56.940453485278,
+                "AdditionalDoseCum": 2561737,
+                "ImmunoDoseCum": 119557,
+                "PerBoosterDose": 56.9405384306804,
                 "ObjectId": 119
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1642982400000,
                 "VaccineText": "Mon 24 Jan 2022",
                 "AdditionalDose": 4904,
                 "ImmunoDose": 34,
-                "AdditionalDoseCum": 2566739,
-                "ImmunoDoseCum": 119489,
-                "PerBoosterDose": 57.0453185845463,
+                "AdditionalDoseCum": 2566641,
+                "ImmunoDoseCum": 119591,
+                "PerBoosterDose": 57.0454035299487,
                 "ObjectId": 120
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643068800000,
                 "VaccineText": "Tue 25 Jan 2022",
                 "AdditionalDose": 6415,
                 "ImmunoDose": 47,
-                "AdditionalDoseCum": 2573154,
-                "ImmunoDoseCum": 119536,
-                "PerBoosterDose": 57.1825478821306,
+                "AdditionalDoseCum": 2573056,
+                "ImmunoDoseCum": 119638,
+                "PerBoosterDose": 57.182632827533,
                 "ObjectId": 121
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643155200000,
                 "VaccineText": "Wed 26 Jan 2022",
                 "AdditionalDose": 7020,
                 "ImmunoDose": 62,
-                "AdditionalDoseCum": 2580174,
-                "ImmunoDoseCum": 119598,
-                "PerBoosterDose": 57.3329437170876,
+                "AdditionalDoseCum": 2580076,
+                "ImmunoDoseCum": 119700,
+                "PerBoosterDose": 57.33302866249,
                 "ObjectId": 122
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643241600000,
                 "VaccineText": "Thu 27 Jan 2022",
                 "AdditionalDose": 5896,
                 "ImmunoDose": 43,
-                "AdditionalDoseCum": 2586070,
-                "ImmunoDoseCum": 119641,
-                "PerBoosterDose": 57.4590664033076,
+                "AdditionalDoseCum": 2585972,
+                "ImmunoDoseCum": 119743,
+                "PerBoosterDose": 57.45915134871,
                 "ObjectId": 123
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643328000000,
                 "VaccineText": "Fri 28 Jan 2022",
                 "AdditionalDose": 6656,
                 "ImmunoDose": 80,
-                "AdditionalDoseCum": 2592726,
-                "ImmunoDoseCum": 119721,
-                "PerBoosterDose": 57.6021144609567,
+                "AdditionalDoseCum": 2592628,
+                "ImmunoDoseCum": 119823,
+                "PerBoosterDose": 57.6021994063591,
                 "ObjectId": 124
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643414400000,
                 "VaccineText": "Sat 29 Jan 2022",
                 "AdditionalDose": 3867,
                 "ImmunoDose": 33,
-                "AdditionalDoseCum": 2596593,
-                "ImmunoDoseCum": 119754,
-                "PerBoosterDose": 57.684936228301,
+                "AdditionalDoseCum": 2596495,
+                "ImmunoDoseCum": 119856,
+                "PerBoosterDose": 57.6850211737034,
                 "ObjectId": 125
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643500800000,
                 "VaccineText": "Sun 30 Jan 2022",
                 "AdditionalDose": 1969,
                 "ImmunoDose": 19,
-                "AdditionalDoseCum": 2598562,
-                "ImmunoDoseCum": 119773,
-                "PerBoosterDose": 57.727154093296,
+                "AdditionalDoseCum": 2598464,
+                "ImmunoDoseCum": 119875,
+                "PerBoosterDose": 57.7272390386984,
                 "ObjectId": 126
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643587200000,
                 "VaccineText": "Mon 31 Jan 2022",
-                "AdditionalDose": 2823,
+                "AdditionalDose": 2824,
                 "ImmunoDose": 23,
-                "AdditionalDoseCum": 2601385,
-                "ImmunoDoseCum": 119796,
-                "PerBoosterDose": 57.7875927471067,
+                "AdditionalDoseCum": 2601288,
+                "ImmunoDoseCum": 119898,
+                "PerBoosterDose": 57.7876989288597,
                 "ObjectId": 127
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643673600000,
                 "VaccineText": "Tue 01 Feb 2022",
                 "AdditionalDose": 4132,
                 "ImmunoDose": 57,
-                "AdditionalDoseCum": 2605517,
-                "ImmunoDoseCum": 119853,
-                "PerBoosterDose": 57.8765518197747,
+                "AdditionalDoseCum": 2605420,
+                "ImmunoDoseCum": 119955,
+                "PerBoosterDose": 57.8766580015277,
                 "ObjectId": 128
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643760000000,
                 "VaccineText": "Wed 02 Feb 2022",
                 "AdditionalDose": 5714,
                 "ImmunoDose": 51,
-                "AdditionalDoseCum": 2611231,
-                "ImmunoDoseCum": 119904,
-                "PerBoosterDose": 57.9989793809901,
+                "AdditionalDoseCum": 2611134,
+                "ImmunoDoseCum": 120006,
+                "PerBoosterDose": 57.9990855627431,
                 "ObjectId": 129
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643846400000,
                 "VaccineText": "Thu 03 Feb 2022",
                 "AdditionalDose": 5741,
                 "ImmunoDose": 55,
-                "AdditionalDoseCum": 2616972,
-                "ImmunoDoseCum": 119959,
-                "PerBoosterDose": 58.1220652690741,
+                "AdditionalDoseCum": 2616875,
+                "ImmunoDoseCum": 120061,
+                "PerBoosterDose": 58.1221714508271,
                 "ObjectId": 130
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1643932800000,
                 "VaccineText": "Fri 04 Feb 2022",
                 "AdditionalDose": 5356,
                 "ImmunoDose": 55,
-                "AdditionalDoseCum": 2622328,
-                "ImmunoDoseCum": 120014,
-                "PerBoosterDose": 58.2369751621767,
+                "AdditionalDoseCum": 2622231,
+                "ImmunoDoseCum": 120116,
+                "PerBoosterDose": 58.2370813439297,
                 "ObjectId": 131
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644019200000,
                 "VaccineText": "Sat 05 Feb 2022",
                 "AdditionalDose": 3765,
                 "ImmunoDose": 19,
-                "AdditionalDoseCum": 2626093,
-                "ImmunoDoseCum": 120033,
-                "PerBoosterDose": 58.3173335128513,
+                "AdditionalDoseCum": 2625996,
+                "ImmunoDoseCum": 120135,
+                "PerBoosterDose": 58.3174396946043,
                 "ObjectId": 132
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644105600000,
                 "VaccineText": "Sun 06 Feb 2022",
                 "AdditionalDose": 2476,
                 "ImmunoDose": 15,
-                "AdditionalDoseCum": 2628569,
-                "ImmunoDoseCum": 120048,
-                "PerBoosterDose": 58.3702332621986,
+                "AdditionalDoseCum": 2628472,
+                "ImmunoDoseCum": 120150,
+                "PerBoosterDose": 58.3703394439517,
                 "ObjectId": 133
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644192000000,
                 "VaccineText": "Mon 07 Feb 2022",
                 "AdditionalDose": 2058,
                 "ImmunoDose": 21,
-                "AdditionalDoseCum": 2630627,
-                "ImmunoDoseCum": 120069,
-                "PerBoosterDose": 58.4143836350983,
+                "AdditionalDoseCum": 2630530,
+                "ImmunoDoseCum": 120171,
+                "PerBoosterDose": 58.4144898168513,
                 "ObjectId": 134
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644278400000,
                 "VaccineText": "Tue 08 Feb 2022",
                 "AdditionalDose": 3446,
                 "ImmunoDose": 32,
-                "AdditionalDoseCum": 2634073,
-                "ImmunoDoseCum": 120101,
-                "PerBoosterDose": 58.488243662489,
+                "AdditionalDoseCum": 2633976,
+                "ImmunoDoseCum": 120203,
+                "PerBoosterDose": 58.488349844242,
                 "ObjectId": 135
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644364800000,
                 "VaccineText": "Wed 09 Feb 2022",
                 "AdditionalDose": 4809,
                 "ImmunoDose": 42,
-                "AdditionalDoseCum": 2638882,
-                "ImmunoDoseCum": 120143,
-                "PerBoosterDose": 58.5912611992549,
+                "AdditionalDoseCum": 2638785,
+                "ImmunoDoseCum": 120245,
+                "PerBoosterDose": 58.591367381008,
                 "ObjectId": 136
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644451200000,
                 "VaccineText": "Thu 10 Feb 2022",
-                "AdditionalDose": 4999,
-                "ImmunoDose": 54,
-                "AdditionalDoseCum": 2643881,
-                "ImmunoDoseCum": 120197,
-                "PerBoosterDose": 58.6985684788423,
+                "AdditionalDose": 4998,
+                "ImmunoDose": 55,
+                "AdditionalDoseCum": 2643783,
+                "ImmunoDoseCum": 120300,
+                "PerBoosterDose": 58.6986746605953,
                 "ObjectId": 137
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644537600000,
                 "VaccineText": "Fri 11 Feb 2022",
                 "AdditionalDose": 4591,
                 "ImmunoDose": 65,
-                "AdditionalDoseCum": 2648472,
-                "ImmunoDoseCum": 120262,
-                "PerBoosterDose": 58.7974449272411,
+                "AdditionalDoseCum": 2648374,
+                "ImmunoDoseCum": 120365,
+                "PerBoosterDose": 58.7975511089941,
                 "ObjectId": 138
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644624000000,
                 "VaccineText": "Sat 12 Feb 2022",
-                "AdditionalDose": 5546,
+                "AdditionalDose": 5548,
                 "ImmunoDose": 25,
-                "AdditionalDoseCum": 2654018,
-                "ImmunoDoseCum": 120287,
-                "PerBoosterDose": 58.9157526364398,
+                "AdditionalDoseCum": 2653922,
+                "ImmunoDoseCum": 120390,
+                "PerBoosterDose": 58.915901290894,
                 "ObjectId": 139
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644710400000,
                 "VaccineText": "Sun 13 Feb 2022",
                 "AdditionalDose": 3827,
                 "ImmunoDose": 19,
-                "AdditionalDoseCum": 2657845,
-                "ImmunoDoseCum": 120306,
-                "PerBoosterDose": 58.9974276408517,
+                "AdditionalDoseCum": 2657749,
+                "ImmunoDoseCum": 120409,
+                "PerBoosterDose": 58.9975762953059,
                 "ObjectId": 140
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644796800000,
                 "VaccineText": "Mon 14 Feb 2022",
-                "AdditionalDose": 2092,
+                "AdditionalDose": 2091,
                 "ImmunoDose": 34,
-                "AdditionalDoseCum": 2659937,
-                "ImmunoDoseCum": 120340,
-                "PerBoosterDose": 59.0425761222296,
+                "AdditionalDoseCum": 2659840,
+                "ImmunoDoseCum": 120443,
+                "PerBoosterDose": 59.0427035403332,
                 "ObjectId": 141
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644883200000,
                 "VaccineText": "Tue 15 Feb 2022",
                 "AdditionalDose": 3537,
                 "ImmunoDose": 30,
-                "AdditionalDoseCum": 2663474,
-                "ImmunoDoseCum": 120370,
-                "PerBoosterDose": 59.1183261848238,
+                "AdditionalDoseCum": 2663377,
+                "ImmunoDoseCum": 120473,
+                "PerBoosterDose": 59.1184536029274,
                 "ObjectId": 142
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1644969600000,
                 "VaccineText": "Wed 16 Feb 2022",
                 "AdditionalDose": 4011,
                 "ImmunoDose": 44,
-                "AdditionalDoseCum": 2667485,
-                "ImmunoDoseCum": 120414,
-                "PerBoosterDose": 59.2044395865113,
+                "AdditionalDoseCum": 2667388,
+                "ImmunoDoseCum": 120517,
+                "PerBoosterDose": 59.2045670046149,
                 "ObjectId": 143
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645056000000,
                 "VaccineText": "Thu 17 Feb 2022",
                 "AdditionalDose": 4155,
                 "ImmunoDose": 42,
-                "AdditionalDoseCum": 2671640,
-                "ImmunoDoseCum": 120456,
-                "PerBoosterDose": 59.2935685499841,
+                "AdditionalDoseCum": 2671543,
+                "ImmunoDoseCum": 120559,
+                "PerBoosterDose": 59.2936959680877,
                 "ObjectId": 144
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645142400000,
                 "VaccineText": "Fri 18 Feb 2022",
                 "AdditionalDose": 2900,
                 "ImmunoDose": 43,
-                "AdditionalDoseCum": 2674540,
-                "ImmunoDoseCum": 120499,
-                "PerBoosterDose": 59.3560671298032,
+                "AdditionalDoseCum": 2674443,
+                "ImmunoDoseCum": 120602,
+                "PerBoosterDose": 59.3561945479068,
                 "ObjectId": 145
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645228800000,
                 "VaccineText": "Sat 19 Feb 2022",
                 "AdditionalDose": 4393,
                 "ImmunoDose": 30,
-                "AdditionalDoseCum": 2678933,
-                "ImmunoDoseCum": 120529,
-                "PerBoosterDose": 59.4499955085118,
+                "AdditionalDoseCum": 2678836,
+                "ImmunoDoseCum": 120632,
+                "PerBoosterDose": 59.4501229266155,
                 "ObjectId": 146
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645315200000,
                 "VaccineText": "Sun 20 Feb 2022",
                 "AdditionalDose": 2396,
                 "ImmunoDose": 27,
-                "AdditionalDoseCum": 2681329,
-                "ImmunoDoseCum": 120556,
-                "PerBoosterDose": 59.5014511860183,
+                "AdditionalDoseCum": 2681232,
+                "ImmunoDoseCum": 120659,
+                "PerBoosterDose": 59.5015786041219,
                 "ObjectId": 147
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645401600000,
                 "VaccineText": "Mon 21 Feb 2022",
                 "AdditionalDose": 1580,
                 "ImmunoDose": 15,
-                "AdditionalDoseCum": 2682909,
-                "ImmunoDoseCum": 120571,
-                "PerBoosterDose": 59.5353231652271,
+                "AdditionalDoseCum": 2682812,
+                "ImmunoDoseCum": 120674,
+                "PerBoosterDose": 59.5354505833307,
                 "ObjectId": 148
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645488000000,
                 "VaccineText": "Tue 22 Feb 2022",
                 "AdditionalDose": 2985,
                 "ImmunoDose": 34,
-                "AdditionalDoseCum": 2685894,
-                "ImmunoDoseCum": 120605,
-                "PerBoosterDose": 59.5994357076918,
+                "AdditionalDoseCum": 2685797,
+                "ImmunoDoseCum": 120708,
+                "PerBoosterDose": 59.5995631257954,
                 "ObjectId": 149
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645574400000,
                 "VaccineText": "Wed 23 Feb 2022",
                 "AdditionalDose": 2970,
                 "ImmunoDose": 59,
-                "AdditionalDoseCum": 2688864,
-                "ImmunoDoseCum": 120664,
-                "PerBoosterDose": 59.6637606136626,
+                "AdditionalDoseCum": 2688767,
+                "ImmunoDoseCum": 120767,
+                "PerBoosterDose": 59.6638880317662,
                 "ObjectId": 150
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645660800000,
                 "VaccineText": "Thu 24 Feb 2022",
                 "AdditionalDose": 3235,
                 "ImmunoDose": 39,
-                "AdditionalDoseCum": 2692099,
-                "ImmunoDoseCum": 120703,
-                "PerBoosterDose": 59.7332884255306,
+                "AdditionalDoseCum": 2692002,
+                "ImmunoDoseCum": 120806,
+                "PerBoosterDose": 59.7334158436342,
                 "ObjectId": 151
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645747200000,
                 "VaccineText": "Fri 25 Feb 2022",
-                "AdditionalDose": 4061,
+                "AdditionalDose": 4062,
                 "ImmunoDose": 65,
-                "AdditionalDoseCum": 2696160,
-                "ImmunoDoseCum": 120768,
-                "PerBoosterDose": 59.8209096081108,
+                "AdditionalDoseCum": 2696064,
+                "ImmunoDoseCum": 120871,
+                "PerBoosterDose": 59.821058262565,
                 "ObjectId": 152
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645833600000,
                 "VaccineText": "Sat 26 Feb 2022",
                 "AdditionalDose": 3506,
                 "ImmunoDose": 20,
-                "AdditionalDoseCum": 2699666,
-                "ImmunoDoseCum": 120788,
-                "PerBoosterDose": 59.8957889803303,
+                "AdditionalDoseCum": 2699570,
+                "ImmunoDoseCum": 120891,
+                "PerBoosterDose": 59.8959376347845,
                 "ObjectId": 153
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1645920000000,
                 "VaccineText": "Sun 27 Feb 2022",
-                "AdditionalDose": 3261,
-                "ImmunoDose": 15,
-                "AdditionalDoseCum": 2702927,
-                "ImmunoDoseCum": 120803,
-                "PerBoosterDose": 59.9653592648995,
+                "AdditionalDose": 3260,
+                "ImmunoDose": 16,
+                "AdditionalDoseCum": 2702830,
+                "ImmunoDoseCum": 120907,
+                "PerBoosterDose": 59.9655079193537,
                 "ObjectId": 154
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646006400000,
                 "VaccineText": "Mon 28 Feb 2022",
                 "AdditionalDose": 1455,
                 "ImmunoDose": 25,
-                "AdditionalDoseCum": 2704382,
-                "ImmunoDoseCum": 120828,
-                "PerBoosterDose": 59.9967890637891,
+                "AdditionalDoseCum": 2704285,
+                "ImmunoDoseCum": 120932,
+                "PerBoosterDose": 59.9969377182433,
                 "ObjectId": 155
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646092800000,
                 "VaccineText": "Tue 01 Mar 2022",
                 "AdditionalDose": 1956,
                 "ImmunoDose": 26,
-                "AdditionalDoseCum": 2706338,
-                "ImmunoDoseCum": 120854,
-                "PerBoosterDose": 60.0388795106805,
+                "AdditionalDoseCum": 2706241,
+                "ImmunoDoseCum": 120958,
+                "PerBoosterDose": 60.0390281651347,
                 "ObjectId": 156
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646179200000,
                 "VaccineText": "Wed 02 Mar 2022",
                 "AdditionalDose": 3185,
                 "ImmunoDose": 38,
-                "AdditionalDoseCum": 2709523,
-                "ImmunoDoseCum": 120892,
-                "PerBoosterDose": 60.1073242686679,
+                "AdditionalDoseCum": 2709426,
+                "ImmunoDoseCum": 120996,
+                "PerBoosterDose": 60.1074729231221,
                 "ObjectId": 157
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646265600000,
                 "VaccineText": "Thu 03 Mar 2022",
-                "AdditionalDose": 3792,
+                "AdditionalDose": 3793,
                 "ImmunoDose": 50,
-                "AdditionalDoseCum": 2713315,
-                "ImmunoDoseCum": 120942,
-                "PerBoosterDose": 60.1889143276773,
+                "AdditionalDoseCum": 2713219,
+                "ImmunoDoseCum": 121046,
+                "PerBoosterDose": 60.1890842184821,
                 "ObjectId": 158
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646352000000,
                 "VaccineText": "Fri 04 Mar 2022",
-                "AdditionalDose": 3227,
+                "AdditionalDose": 3228,
                 "ImmunoDose": 58,
-                "AdditionalDoseCum": 2716542,
-                "ImmunoDoseCum": 121000,
-                "PerBoosterDose": 60.2586757394019,
+                "AdditionalDoseCum": 2716447,
+                "ImmunoDoseCum": 121104,
+                "PerBoosterDose": 60.2588668665574,
                 "ObjectId": 159
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646438400000,
                 "VaccineText": "Sat 05 Mar 2022",
                 "AdditionalDose": 3837,
                 "ImmunoDose": 32,
-                "AdditionalDoseCum": 2720379,
-                "ImmunoDoseCum": 121032,
-                "PerBoosterDose": 60.3408391798776,
+                "AdditionalDoseCum": 2720284,
+                "ImmunoDoseCum": 121136,
+                "PerBoosterDose": 60.341030307033,
                 "ObjectId": 160
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646524800000,
                 "VaccineText": "Sun 06 Mar 2022",
                 "AdditionalDose": 4451,
                 "ImmunoDose": 25,
-                "AdditionalDoseCum": 2724830,
-                "ImmunoDoseCum": 121057,
-                "PerBoosterDose": 60.4358930851682,
+                "AdditionalDoseCum": 2724735,
+                "ImmunoDoseCum": 121161,
+                "PerBoosterDose": 60.4360842123236,
                 "ObjectId": 161
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646611200000,
                 "VaccineText": "Mon 07 Mar 2022",
-                "AdditionalDose": 1208,
+                "AdditionalDose": 1209,
                 "ImmunoDose": 17,
-                "AdditionalDoseCum": 2726038,
-                "ImmunoDoseCum": 121074,
-                "PerBoosterDose": 60.4619076146545,
+                "AdditionalDoseCum": 2725944,
+                "ImmunoDoseCum": 121178,
+                "PerBoosterDose": 60.4621199781605,
                 "ObjectId": 162
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646697600000,
                 "VaccineText": "Tue 08 Mar 2022",
                 "AdditionalDose": 2494,
                 "ImmunoDose": 33,
-                "AdditionalDoseCum": 2728532,
-                "ImmunoDoseCum": 121107,
-                "PerBoosterDose": 60.5155718726235,
+                "AdditionalDoseCum": 2728438,
+                "ImmunoDoseCum": 121211,
+                "PerBoosterDose": 60.5157842361295,
                 "ObjectId": 163
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646784000000,
                 "VaccineText": "Wed 09 Mar 2022",
                 "AdditionalDose": 2902,
                 "ImmunoDose": 34,
-                "AdditionalDoseCum": 2731434,
-                "ImmunoDoseCum": 121141,
-                "PerBoosterDose": 60.5779217979884,
+                "AdditionalDoseCum": 2731340,
+                "ImmunoDoseCum": 121245,
+                "PerBoosterDose": 60.5781341614944,
                 "ObjectId": 164
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646870400000,
                 "VaccineText": "Thu 10 Mar 2022",
-                "AdditionalDose": 4212,
+                "AdditionalDose": 4213,
                 "ImmunoDose": 40,
-                "AdditionalDoseCum": 2735646,
-                "ImmunoDoseCum": 121181,
-                "PerBoosterDose": 60.6682187607443,
+                "AdditionalDoseCum": 2735553,
+                "ImmunoDoseCum": 121285,
+                "PerBoosterDose": 60.6684523606009,
                 "ObjectId": 165
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1646956800000,
                 "VaccineText": "Fri 11 Mar 2022",
                 "AdditionalDose": 3524,
                 "ImmunoDose": 45,
-                "AdditionalDoseCum": 2739170,
-                "ImmunoDoseCum": 121226,
-                "PerBoosterDose": 60.7440112960396,
+                "AdditionalDoseCum": 2739077,
+                "ImmunoDoseCum": 121330,
+                "PerBoosterDose": 60.7442448958962,
                 "ObjectId": 166
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647043200000,
                 "VaccineText": "Sat 12 Mar 2022",
-                "AdditionalDose": 3487,
+                "AdditionalDose": 3488,
                 "ImmunoDose": 20,
-                "AdditionalDoseCum": 2742657,
-                "ImmunoDoseCum": 121246,
-                "PerBoosterDose": 60.8184871775977,
+                "AdditionalDoseCum": 2742565,
+                "ImmunoDoseCum": 121350,
+                "PerBoosterDose": 60.8187420138049,
                 "ObjectId": 167
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647129600000,
                 "VaccineText": "Sun 13 Mar 2022",
                 "AdditionalDose": 4183,
                 "ImmunoDose": 17,
-                "AdditionalDoseCum": 2746840,
-                "ImmunoDoseCum": 121263,
-                "PerBoosterDose": 60.9076798501223,
+                "AdditionalDoseCum": 2746748,
+                "ImmunoDoseCum": 121367,
+                "PerBoosterDose": 60.9079346863295,
                 "ObjectId": 168
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647216000000,
                 "VaccineText": "Mon 14 Mar 2022",
                 "AdditionalDose": 1806,
                 "ImmunoDose": 22,
-                "AdditionalDoseCum": 2748646,
-                "ImmunoDoseCum": 121285,
-                "PerBoosterDose": 60.9464998990212,
+                "AdditionalDoseCum": 2748554,
+                "ImmunoDoseCum": 121389,
+                "PerBoosterDose": 60.9467547352284,
                 "ObjectId": 169
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647302400000,
                 "VaccineText": "Tue 15 Mar 2022",
                 "AdditionalDose": 3074,
                 "ImmunoDose": 18,
-                "AdditionalDoseCum": 2751720,
-                "ImmunoDoseCum": 121303,
-                "PerBoosterDose": 61.0121626950798,
+                "AdditionalDoseCum": 2751628,
+                "ImmunoDoseCum": 121407,
+                "PerBoosterDose": 61.012417531287,
                 "ObjectId": 170
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647388800000,
                 "VaccineText": "Wed 16 Mar 2022",
-                "AdditionalDose": 4120,
+                "AdditionalDose": 4121,
                 "ImmunoDose": 35,
-                "AdditionalDoseCum": 2755840,
-                "ImmunoDoseCum": 121338,
-                "PerBoosterDose": 61.1003997318274,
+                "AdditionalDoseCum": 2755749,
+                "ImmunoDoseCum": 121442,
+                "PerBoosterDose": 61.1006758043852,
                 "ObjectId": 171
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647475200000,
                 "VaccineText": "Thu 17 Mar 2022",
                 "AdditionalDose": 38,
                 "ImmunoDose": 0,
-                "AdditionalDoseCum": 2755878,
-                "ImmunoDoseCum": 121338,
-                "PerBoosterDose": 61.1012067131502,
+                "AdditionalDoseCum": 2755787,
+                "ImmunoDoseCum": 121442,
+                "PerBoosterDose": 61.101482785708,
                 "ObjectId": 172
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647561600000,
                 "VaccineText": "Fri 18 Mar 2022",
                 "AdditionalDose": 65,
                 "ImmunoDose": 1,
-                "AdditionalDoseCum": 2755943,
-                "ImmunoDoseCum": 121339,
-                "PerBoosterDose": 61.1026083122899,
+                "AdditionalDoseCum": 2755852,
+                "ImmunoDoseCum": 121443,
+                "PerBoosterDose": 61.1028843848477,
                 "ObjectId": 173
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647648000000,
                 "VaccineText": "Sat 19 Mar 2022",
                 "AdditionalDose": 2105,
                 "ImmunoDose": 16,
-                "AdditionalDoseCum": 2758048,
-                "ImmunoDoseCum": 121355,
-                "PerBoosterDose": 61.1476506119148,
+                "AdditionalDoseCum": 2757957,
+                "ImmunoDoseCum": 121459,
+                "PerBoosterDose": 61.1479266844726,
                 "ObjectId": 174
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647734400000,
                 "VaccineText": "Sun 20 Mar 2022",
                 "AdditionalDose": 4537,
                 "ImmunoDose": 49,
-                "AdditionalDoseCum": 2762585,
-                "ImmunoDoseCum": 121404,
-                "PerBoosterDose": 61.2450405157715,
+                "AdditionalDoseCum": 2762494,
+                "ImmunoDoseCum": 121508,
+                "PerBoosterDose": 61.2453165883293,
                 "ObjectId": 175
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647820800000,
                 "VaccineText": "Mon 21 Mar 2022",
                 "AdditionalDose": 1569,
                 "ImmunoDose": 14,
-                "AdditionalDoseCum": 2764154,
-                "ImmunoDoseCum": 121418,
-                "PerBoosterDose": 61.278657658773,
+                "AdditionalDoseCum": 2764063,
+                "ImmunoDoseCum": 121522,
+                "PerBoosterDose": 61.2789337313309,
                 "ObjectId": 176
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647907200000,
                 "VaccineText": "Tue 22 Mar 2022",
                 "AdditionalDose": 2466,
                 "ImmunoDose": 24,
-                "AdditionalDoseCum": 2766620,
-                "ImmunoDoseCum": 121442,
-                "PerBoosterDose": 61.3315361717698,
+                "AdditionalDoseCum": 2766529,
+                "ImmunoDoseCum": 121546,
+                "PerBoosterDose": 61.3318122443276,
                 "ObjectId": 177
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1647993600000,
                 "VaccineText": "Wed 23 Mar 2022",
                 "AdditionalDose": 3655,
                 "ImmunoDose": 29,
-                "AdditionalDoseCum": 2770275,
-                "ImmunoDoseCum": 121471,
-                "PerBoosterDose": 61.4097708873843,
+                "AdditionalDoseCum": 2770184,
+                "ImmunoDoseCum": 121575,
+                "PerBoosterDose": 61.4100469599421,
                 "ObjectId": 178
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648080000000,
                 "VaccineText": "Thu 24 Mar 2022",
                 "AdditionalDose": 5426,
                 "ImmunoDose": 43,
-                "AdditionalDoseCum": 2775701,
-                "ImmunoDoseCum": 121514,
-                "PerBoosterDose": 61.5259124888217,
+                "AdditionalDoseCum": 2775610,
+                "ImmunoDoseCum": 121618,
+                "PerBoosterDose": 61.5261885613795,
                 "ObjectId": 179
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648166400000,
                 "VaccineText": "Fri 25 Mar 2022",
                 "AdditionalDose": 4325,
                 "ImmunoDose": 49,
-                "AdditionalDoseCum": 2780026,
-                "ImmunoDoseCum": 121563,
-                "PerBoosterDose": 61.6188002863509,
+                "AdditionalDoseCum": 2779935,
+                "ImmunoDoseCum": 121667,
+                "PerBoosterDose": 61.6190763589088,
                 "ObjectId": 180
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648252800000,
                 "VaccineText": "Sat 26 Mar 2022",
                 "AdditionalDose": 3198,
                 "ImmunoDose": 36,
-                "AdditionalDoseCum": 2783224,
-                "ImmunoDoseCum": 121599,
-                "PerBoosterDose": 61.6874786441949,
+                "AdditionalDoseCum": 2783133,
+                "ImmunoDoseCum": 121703,
+                "PerBoosterDose": 61.6877547167527,
                 "ObjectId": 181
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648339200000,
                 "VaccineText": "Sun 27 Mar 2022",
                 "AdditionalDose": 4530,
                 "ImmunoDose": 35,
-                "AdditionalDoseCum": 2787754,
-                "ImmunoDoseCum": 121634,
-                "PerBoosterDose": 61.784422584689,
+                "AdditionalDoseCum": 2787663,
+                "ImmunoDoseCum": 121738,
+                "PerBoosterDose": 61.7846986572468,
                 "ObjectId": 182
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648422000000,
                 "VaccineText": "Mon 28 Mar 2022",
                 "AdditionalDose": 1413,
                 "ImmunoDose": 16,
-                "AdditionalDoseCum": 2789167,
-                "ImmunoDoseCum": 121650,
-                "PerBoosterDose": 61.814769329698,
+                "AdditionalDoseCum": 2789076,
+                "ImmunoDoseCum": 121754,
+                "PerBoosterDose": 61.8150454022558,
                 "ObjectId": 183
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648508400000,
                 "VaccineText": "Tue 29 Mar 2022",
-                "AdditionalDose": 2885,
+                "AdditionalDose": 2886,
                 "ImmunoDose": 19,
-                "AdditionalDoseCum": 2792052,
-                "ImmunoDoseCum": 121669,
-                "PerBoosterDose": 61.8764396918436,
+                "AdditionalDoseCum": 2791962,
+                "ImmunoDoseCum": 121773,
+                "PerBoosterDose": 61.876737000752,
                 "ObjectId": 184
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648594800000,
                 "VaccineText": "Wed 30 Mar 2022",
                 "AdditionalDose": 3834,
                 "ImmunoDose": 39,
-                "AdditionalDoseCum": 2795886,
-                "ImmunoDoseCum": 121708,
-                "PerBoosterDose": 61.9586880777216,
+                "AdditionalDoseCum": 2795796,
+                "ImmunoDoseCum": 121812,
+                "PerBoosterDose": 61.9589853866301,
                 "ObjectId": 185
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648681200000,
                 "VaccineText": "Thu 31 Mar 2022",
                 "AdditionalDose": 4281,
                 "ImmunoDose": 64,
-                "AdditionalDoseCum": 2800167,
-                "ImmunoDoseCum": 121772,
-                "PerBoosterDose": 62.0509600210834,
+                "AdditionalDoseCum": 2800077,
+                "ImmunoDoseCum": 121876,
+                "PerBoosterDose": 62.0512573299919,
                 "ObjectId": 186
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648767600000,
                 "VaccineText": "Fri 01 Apr 2022",
-                "AdditionalDose": 3666,
-                "ImmunoDose": 45,
-                "AdditionalDoseCum": 2803833,
-                "ImmunoDoseCum": 121817,
-                "PerBoosterDose": 62.1297681181642,
+                "AdditionalDose": 3667,
+                "ImmunoDose": 44,
+                "AdditionalDoseCum": 2803744,
+                "ImmunoDoseCum": 121920,
+                "PerBoosterDose": 62.1300654270726,
                 "ObjectId": 187
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648854000000,
                 "VaccineText": "Sat 02 Apr 2022",
                 "AdditionalDose": 3011,
                 "ImmunoDose": 14,
-                "AdditionalDoseCum": 2806844,
-                "ImmunoDoseCum": 121831,
-                "PerBoosterDose": 62.1940080787325,
+                "AdditionalDoseCum": 2806755,
+                "ImmunoDoseCum": 121934,
+                "PerBoosterDose": 62.1943053876409,
                 "ObjectId": 188
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1648940400000,
                 "VaccineText": "Sun 03 Apr 2022",
                 "AdditionalDose": 4877,
                 "ImmunoDose": 30,
-                "AdditionalDoseCum": 2811721,
-                "ImmunoDoseCum": 121861,
-                "PerBoosterDose": 62.2982148511321,
+                "AdditionalDoseCum": 2811632,
+                "ImmunoDoseCum": 121964,
+                "PerBoosterDose": 62.2985121600405,
                 "ObjectId": 189
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649026800000,
                 "VaccineText": "Mon 04 Apr 2022",
                 "AdditionalDose": 1484,
                 "ImmunoDose": 12,
-                "AdditionalDoseCum": 2813205,
-                "ImmunoDoseCum": 121873,
-                "PerBoosterDose": 62.3299844316314,
+                "AdditionalDoseCum": 2813116,
+                "ImmunoDoseCum": 121976,
+                "PerBoosterDose": 62.3302817405398,
                 "ObjectId": 190
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649113200000,
                 "VaccineText": "Tue 05 Apr 2022",
                 "AdditionalDose": 3016,
                 "ImmunoDose": 26,
-                "AdditionalDoseCum": 2816221,
-                "ImmunoDoseCum": 121899,
-                "PerBoosterDose": 62.3945854101599,
+                "AdditionalDoseCum": 2816132,
+                "ImmunoDoseCum": 122002,
+                "PerBoosterDose": 62.3948827190684,
                 "ObjectId": 191
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649199600000,
                 "VaccineText": "Wed 06 Apr 2022",
                 "AdditionalDose": 3071,
                 "ImmunoDose": 27,
-                "AdditionalDoseCum": 2819292,
-                "ImmunoDoseCum": 121926,
-                "PerBoosterDose": 62.4603756243222,
+                "AdditionalDoseCum": 2819203,
+                "ImmunoDoseCum": 122029,
+                "PerBoosterDose": 62.4606729332306,
                 "ObjectId": 192
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649286000000,
                 "VaccineText": "Thu 07 Apr 2022",
                 "AdditionalDose": 4392,
                 "ImmunoDose": 41,
-                "AdditionalDoseCum": 2823684,
-                "ImmunoDoseCum": 121967,
-                "PerBoosterDose": 62.5545163665369,
+                "AdditionalDoseCum": 2823595,
+                "ImmunoDoseCum": 122070,
+                "PerBoosterDose": 62.5548136754453,
                 "ObjectId": 193
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649372400000,
                 "VaccineText": "Fri 08 Apr 2022",
-                "AdditionalDose": 3532,
+                "AdditionalDose": 3533,
                 "ImmunoDose": 52,
-                "AdditionalDoseCum": 2827216,
-                "ImmunoDoseCum": 122019,
-                "PerBoosterDose": 62.6306274470912,
+                "AdditionalDoseCum": 2827128,
+                "ImmunoDoseCum": 122122,
+                "PerBoosterDose": 62.6309459923502,
                 "ObjectId": 194
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649458800000,
                 "VaccineText": "Sat 09 Apr 2022",
-                "AdditionalDose": 4172,
-                "ImmunoDose": 35,
-                "AdditionalDoseCum": 2831388,
-                "ImmunoDoseCum": 122054,
-                "PerBoosterDose": 62.7199687740701,
+                "AdditionalDose": 4173,
+                "ImmunoDose": 34,
+                "AdditionalDoseCum": 2831301,
+                "ImmunoDoseCum": 122156,
+                "PerBoosterDose": 62.7202873193291,
                 "ObjectId": 195
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649545200000,
                 "VaccineText": "Sun 10 Apr 2022",
                 "AdditionalDose": 4488,
                 "ImmunoDose": 22,
-                "AdditionalDoseCum": 2835876,
-                "ImmunoDoseCum": 122076,
-                "PerBoosterDose": 62.8157447152811,
+                "AdditionalDoseCum": 2835789,
+                "ImmunoDoseCum": 122178,
+                "PerBoosterDose": 62.8160632605401,
                 "ObjectId": 196
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649631600000,
                 "VaccineText": "Mon 11 Apr 2022",
                 "AdditionalDose": 1006,
                 "ImmunoDose": 17,
-                "AdditionalDoseCum": 2836882,
-                "ImmunoDoseCum": 122093,
-                "PerBoosterDose": 62.837469501946,
+                "AdditionalDoseCum": 2836795,
+                "ImmunoDoseCum": 122195,
+                "PerBoosterDose": 62.837788047205,
                 "ObjectId": 197
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649718000000,
                 "VaccineText": "Tue 12 Apr 2022",
-                "AdditionalDose": 3314,
-                "ImmunoDose": 32,
-                "AdditionalDoseCum": 2840196,
-                "ImmunoDoseCum": 122125,
-                "PerBoosterDose": 62.9085263310573,
+                "AdditionalDose": 3313,
+                "ImmunoDose": 33,
+                "AdditionalDoseCum": 2840108,
+                "ImmunoDoseCum": 122228,
+                "PerBoosterDose": 62.9088448763163,
                 "ObjectId": 198
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649804400000,
                 "VaccineText": "Wed 13 Apr 2022",
                 "AdditionalDose": 2937,
                 "ImmunoDose": 17,
-                "AdditionalDoseCum": 2843133,
-                "ImmunoDoseCum": 122142,
-                "PerBoosterDose": 62.971258510733,
+                "AdditionalDoseCum": 2843045,
+                "ImmunoDoseCum": 122245,
+                "PerBoosterDose": 62.971577055992,
                 "ObjectId": 199
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649890800000,
                 "VaccineText": "Thu 14 Apr 2022",
                 "AdditionalDose": 3254,
                 "ImmunoDose": 42,
-                "AdditionalDoseCum": 2846387,
-                "ImmunoDoseCum": 122184,
-                "PerBoosterDose": 63.0412535223142,
+                "AdditionalDoseCum": 2846299,
+                "ImmunoDoseCum": 122287,
+                "PerBoosterDose": 63.0415720675732,
                 "ObjectId": 200
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1649977200000,
                 "VaccineText": "Fri 15 Apr 2022",
                 "AdditionalDose": 3851,
                 "ImmunoDose": 23,
-                "AdditionalDoseCum": 2850238,
-                "ImmunoDoseCum": 122207,
-                "PerBoosterDose": 63.1235231445429,
+                "AdditionalDoseCum": 2850150,
+                "ImmunoDoseCum": 122310,
+                "PerBoosterDose": 63.1238416898019,
                 "ObjectId": 201
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650063600000,
                 "VaccineText": "Sat 16 Apr 2022",
                 "AdditionalDose": 504,
                 "ImmunoDose": 0,
-                "AdditionalDoseCum": 2850742,
-                "ImmunoDoseCum": 122207,
-                "PerBoosterDose": 63.1342262652458,
+                "AdditionalDoseCum": 2850654,
+                "ImmunoDoseCum": 122310,
+                "PerBoosterDose": 63.1345448105049,
                 "ObjectId": 202
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650150000000,
                 "VaccineText": "Sun 17 Apr 2022",
                 "AdditionalDose": 16,
                 "ImmunoDose": 0,
-                "AdditionalDoseCum": 2850758,
-                "ImmunoDoseCum": 122207,
-                "PerBoosterDose": 63.1345660468555,
+                "AdditionalDoseCum": 2850670,
+                "ImmunoDoseCum": 122310,
+                "PerBoosterDose": 63.1348845921145,
                 "ObjectId": 203
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650236400000,
                 "VaccineText": "Mon 18 Apr 2022",
                 "AdditionalDose": 42,
                 "ImmunoDose": 1,
-                "AdditionalDoseCum": 2850800,
-                "ImmunoDoseCum": 122208,
-                "PerBoosterDose": 63.1354792099313,
+                "AdditionalDoseCum": 2850712,
+                "ImmunoDoseCum": 122311,
+                "PerBoosterDose": 63.1357977551903,
                 "ObjectId": 204
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650322800000,
                 "VaccineText": "Tue 19 Apr 2022",
                 "AdditionalDose": 1849,
                 "ImmunoDose": 27,
-                "AdditionalDoseCum": 2852649,
-                "ImmunoDoseCum": 122235,
-                "PerBoosterDose": 63.175318603659,
+                "AdditionalDoseCum": 2852561,
+                "ImmunoDoseCum": 122338,
+                "PerBoosterDose": 63.175637148918,
                 "ObjectId": 205
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650409200000,
                 "VaccineText": "Wed 20 Apr 2022",
                 "AdditionalDose": 1981,
                 "ImmunoDose": 7,
-                "AdditionalDoseCum": 2854630,
-                "ImmunoDoseCum": 122242,
-                "PerBoosterDose": 63.217536468654,
+                "AdditionalDoseCum": 2854542,
+                "ImmunoDoseCum": 122345,
+                "PerBoosterDose": 63.217855013913,
                 "ObjectId": 206
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650495600000,
                 "VaccineText": "Thu 21 Apr 2022",
-                "AdditionalDose": 3027,
+                "AdditionalDose": 3028,
                 "ImmunoDose": 19,
-                "AdditionalDoseCum": 2857657,
-                "ImmunoDoseCum": 122261,
-                "PerBoosterDose": 63.2822223925849,
+                "AdditionalDoseCum": 2857570,
+                "ImmunoDoseCum": 122364,
+                "PerBoosterDose": 63.2825621741946,
                 "ObjectId": 207
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650582000000,
                 "VaccineText": "Fri 22 Apr 2022",
                 "AdditionalDose": 2883,
                 "ImmunoDose": 34,
-                "AdditionalDoseCum": 2860540,
-                "ImmunoDoseCum": 122295,
-                "PerBoosterDose": 63.3441688272884,
+                "AdditionalDoseCum": 2860453,
+                "ImmunoDoseCum": 122398,
+                "PerBoosterDose": 63.344508608898,
                 "ObjectId": 208
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650668400000,
                 "VaccineText": "Sat 23 Apr 2022",
                 "AdditionalDose": 1565,
                 "ImmunoDose": 13,
-                "AdditionalDoseCum": 2862105,
-                "ImmunoDoseCum": 122308,
-                "PerBoosterDose": 63.3776797885369,
+                "AdditionalDoseCum": 2862018,
+                "ImmunoDoseCum": 122411,
+                "PerBoosterDose": 63.3780195701465,
                 "ObjectId": 209
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650754800000,
                 "VaccineText": "Sun 24 Apr 2022",
                 "AdditionalDose": 1450,
                 "ImmunoDose": 8,
-                "AdditionalDoseCum": 2863555,
-                "ImmunoDoseCum": 122316,
-                "PerBoosterDose": 63.4086423877133,
+                "AdditionalDoseCum": 2863468,
+                "ImmunoDoseCum": 122419,
+                "PerBoosterDose": 63.4089821693229,
                 "ObjectId": 210
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650841200000,
                 "VaccineText": "Mon 25 Apr 2022",
                 "AdditionalDose": 1001,
                 "ImmunoDose": 6,
-                "AdditionalDoseCum": 2864556,
-                "ImmunoDoseCum": 122322,
-                "PerBoosterDose": 63.4300273927686,
+                "AdditionalDoseCum": 2864469,
+                "ImmunoDoseCum": 122425,
+                "PerBoosterDose": 63.4303671743783,
                 "ObjectId": 211
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1650927600000,
                 "VaccineText": "Tue 26 Apr 2022",
                 "AdditionalDose": 2131,
                 "ImmunoDose": 20,
-                "AdditionalDoseCum": 2866687,
-                "ImmunoDoseCum": 122342,
-                "PerBoosterDose": 63.4757067829116,
+                "AdditionalDoseCum": 2866600,
+                "ImmunoDoseCum": 122445,
+                "PerBoosterDose": 63.4760465645212,
                 "ObjectId": 212
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651014000000,
                 "VaccineText": "Wed 27 Apr 2022",
-                "AdditionalDose": 1933,
+                "AdditionalDose": 1932,
                 "ImmunoDose": 19,
-                "AdditionalDoseCum": 2868620,
-                "ImmunoDoseCum": 122361,
-                "PerBoosterDose": 63.5171389029344,
+                "AdditionalDoseCum": 2868532,
+                "ImmunoDoseCum": 122464,
+                "PerBoosterDose": 63.5174574481934,
                 "ObjectId": 213
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651100400000,
                 "VaccineText": "Thu 28 Apr 2022",
                 "AdditionalDose": 1768,
                 "ImmunoDose": 21,
-                "AdditionalDoseCum": 2870388,
-                "ImmunoDoseCum": 122382,
-                "PerBoosterDose": 63.5551307341597,
+                "AdditionalDoseCum": 2870300,
+                "ImmunoDoseCum": 122485,
+                "PerBoosterDose": 63.5554492794188,
                 "ObjectId": 214
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651186800000,
                 "VaccineText": "Fri 29 Apr 2022",
                 "AdditionalDose": 2254,
                 "ImmunoDose": 35,
-                "AdditionalDoseCum": 2872642,
-                "ImmunoDoseCum": 122417,
-                "PerBoosterDose": 63.6037195043351,
+                "AdditionalDoseCum": 2872554,
+                "ImmunoDoseCum": 122520,
+                "PerBoosterDose": 63.6040380495941,
                 "ObjectId": 215
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651273200000,
                 "VaccineText": "Sat 30 Apr 2022",
                 "AdditionalDose": 1468,
                 "ImmunoDose": 9,
-                "AdditionalDoseCum": 2874110,
-                "ImmunoDoseCum": 122426,
-                "PerBoosterDose": 63.6350855941729,
+                "AdditionalDoseCum": 2874022,
+                "ImmunoDoseCum": 122529,
+                "PerBoosterDose": 63.6354041394319,
                 "ObjectId": 216
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651359600000,
                 "VaccineText": "Sun 01 May 2022",
                 "AdditionalDose": 1181,
                 "ImmunoDose": 16,
-                "AdditionalDoseCum": 2875291,
-                "ImmunoDoseCum": 122442,
-                "PerBoosterDose": 63.6605055058424,
+                "AdditionalDoseCum": 2875203,
+                "ImmunoDoseCum": 122545,
+                "PerBoosterDose": 63.6608240511015,
                 "ObjectId": 217
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651446000000,
                 "VaccineText": "Mon 02 May 2022",
                 "AdditionalDose": 253,
                 "ImmunoDose": 0,
-                "AdditionalDoseCum": 2875544,
-                "ImmunoDoseCum": 122442,
-                "PerBoosterDose": 63.6658783025445,
+                "AdditionalDoseCum": 2875456,
+                "ImmunoDoseCum": 122545,
+                "PerBoosterDose": 63.6661968478035,
                 "ObjectId": 218
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651532400000,
                 "VaccineText": "Tue 03 May 2022",
                 "AdditionalDose": 1804,
                 "ImmunoDose": 15,
-                "AdditionalDoseCum": 2877348,
-                "ImmunoDoseCum": 122457,
-                "PerBoosterDose": 63.7045072242879,
+                "AdditionalDoseCum": 2877260,
+                "ImmunoDoseCum": 122560,
+                "PerBoosterDose": 63.7048257695469,
                 "ObjectId": 219
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651618800000,
                 "VaccineText": "Wed 04 May 2022",
-                "AdditionalDose": 2383,
+                "AdditionalDose": 2380,
                 "ImmunoDose": 27,
-                "AdditionalDoseCum": 2879731,
-                "ImmunoDoseCum": 122484,
-                "PerBoosterDose": 63.755665592886,
+                "AdditionalDoseCum": 2879640,
+                "ImmunoDoseCum": 122587,
+                "PerBoosterDose": 63.7559204290932,
                 "ObjectId": 220
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651705200000,
                 "VaccineText": "Thu 05 May 2022",
-                "AdditionalDose": 2058,
-                "ImmunoDose": 19,
-                "AdditionalDoseCum": 2881789,
-                "ImmunoDoseCum": 122503,
-                "PerBoosterDose": 63.7997734930845,
+                "AdditionalDose": 2057,
+                "ImmunoDose": 20,
+                "AdditionalDoseCum": 2881697,
+                "ImmunoDoseCum": 122607,
+                "PerBoosterDose": 63.8000283292917,
                 "ObjectId": 221
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651791600000,
                 "VaccineText": "Fri 06 May 2022",
                 "AdditionalDose": 2015,
-                "ImmunoDose": 16,
-                "AdditionalDoseCum": 2883804,
-                "ImmunoDoseCum": 122519,
-                "PerBoosterDose": 63.8429045211553,
+                "ImmunoDose": 15,
+                "AdditionalDoseCum": 2883712,
+                "ImmunoDoseCum": 122622,
+                "PerBoosterDose": 63.8431381210119,
                 "ObjectId": 222
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651878000000,
                 "VaccineText": "Sat 07 May 2022",
                 "AdditionalDose": 2035,
                 "ImmunoDose": 15,
-                "AdditionalDoseCum": 2885839,
-                "ImmunoDoseCum": 122534,
-                "PerBoosterDose": 63.8864390398876,
+                "AdditionalDoseCum": 2885747,
+                "ImmunoDoseCum": 122637,
+                "PerBoosterDose": 63.8866726397442,
                 "ObjectId": 223
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1651964400000,
                 "VaccineText": "Sun 08 May 2022",
                 "AdditionalDose": 1603,
                 "ImmunoDose": 10,
-                "AdditionalDoseCum": 2887442,
-                "ImmunoDoseCum": 122544,
-                "PerBoosterDose": 63.9206932734072,
+                "AdditionalDoseCum": 2887350,
+                "ImmunoDoseCum": 122647,
+                "PerBoosterDose": 63.9209268732638,
                 "ObjectId": 224
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652050800000,
                 "VaccineText": "Mon 09 May 2022",
                 "AdditionalDose": 816,
                 "ImmunoDose": 5,
-                "AdditionalDoseCum": 2888258,
-                "ImmunoDoseCum": 122549,
-                "PerBoosterDose": 63.9381070809001,
+                "AdditionalDoseCum": 2888166,
+                "ImmunoDoseCum": 122652,
+                "PerBoosterDose": 63.9383406807567,
                 "ObjectId": 225
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652137200000,
                 "VaccineText": "Tue 10 May 2022",
                 "AdditionalDose": 2115,
                 "ImmunoDose": 24,
-                "AdditionalDoseCum": 2890373,
-                "ImmunoDoseCum": 122573,
-                "PerBoosterDose": 63.9835316348359,
+                "AdditionalDoseCum": 2890281,
+                "ImmunoDoseCum": 122676,
+                "PerBoosterDose": 63.9837652346925,
                 "ObjectId": 226
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652223600000,
                 "VaccineText": "Wed 11 May 2022",
-                "AdditionalDose": 2753,
-                "ImmunoDose": 19,
-                "AdditionalDoseCum": 2893126,
-                "ImmunoDoseCum": 122592,
-                "PerBoosterDose": 64.0423987987021,
+                "AdditionalDose": 2752,
+                "ImmunoDose": 20,
+                "AdditionalDoseCum": 2893033,
+                "ImmunoDoseCum": 122696,
+                "PerBoosterDose": 64.0426323985587,
                 "ObjectId": 227
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652310000000,
                 "VaccineText": "Thu 12 May 2022",
-                "AdditionalDose": 2379,
+                "AdditionalDose": 2380,
                 "ImmunoDose": 16,
-                "AdditionalDoseCum": 2895505,
-                "ImmunoDoseCum": 122608,
-                "PerBoosterDose": 64.0932598583918,
+                "AdditionalDoseCum": 2895413,
+                "ImmunoDoseCum": 122712,
+                "PerBoosterDose": 64.093514694599,
                 "ObjectId": 228
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652396400000,
                 "VaccineText": "Fri 13 May 2022",
-                "AdditionalDose": 2529,
+                "AdditionalDose": 2528,
                 "ImmunoDose": 23,
-                "AdditionalDoseCum": 2898034,
-                "ImmunoDoseCum": 122631,
-                "PerBoosterDose": 64.1474550251258,
+                "AdditionalDoseCum": 2897941,
+                "ImmunoDoseCum": 122735,
+                "PerBoosterDose": 64.1476886249824,
                 "ObjectId": 229
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652482800000,
                 "VaccineText": "Sat 14 May 2022",
                 "AdditionalDose": 1700,
                 "ImmunoDose": 6,
-                "AdditionalDoseCum": 2899734,
-                "ImmunoDoseCum": 122637,
-                "PerBoosterDose": 64.1836842392513,
+                "AdditionalDoseCum": 2899641,
+                "ImmunoDoseCum": 122741,
+                "PerBoosterDose": 64.1839178391079,
                 "ObjectId": 230
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652569200000,
                 "VaccineText": "Sun 15 May 2022",
                 "AdditionalDose": 1490,
                 "ImmunoDose": 12,
-                "AdditionalDoseCum": 2901224,
-                "ImmunoDoseCum": 122649,
-                "PerBoosterDose": 64.2155812378541,
+                "AdditionalDoseCum": 2901131,
+                "ImmunoDoseCum": 122753,
+                "PerBoosterDose": 64.2158148377108,
                 "ObjectId": 231
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652655600000,
                 "VaccineText": "Mon 16 May 2022",
                 "AdditionalDose": 895,
                 "ImmunoDose": 5,
-                "AdditionalDoseCum": 2902119,
-                "ImmunoDoseCum": 122654,
-                "PerBoosterDose": 64.2346727170445,
+                "AdditionalDoseCum": 2902026,
+                "ImmunoDoseCum": 122758,
+                "PerBoosterDose": 64.2349063169011,
                 "ObjectId": 232
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652742000000,
                 "VaccineText": "Tue 17 May 2022",
-                "AdditionalDose": 1911,
+                "AdditionalDose": 1910,
                 "ImmunoDose": 6,
-                "AdditionalDoseCum": 2904030,
-                "ImmunoDoseCum": 122660,
-                "PerBoosterDose": 64.2753828011468,
+                "AdditionalDoseCum": 2903936,
+                "ImmunoDoseCum": 122764,
+                "PerBoosterDose": 64.2755951646529,
                 "ObjectId": 233
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652828400000,
                 "VaccineText": "Wed 18 May 2022",
-                "AdditionalDose": 2547,
-                "ImmunoDose": 18,
-                "AdditionalDoseCum": 2906577,
-                "ImmunoDoseCum": 122678,
-                "PerBoosterDose": 64.3298328040881,
+                "AdditionalDose": 2545,
+                "ImmunoDose": 19,
+                "AdditionalDoseCum": 2906481,
+                "ImmunoDoseCum": 122783,
+                "PerBoosterDose": 64.3300239312435,
                 "ObjectId": 234
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1652914800000,
                 "VaccineText": "Thu 19 May 2022",
                 "AdditionalDose": 2164,
                 "ImmunoDose": 12,
-                "AdditionalDoseCum": 2908741,
-                "ImmunoDoseCum": 122690,
-                "PerBoosterDose": 64.3760431029961,
+                "AdditionalDoseCum": 2908645,
+                "ImmunoDoseCum": 122795,
+                "PerBoosterDose": 64.3762342301515,
                 "ObjectId": 235
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653001200000,
                 "VaccineText": "Fri 20 May 2022",
                 "AdditionalDose": 2280,
                 "ImmunoDose": 13,
-                "AdditionalDoseCum": 2911021,
-                "ImmunoDoseCum": 122703,
-                "PerBoosterDose": 64.4247380549244,
+                "AdditionalDoseCum": 2910925,
+                "ImmunoDoseCum": 122808,
+                "PerBoosterDose": 64.4249291820798,
                 "ObjectId": 236
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653087600000,
                 "VaccineText": "Sat 21 May 2022",
                 "AdditionalDose": 1760,
                 "ImmunoDose": 3,
-                "AdditionalDoseCum": 2912781,
-                "ImmunoDoseCum": 122706,
-                "PerBoosterDose": 64.4621777410342,
+                "AdditionalDoseCum": 2912685,
+                "ImmunoDoseCum": 122811,
+                "PerBoosterDose": 64.4623688681896,
                 "ObjectId": 237
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653174000000,
                 "VaccineText": "Sun 22 May 2022",
                 "AdditionalDose": 1688,
                 "ImmunoDose": 11,
-                "AdditionalDoseCum": 2914469,
-                "ImmunoDoseCum": 122717,
-                "PerBoosterDose": 64.4982583007054,
+                "AdditionalDoseCum": 2914373,
+                "ImmunoDoseCum": 122822,
+                "PerBoosterDose": 64.4984494278609,
                 "ObjectId": 238
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653260400000,
                 "VaccineText": "Mon 23 May 2022",
-                "AdditionalDose": 971,
+                "AdditionalDose": 972,
                 "ImmunoDose": 5,
-                "AdditionalDoseCum": 2915440,
-                "ImmunoDoseCum": 122722,
-                "PerBoosterDose": 64.5189849788921,
+                "AdditionalDoseCum": 2915345,
+                "ImmunoDoseCum": 122827,
+                "PerBoosterDose": 64.5191973423981,
                 "ObjectId": 239
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653346800000,
                 "VaccineText": "Tue 24 May 2022",
-                "AdditionalDose": 1993,
+                "AdditionalDose": 1995,
                 "ImmunoDose": 19,
-                "AdditionalDoseCum": 2917433,
-                "ImmunoDoseCum": 122741,
-                "PerBoosterDose": 64.5617125163016,
+                "AdditionalDoseCum": 2917340,
+                "ImmunoDoseCum": 122846,
+                "PerBoosterDose": 64.5619673525088,
                 "ObjectId": 240
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653433200000,
                 "VaccineText": "Wed 25 May 2022",
                 "AdditionalDose": 2387,
                 "ImmunoDose": 20,
-                "AdditionalDoseCum": 2919820,
-                "ImmunoDoseCum": 122761,
-                "PerBoosterDose": 64.6128284121984,
+                "AdditionalDoseCum": 2919727,
+                "ImmunoDoseCum": 122866,
+                "PerBoosterDose": 64.6130832484056,
                 "ObjectId": 241
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653519600000,
                 "VaccineText": "Thu 26 May 2022",
-                "AdditionalDose": 2182,
+                "AdditionalDose": 2180,
                 "ImmunoDose": 19,
-                "AdditionalDoseCum": 2922002,
-                "ImmunoDoseCum": 122780,
-                "PerBoosterDose": 64.6595696198714,
+                "AdditionalDoseCum": 2921907,
+                "ImmunoDoseCum": 122885,
+                "PerBoosterDose": 64.6597819833775,
                 "ObjectId": 242
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653606000000,
                 "VaccineText": "Fri 27 May 2022",
                 "AdditionalDose": 1906,
                 "ImmunoDose": 8,
-                "AdditionalDoseCum": 2923908,
-                "ImmunoDoseCum": 122788,
-                "PerBoosterDose": 64.700215994922,
+                "AdditionalDoseCum": 2923813,
+                "ImmunoDoseCum": 122893,
+                "PerBoosterDose": 64.700428358428,
                 "ObjectId": 243
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653692400000,
                 "VaccineText": "Sat 28 May 2022",
                 "AdditionalDose": 1439,
                 "ImmunoDose": 5,
-                "AdditionalDoseCum": 2925347,
-                "ImmunoDoseCum": 122793,
-                "PerBoosterDose": 64.73088128519,
+                "AdditionalDoseCum": 2925252,
+                "ImmunoDoseCum": 122898,
+                "PerBoosterDose": 64.731093648696,
                 "ObjectId": 244
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653778800000,
                 "VaccineText": "Sun 29 May 2022",
                 "AdditionalDose": 1603,
                 "ImmunoDose": 12,
-                "AdditionalDoseCum": 2926950,
-                "ImmunoDoseCum": 122805,
-                "PerBoosterDose": 64.7651779914108,
+                "AdditionalDoseCum": 2926855,
+                "ImmunoDoseCum": 122910,
+                "PerBoosterDose": 64.7653903549167,
                 "ObjectId": 245
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653865200000,
                 "VaccineText": "Mon 30 May 2022",
-                "AdditionalDose": 632,
+                "AdditionalDose": 631,
                 "ImmunoDose": 4,
-                "AdditionalDoseCum": 2927582,
-                "ImmunoDoseCum": 122809,
-                "PerBoosterDose": 64.778684310393,
+                "AdditionalDoseCum": 2927486,
+                "ImmunoDoseCum": 122914,
+                "PerBoosterDose": 64.7788754375485,
                 "ObjectId": 246
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1653951600000,
                 "VaccineText": "Tue 31 May 2022",
                 "AdditionalDose": 1602,
                 "ImmunoDose": 12,
-                "AdditionalDoseCum": 2929184,
-                "ImmunoDoseCum": 122821,
-                "PerBoosterDose": 64.8129597802632,
+                "AdditionalDoseCum": 2929088,
+                "ImmunoDoseCum": 122926,
+                "PerBoosterDose": 64.8131509074186,
                 "ObjectId": 247
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654038000000,
                 "VaccineText": "Wed 01 Jun 2022",
-                "AdditionalDose": 1818,
+                "AdditionalDose": 1819,
                 "ImmunoDose": 9,
-                "AdditionalDoseCum": 2931002,
-                "ImmunoDoseCum": 122830,
-                "PerBoosterDose": 64.8517585928114,
+                "AdditionalDoseCum": 2930907,
+                "ImmunoDoseCum": 122935,
+                "PerBoosterDose": 64.8519709563175,
                 "ObjectId": 248
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654124400000,
                 "VaccineText": "Thu 02 Jun 2022",
                 "AdditionalDose": 1584,
                 "ImmunoDose": 25,
-                "AdditionalDoseCum": 2932586,
-                "ImmunoDoseCum": 122855,
-                "PerBoosterDose": 64.8859278809286,
+                "AdditionalDoseCum": 2932491,
+                "ImmunoDoseCum": 122960,
+                "PerBoosterDose": 64.8861402444346,
                 "ObjectId": 249
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654210800000,
                 "VaccineText": "Fri 03 Jun 2022",
-                "AdditionalDose": 1586,
+                "AdditionalDose": 1587,
                 "ImmunoDose": 8,
-                "AdditionalDoseCum": 2934172,
-                "ImmunoDoseCum": 122863,
-                "PerBoosterDose": 64.9197786237868,
+                "AdditionalDoseCum": 2934078,
+                "ImmunoDoseCum": 122968,
+                "PerBoosterDose": 64.9200122236434,
                 "ObjectId": 250
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654297200000,
                 "VaccineText": "Sat 04 Jun 2022",
                 "AdditionalDose": 1693,
                 "ImmunoDose": 5,
-                "AdditionalDoseCum": 2935865,
-                "ImmunoDoseCum": 122868,
-                "PerBoosterDose": 64.9558379471075,
+                "AdditionalDoseCum": 2935771,
+                "ImmunoDoseCum": 122973,
+                "PerBoosterDose": 64.9560715469641,
                 "ObjectId": 251
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654383600000,
                 "VaccineText": "Sun 05 Jun 2022",
                 "AdditionalDose": 663,
                 "ImmunoDose": 1,
-                "AdditionalDoseCum": 2936528,
-                "ImmunoDoseCum": 122869,
-                "PerBoosterDose": 64.9699388839066,
+                "AdditionalDoseCum": 2936434,
+                "ImmunoDoseCum": 122974,
+                "PerBoosterDose": 64.9701724837632,
                 "ObjectId": 252
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654470000000,
                 "VaccineText": "Mon 06 Jun 2022",
                 "AdditionalDose": 78,
                 "ImmunoDose": 0,
-                "AdditionalDoseCum": 2936606,
-                "ImmunoDoseCum": 122869,
-                "PerBoosterDose": 64.9715953192535,
+                "AdditionalDoseCum": 2936512,
+                "ImmunoDoseCum": 122974,
+                "PerBoosterDose": 64.9718289191101,
                 "ObjectId": 253
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654556400000,
                 "VaccineText": "Tue 07 Jun 2022",
                 "AdditionalDose": 683,
                 "ImmunoDose": 4,
-                "AdditionalDoseCum": 2937289,
-                "ImmunoDoseCum": 122873,
-                "PerBoosterDose": 64.9861846921165,
+                "AdditionalDoseCum": 2937195,
+                "ImmunoDoseCum": 122978,
+                "PerBoosterDose": 64.9864182919731,
                 "ObjectId": 254
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654642800000,
                 "VaccineText": "Wed 08 Jun 2022",
-                "AdditionalDose": 1192,
+                "AdditionalDose": 1193,
                 "ImmunoDose": 6,
-                "AdditionalDoseCum": 2938481,
-                "ImmunoDoseCum": 122879,
-                "PerBoosterDose": 65.011604603786,
+                "AdditionalDoseCum": 2938388,
+                "ImmunoDoseCum": 122984,
+                "PerBoosterDose": 65.0118594399932,
                 "ObjectId": 255
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654729200000,
                 "VaccineText": "Thu 09 Jun 2022",
                 "AdditionalDose": 1096,
                 "ImmunoDose": 2,
-                "AdditionalDoseCum": 2939577,
-                "ImmunoDoseCum": 122881,
-                "PerBoosterDose": 65.034922116746,
+                "AdditionalDoseCum": 2939484,
+                "ImmunoDoseCum": 122986,
+                "PerBoosterDose": 65.0351769529532,
                 "ObjectId": 256
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654815600000,
                 "VaccineText": "Fri 10 Jun 2022",
-                "AdditionalDose": 1459,
-                "ImmunoDose": 18,
-                "AdditionalDoseCum": 2941036,
-                "ImmunoDoseCum": 122899,
-                "PerBoosterDose": 65.0662882065838,
+                "AdditionalDose": 1458,
+                "ImmunoDose": 19,
+                "AdditionalDoseCum": 2940942,
+                "ImmunoDoseCum": 123005,
+                "PerBoosterDose": 65.066543042791,
                 "ObjectId": 257
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654902000000,
                 "VaccineText": "Sat 11 Jun 2022",
-                "AdditionalDose": 1360,
+                "AdditionalDose": 1361,
                 "ImmunoDose": 6,
-                "AdditionalDoseCum": 2942396,
-                "ImmunoDoseCum": 122905,
-                "PerBoosterDose": 65.0952970615049,
+                "AdditionalDoseCum": 2942303,
+                "ImmunoDoseCum": 123011,
+                "PerBoosterDose": 65.0955731340627,
                 "ObjectId": 258
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1654988400000,
                 "VaccineText": "Sun 12 Jun 2022",
                 "AdditionalDose": 819,
                 "ImmunoDose": 2,
-                "AdditionalDoseCum": 2943215,
-                "ImmunoDoseCum": 122907,
-                "PerBoosterDose": 65.1127321053484,
+                "AdditionalDoseCum": 2943122,
+                "ImmunoDoseCum": 123013,
+                "PerBoosterDose": 65.1130081779063,
                 "ObjectId": 259
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655074800000,
                 "VaccineText": "Mon 13 Jun 2022",
-                "AdditionalDose": 563,
+                "AdditionalDose": 567,
                 "ImmunoDose": 3,
-                "AdditionalDoseCum": 2943778,
-                "ImmunoDoseCum": 122910,
-                "PerBoosterDose": 65.1247518797887,
+                "AdditionalDoseCum": 2943689,
+                "ImmunoDoseCum": 123016,
+                "PerBoosterDose": 65.1251128977489,
                 "ObjectId": 260
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655161200000,
                 "VaccineText": "Tue 14 Jun 2022",
                 "AdditionalDose": 832,
                 "ImmunoDose": 10,
-                "AdditionalDoseCum": 2944610,
-                "ImmunoDoseCum": 122920,
-                "PerBoosterDose": 65.1426328869948,
+                "AdditionalDoseCum": 2944521,
+                "ImmunoDoseCum": 123026,
+                "PerBoosterDose": 65.142993904955,
                 "ObjectId": 261
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655247600000,
                 "VaccineText": "Wed 15 Jun 2022",
-                "AdditionalDose": 1373,
-                "ImmunoDose": 5,
-                "AdditionalDoseCum": 2945983,
-                "ImmunoDoseCum": 122925,
-                "PerBoosterDose": 65.1718965781231,
+                "AdditionalDose": 1372,
+                "ImmunoDose": 3,
+                "AdditionalDoseCum": 2945893,
+                "ImmunoDoseCum": 123029,
+                "PerBoosterDose": 65.1721938870315,
                 "ObjectId": 262
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655334000000,
                 "VaccineText": "Thu 16 Jun 2022",
-                "AdditionalDose": 1331,
+                "AdditionalDose": 1330,
                 "ImmunoDose": 14,
-                "AdditionalDoseCum": 2947314,
-                "ImmunoDoseCum": 122939,
-                "PerBoosterDose": 65.2004594696816,
+                "AdditionalDoseCum": 2947223,
+                "ImmunoDoseCum": 123043,
+                "PerBoosterDose": 65.2007355422394,
                 "ObjectId": 263
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655420400000,
                 "VaccineText": "Fri 17 Jun 2022",
-                "AdditionalDose": 1459,
+                "AdditionalDose": 1461,
                 "ImmunoDose": 17,
-                "AdditionalDoseCum": 2948773,
-                "ImmunoDoseCum": 122956,
-                "PerBoosterDose": 65.2318043231688,
+                "AdditionalDoseCum": 2948684,
+                "ImmunoDoseCum": 123060,
+                "PerBoosterDose": 65.2321228684279,
                 "ObjectId": 264
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655506800000,
                 "VaccineText": "Sat 18 Jun 2022",
                 "AdditionalDose": 990,
                 "ImmunoDose": 1,
-                "AdditionalDoseCum": 2949763,
-                "ImmunoDoseCum": 122957,
-                "PerBoosterDose": 65.2528495466145,
+                "AdditionalDoseCum": 2949674,
+                "ImmunoDoseCum": 123061,
+                "PerBoosterDose": 65.2531680918735,
                 "ObjectId": 265
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655593200000,
                 "VaccineText": "Sun 19 Jun 2022",
                 "AdditionalDose": 1012,
                 "ImmunoDose": 2,
-                "AdditionalDoseCum": 2950775,
-                "ImmunoDoseCum": 122959,
-                "PerBoosterDose": 65.2743832061241,
+                "AdditionalDoseCum": 2950686,
+                "ImmunoDoseCum": 123063,
+                "PerBoosterDose": 65.2747017513831,
                 "ObjectId": 266
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655679600000,
                 "VaccineText": "Mon 20 Jun 2022",
                 "AdditionalDose": 502,
                 "ImmunoDose": 2,
-                "AdditionalDoseCum": 2951277,
-                "ImmunoDoseCum": 122961,
-                "PerBoosterDose": 65.285086326827,
+                "AdditionalDoseCum": 2951188,
+                "ImmunoDoseCum": 123065,
+                "PerBoosterDose": 65.285404872086,
                 "ObjectId": 267
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655766000000,
                 "VaccineText": "Tue 21 Jun 2022",
-                "AdditionalDose": 1066,
+                "AdditionalDose": 1067,
                 "ImmunoDose": 18,
-                "AdditionalDoseCum": 2952343,
-                "ImmunoDoseCum": 122979,
-                "PerBoosterDose": 65.3081065308786,
+                "AdditionalDoseCum": 2952255,
+                "ImmunoDoseCum": 123083,
+                "PerBoosterDose": 65.3084463124882,
                 "ObjectId": 268
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655852400000,
                 "VaccineText": "Wed 22 Jun 2022",
-                "AdditionalDose": 1730,
+                "AdditionalDose": 1731,
                 "ImmunoDose": 13,
-                "AdditionalDoseCum": 2954073,
-                "ImmunoDoseCum": 122992,
-                "PerBoosterDose": 65.3451214899763,
+                "AdditionalDoseCum": 2953986,
+                "ImmunoDoseCum": 123096,
+                "PerBoosterDose": 65.3454825079366,
                 "ObjectId": 269
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1655938800000,
                 "VaccineText": "Thu 23 Jun 2022",
-                "AdditionalDose": 1147,
+                "AdditionalDose": 1154,
                 "ImmunoDose": 7,
-                "AdditionalDoseCum": 2955220,
-                "ImmunoDoseCum": 122999,
-                "PerBoosterDose": 65.3696070022194,
+                "AdditionalDoseCum": 2955140,
+                "ImmunoDoseCum": 123103,
+                "PerBoosterDose": 65.3701166746338,
                 "ObjectId": 270
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656025200000,
                 "VaccineText": "Fri 24 Jun 2022",
-                "AdditionalDose": 1494,
+                "AdditionalDose": 1493,
                 "ImmunoDose": 10,
-                "AdditionalDoseCum": 2956714,
-                "ImmunoDoseCum": 123009,
-                "PerBoosterDose": 65.4015464735235,
+                "AdditionalDoseCum": 2956633,
+                "ImmunoDoseCum": 123113,
+                "PerBoosterDose": 65.4020349095873,
                 "ObjectId": 271
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656111600000,
                 "VaccineText": "Sat 25 Jun 2022",
-                "AdditionalDose": 980,
-                "ImmunoDose": 7,
-                "AdditionalDoseCum": 2957694,
-                "ImmunoDoseCum": 123016,
-                "PerBoosterDose": 65.4225067515668,
+                "AdditionalDose": 979,
+                "ImmunoDose": 8,
+                "AdditionalDoseCum": 2957612,
+                "ImmunoDoseCum": 123121,
+                "PerBoosterDose": 65.4229951876306,
                 "ObjectId": 272
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656198000000,
                 "VaccineText": "Sun 26 Jun 2022",
-                "AdditionalDose": 1482,
+                "AdditionalDose": 1481,
                 "ImmunoDose": 7,
-                "AdditionalDoseCum": 2959176,
-                "ImmunoDoseCum": 123023,
-                "PerBoosterDose": 65.4541276776118,
+                "AdditionalDoseCum": 2959093,
+                "ImmunoDoseCum": 123128,
+                "PerBoosterDose": 65.454594877325,
                 "ObjectId": 273
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656284400000,
                 "VaccineText": "Mon 27 Jun 2022",
                 "AdditionalDose": 418,
                 "ImmunoDose": 1,
-                "AdditionalDoseCum": 2959594,
-                "ImmunoDoseCum": 123024,
-                "PerBoosterDose": 65.4630257085137,
+                "AdditionalDoseCum": 2959511,
+                "ImmunoDoseCum": 123129,
+                "PerBoosterDose": 65.4634929082269,
                 "ObjectId": 274
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656370800000,
                 "VaccineText": "Tue 28 Jun 2022",
-                "AdditionalDose": 1184,
+                "AdditionalDose": 1192,
                 "ImmunoDose": 10,
-                "AdditionalDoseCum": 2960778,
-                "ImmunoDoseCum": 123034,
-                "PerBoosterDose": 65.4883819111314,
+                "AdditionalDoseCum": 2960703,
+                "ImmunoDoseCum": 123139,
+                "PerBoosterDose": 65.4890190016494,
                 "ObjectId": 275
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656457200000,
                 "VaccineText": "Wed 29 Jun 2022",
-                "AdditionalDose": 1639,
-                "ImmunoDose": 22,
-                "AdditionalDoseCum": 2962417,
-                "ImmunoDoseCum": 123056,
-                "PerBoosterDose": 65.5236554894798,
+                "AdditionalDose": 1642,
+                "ImmunoDose": 21,
+                "AdditionalDoseCum": 2962345,
+                "ImmunoDoseCum": 123160,
+                "PerBoosterDose": 65.5243350526991,
                 "ObjectId": 276
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656543600000,
                 "VaccineText": "Thu 30 Jun 2022",
-                "AdditionalDose": 1109,
-                "ImmunoDose": 11,
-                "AdditionalDoseCum": 2963526,
-                "ImmunoDoseCum": 123067,
-                "PerBoosterDose": 65.5474402021531,
+                "AdditionalDose": 1113,
+                "ImmunoDose": 12,
+                "AdditionalDoseCum": 2963458,
+                "ImmunoDoseCum": 123172,
+                "PerBoosterDose": 65.5482259471253,
                 "ObjectId": 277
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656630000000,
                 "VaccineText": "Fri 01 Jul 2022",
-                "AdditionalDose": 1269,
+                "AdditionalDose": 1279,
                 "ImmunoDose": 7,
-                "AdditionalDoseCum": 2964795,
-                "ImmunoDoseCum": 123074,
-                "PerBoosterDose": 65.5745377855201,
+                "AdditionalDoseCum": 2964737,
+                "ImmunoDoseCum": 123179,
+                "PerBoosterDose": 65.5755358939983,
                 "ObjectId": 278
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656716400000,
                 "VaccineText": "Sat 02 Jul 2022",
-                "AdditionalDose": 1087,
+                "AdditionalDose": 1089,
                 "ImmunoDose": 5,
-                "AdditionalDoseCum": 2965882,
-                "ImmunoDoseCum": 123079,
-                "PerBoosterDose": 65.5977278803765,
+                "AdditionalDoseCum": 2965826,
+                "ImmunoDoseCum": 123184,
+                "PerBoosterDose": 65.5987684615559,
                 "ObjectId": 279
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656802800000,
                 "VaccineText": "Sun 03 Jul 2022",
-                "AdditionalDose": 1064,
+                "AdditionalDose": 1067,
                 "ImmunoDose": 6,
-                "AdditionalDoseCum": 2966946,
-                "ImmunoDoseCum": 123085,
-                "PerBoosterDose": 65.6204507755197,
+                "AdditionalDoseCum": 2966893,
+                "ImmunoDoseCum": 123190,
+                "PerBoosterDose": 65.6215550657509,
                 "ObjectId": 280
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656889200000,
                 "VaccineText": "Mon 04 Jul 2022",
-                "AdditionalDose": 389,
+                "AdditionalDose": 392,
                 "ImmunoDose": 8,
-                "AdditionalDoseCum": 2967335,
-                "ImmunoDoseCum": 123093,
-                "PerBoosterDose": 65.6288816067083,
+                "AdditionalDoseCum": 2967285,
+                "ImmunoDoseCum": 123198,
+                "PerBoosterDose": 65.6300496059914,
                 "ObjectId": 281
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1656975600000,
                 "VaccineText": "Tue 05 Jul 2022",
-                "AdditionalDose": 1159,
+                "AdditionalDose": 1183,
                 "ImmunoDose": 7,
-                "AdditionalDoseCum": 2968494,
-                "ImmunoDoseCum": 123100,
-                "PerBoosterDose": 65.6536431915092,
+                "AdditionalDoseCum": 2968468,
+                "ImmunoDoseCum": 123205,
+                "PerBoosterDose": 65.6553208632067,
                 "ObjectId": 282
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1657062000000,
                 "VaccineText": "Wed 06 Jul 2022",
-                "AdditionalDose": 1438,
-                "ImmunoDose": 14,
-                "AdditionalDoseCum": 2969932,
-                "ImmunoDoseCum": 123114,
-                "PerBoosterDose": 65.684478372582,
+                "AdditionalDose": 1451,
+                "ImmunoDose": 13,
+                "AdditionalDoseCum": 2969919,
+                "ImmunoDoseCum": 123218,
+                "PerBoosterDose": 65.6864108804867,
                 "ObjectId": 283
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1657148400000,
                 "VaccineText": "Thu 07 Jul 2022",
-                "AdditionalDose": 1183,
-                "ImmunoDose": 13,
-                "AdditionalDoseCum": 2971115,
-                "ImmunoDoseCum": 123127,
-                "PerBoosterDose": 65.7098558115503,
+                "AdditionalDose": 1207,
+                "ImmunoDose": 14,
+                "AdditionalDoseCum": 2971126,
+                "ImmunoDoseCum": 123232,
+                "PerBoosterDose": 65.7123192282201,
                 "ObjectId": 284
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1657234800000,
                 "VaccineText": "Fri 08 Jul 2022",
-                "AdditionalDose": 1056,
-                "ImmunoDose": 28,
-                "AdditionalDoseCum": 2972171,
-                "ImmunoDoseCum": 123155,
-                "PerBoosterDose": 65.7328760156019,
+                "AdditionalDose": 1080,
+                "ImmunoDose": 31,
+                "AdditionalDoseCum": 2972206,
+                "ImmunoDoseCum": 123263,
+                "PerBoosterDose": 65.7359128137379,
                 "ObjectId": 285
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1657321200000,
                 "VaccineText": "Sat 09 Jul 2022",
-                "AdditionalDose": 931,
+                "AdditionalDose": 936,
                 "ImmunoDose": 4,
-                "AdditionalDoseCum": 2973102,
-                "ImmunoDoseCum": 123159,
-                "PerBoosterDose": 65.752732003414,
+                "AdditionalDoseCum": 2973142,
+                "ImmunoDoseCum": 123267,
+                "PerBoosterDose": 65.7558749833029,
                 "ObjectId": 286
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1657407600000,
                 "VaccineText": "Sun 10 Jul 2022",
-                "AdditionalDose": 653,
+                "AdditionalDose": 654,
                 "ImmunoDose": 2,
-                "AdditionalDoseCum": 2973755,
-                "ImmunoDoseCum": 123161,
-                "PerBoosterDose": 65.7666418130577,
+                "AdditionalDoseCum": 2973796,
+                "ImmunoDoseCum": 123269,
+                "PerBoosterDose": 65.7698060292972,
                 "ObjectId": 287
             }
         },
         {
             "attributes": {
-                "ExtractDate": 1657580400000,
+                "ExtractDate": 1657666800000,
                 "VaccinationDate": 1657494000000,
                 "VaccineText": "Mon 11 Jul 2022",
-                "AdditionalDose": 282,
+                "AdditionalDose": 300,
                 "ImmunoDose": 9,
-                "AdditionalDoseCum": 2974037,
-                "ImmunoDoseCum": 123170,
-                "PerBoosterDose": 65.7728215910826,
+                "AdditionalDoseCum": 2974096,
+                "ImmunoDoseCum": 123278,
+                "PerBoosterDose": 65.776368061633,
                 "ObjectId": 288
+            }
+        },
+        {
+            "attributes": {
+                "ExtractDate": 1657666800000,
+                "VaccinationDate": 1657580400000,
+                "VaccineText": "Tue 12 Jul 2022",
+                "AdditionalDose": 935,
+                "ImmunoDose": 12,
+                "AdditionalDoseCum": 2975031,
+                "ImmunoDoseCum": 123290,
+                "PerBoosterDose": 65.7964788856522,
+                "ObjectId": 289
             }
         }
     ]
