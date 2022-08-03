@@ -7022,6 +7022,62 @@
                 "FID": 872,
                 "DateTimeStampText": "Wed, 27th Jul 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1658966400000,
+                "TotalConfirmedCovidCases": 4853,
+                "FID": 873,
+                "DateTimeStampText": "Thu, 28th Jul 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1659052800000,
+                "TotalConfirmedCovidCases": 4519,
+                "FID": 874,
+                "DateTimeStampText": "Fri, 29th Jul 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1659139200000,
+                "TotalConfirmedCovidCases": 4124,
+                "FID": 875,
+                "DateTimeStampText": "Sat, 30th Jul 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1659225600000,
+                "TotalConfirmedCovidCases": 3936,
+                "FID": 876,
+                "DateTimeStampText": "Sun, 31st Jul 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1659312000000,
+                "TotalConfirmedCovidCases": 4226,
+                "FID": 877,
+                "DateTimeStampText": "Mon, 1st Aug 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1659398400000,
+                "TotalConfirmedCovidCases": 3455,
+                "FID": 878,
+                "DateTimeStampText": "Tue, 2nd Aug 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1659484800000,
+                "TotalConfirmedCovidCases": 3439,
+                "FID": 879,
+                "DateTimeStampText": "Wed, 3rd Aug 2022"
+            }
         }
     ]
 }
