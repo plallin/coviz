@@ -121,7 +121,7 @@
         {
             "name": "AD_Moderna",
             "type": "esriFieldTypeInteger",
-            "alias": "AD_Moderna",
+            "alias": "AdditionalDoses Moderna",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -129,7 +129,7 @@
         {
             "name": "AD_Pfizer",
             "type": "esriFieldTypeInteger",
-            "alias": "AD_Pfizer",
+            "alias": "AdditionalDoses Pfizer",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -137,7 +137,7 @@
         {
             "name": "AD_AstraZeneca",
             "type": "esriFieldTypeInteger",
-            "alias": "AD_AstraZeneca",
+            "alias": "AdditionalDoses AstraZeneca",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
