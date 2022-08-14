@@ -8931,6 +8931,16 @@
                 "SUM_no_discharges_covid19_posit": 39,
                 "SUM_number_of_new_covid_19_cases_co": 52
             }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 889,
+                "Date": 1660474800000,
+                "SUM_number_of_confirmed_covid_1": 336,
+                "SUM_no_new_admissions_covid19_p": 26,
+                "SUM_no_discharges_covid19_posit": 15,
+                "SUM_number_of_new_covid_19_cases_co": 37
+            }
         }
     ]
 }
