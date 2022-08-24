@@ -79,6 +79,46 @@
             "defaultValue": null
         },
         {
+            "name": "AdditionalDose2",
+            "type": "esriFieldTypeInteger",
+            "alias": "AdditionalDose2",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "ImmunoDose2",
+            "type": "esriFieldTypeInteger",
+            "alias": "ImmunoDose2",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "AdditionalDoseCum2",
+            "type": "esriFieldTypeInteger",
+            "alias": "AdditionalDoseCum2",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "ImmunoDoseCum2",
+            "type": "esriFieldTypeInteger",
+            "alias": "ImmunoDoseCum2",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "PerBoosterDose2",
+            "type": "esriFieldTypeDouble",
+            "alias": "PerBoosterDose2",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
             "name": "ObjectId",
             "type": "esriFieldTypeOID",
             "alias": "ObjectId",
@@ -98,6 +138,11 @@
                 "AdditionalDoseCum": 235,
                 "ImmunoDoseCum": 72,
                 "PerBoosterDose": 0.0065195596345394,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 1
             }
         },
@@ -111,6 +156,11 @@
                 "AdditionalDoseCum": 746,
                 "ImmunoDoseCum": 94,
                 "PerBoosterDose": 0.0178385345049286,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 2
             }
         },
@@ -124,6 +174,11 @@
                 "AdditionalDoseCum": 1396,
                 "ImmunoDoseCum": 129,
                 "PerBoosterDose": 0.0323854346666859,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 3
             }
         },
@@ -137,6 +192,11 @@
                 "AdditionalDoseCum": 2970,
                 "ImmunoDoseCum": 313,
                 "PerBoosterDose": 0.0697189390234294,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 4
             }
         },
@@ -150,6 +210,11 @@
                 "AdditionalDoseCum": 5435,
                 "ImmunoDoseCum": 617,
                 "PerBoosterDose": 0.128522393837891,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 5
             }
         },
@@ -163,6 +228,11 @@
                 "AdditionalDoseCum": 6457,
                 "ImmunoDoseCum": 862,
                 "PerBoosterDose": 0.155428850049491,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 6
             }
         },
@@ -176,6 +246,11 @@
                 "AdditionalDoseCum": 6489,
                 "ImmunoDoseCum": 2034,
                 "PerBoosterDose": 0.180997416173222,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 7
             }
         },
@@ -189,6 +264,11 @@
                 "AdditionalDoseCum": 10765,
                 "ImmunoDoseCum": 2624,
                 "PerBoosterDose": 0.284333498198202,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 8
             }
         },
@@ -202,6 +282,11 @@
                 "AdditionalDoseCum": 18996,
                 "ImmunoDoseCum": 3177,
                 "PerBoosterDose": 0.470873601878313,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 9
             }
         },
@@ -215,6 +300,11 @@
                 "AdditionalDoseCum": 29731,
                 "ImmunoDoseCum": 4854,
                 "PerBoosterDose": 0.734459185539235,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 10
             }
         },
@@ -228,6 +318,11 @@
                 "AdditionalDoseCum": 40281,
                 "ImmunoDoseCum": 6329,
                 "PerBoosterDose": 0.989826301517528,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 11
             }
         },
@@ -241,6 +336,11 @@
                 "AdditionalDoseCum": 50978,
                 "ImmunoDoseCum": 8111,
                 "PerBoosterDose": 1.25483472066872,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 12
             }
         },
@@ -254,6 +354,11 @@
                 "AdditionalDoseCum": 55894,
                 "ImmunoDoseCum": 9781,
                 "PerBoosterDose": 1.39469732572761,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 13
             }
         },
@@ -267,6 +372,11 @@
                 "AdditionalDoseCum": 56618,
                 "ImmunoDoseCum": 10370,
                 "PerBoosterDose": 1.42258065406686,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 14
             }
         },
@@ -280,6 +390,11 @@
                 "AdditionalDoseCum": 62278,
                 "ImmunoDoseCum": 11406,
                 "PerBoosterDose": 1.56477925769186,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 15
             }
         },
@@ -293,6 +408,11 @@
                 "AdditionalDoseCum": 71793,
                 "ImmunoDoseCum": 12535,
                 "PerBoosterDose": 1.79079773713943,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 16
             }
         },
@@ -306,6 +426,11 @@
                 "AdditionalDoseCum": 82496,
                 "ImmunoDoseCum": 13885,
                 "PerBoosterDose": 2.04675947093455,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 17
             }
         },
@@ -319,6 +444,11 @@
                 "AdditionalDoseCum": 94901,
                 "ImmunoDoseCum": 15781,
                 "PerBoosterDose": 2.35046052088096,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 18
             }
         },
@@ -332,6 +462,11 @@
                 "AdditionalDoseCum": 103243,
                 "ImmunoDoseCum": 18509,
                 "PerBoosterDose": 2.5855469220352,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 19
             }
         },
@@ -345,6 +480,11 @@
                 "AdditionalDoseCum": 108200,
                 "ImmunoDoseCum": 21461,
                 "PerBoosterDose": 2.75350521893934,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 20
             }
         },
@@ -358,6 +498,11 @@
                 "AdditionalDoseCum": 108768,
                 "ImmunoDoseCum": 22588,
                 "PerBoosterDose": 2.78950083320822,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 21
             }
         },
@@ -371,6 +516,11 @@
                 "AdditionalDoseCum": 112651,
                 "ImmunoDoseCum": 23733,
                 "PerBoosterDose": 2.89627720403057,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 22
             }
         },
@@ -384,6 +534,11 @@
                 "AdditionalDoseCum": 120251,
                 "ImmunoDoseCum": 26183,
                 "PerBoosterDose": 3.10970252757168,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 23
             }
         },
@@ -397,6 +552,11 @@
                 "AdditionalDoseCum": 127654,
                 "ImmunoDoseCum": 28808,
                 "PerBoosterDose": 3.32266065139957,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 24
             }
         },
@@ -410,6 +570,11 @@
                 "AdditionalDoseCum": 135830,
                 "ImmunoDoseCum": 32034,
                 "PerBoosterDose": 3.56477628460278,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 25
             }
         },
@@ -423,6 +588,11 @@
                 "AdditionalDoseCum": 140798,
                 "ImmunoDoseCum": 35203,
                 "PerBoosterDose": 3.73757646944397,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 26
             }
         },
@@ -436,6 +606,11 @@
                 "AdditionalDoseCum": 141489,
                 "ImmunoDoseCum": 35966,
                 "PerBoosterDose": 3.76845412321798,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 27
             }
         },
@@ -449,6 +624,11 @@
                 "AdditionalDoseCum": 141578,
                 "ImmunoDoseCum": 37251,
                 "PerBoosterDose": 3.7976328689439,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 28
             }
         },
@@ -462,6 +642,11 @@
                 "AdditionalDoseCum": 141666,
                 "ImmunoDoseCum": 37704,
                 "PerBoosterDose": 3.8091217346191,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 29
             }
         },
@@ -475,6 +660,11 @@
                 "AdditionalDoseCum": 144351,
                 "ImmunoDoseCum": 39566,
                 "PerBoosterDose": 3.90568342080232,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 30
             }
         },
@@ -488,6 +678,11 @@
                 "AdditionalDoseCum": 148343,
                 "ImmunoDoseCum": 42963,
                 "PerBoosterDose": 4.06259881539389,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 31
             }
         },
@@ -501,6 +696,11 @@
                 "AdditionalDoseCum": 152581,
                 "ImmunoDoseCum": 46203,
                 "PerBoosterDose": 4.22140424518896,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 32
             }
         },
@@ -514,6 +714,11 @@
                 "AdditionalDoseCum": 156074,
                 "ImmunoDoseCum": 49474,
                 "PerBoosterDose": 4.36504692065484,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 33
             }
         },
@@ -527,6 +732,11 @@
                 "AdditionalDoseCum": 157236,
                 "ImmunoDoseCum": 50497,
                 "PerBoosterDose": 4.41144834671825,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 34
             }
         },
@@ -540,6 +750,11 @@
                 "AdditionalDoseCum": 157440,
                 "ImmunoDoseCum": 51318,
                 "PerBoosterDose": 4.43321560608438,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 35
             }
         },
@@ -553,6 +768,11 @@
                 "AdditionalDoseCum": 160007,
                 "ImmunoDoseCum": 51643,
                 "PerBoosterDose": 4.49463113202278,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 36
             }
         },
@@ -566,6 +786,11 @@
                 "AdditionalDoseCum": 165475,
                 "ImmunoDoseCum": 54587,
                 "PerBoosterDose": 4.67327131327928,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 37
             }
         },
@@ -579,6 +804,11 @@
                 "AdditionalDoseCum": 171735,
                 "ImmunoDoseCum": 56996,
                 "PerBoosterDose": 4.85736923664026,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 38
             }
         },
@@ -592,6 +822,11 @@
                 "AdditionalDoseCum": 181734,
                 "ImmunoDoseCum": 59289,
                 "PerBoosterDose": 5.11840645822905,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 39
             }
         },
@@ -605,6 +840,11 @@
                 "AdditionalDoseCum": 194541,
                 "ImmunoDoseCum": 60837,
                 "PerBoosterDose": 5.42325427110792,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 40
             }
         },
@@ -618,6 +858,11 @@
                 "AdditionalDoseCum": 204363,
                 "ImmunoDoseCum": 62403,
                 "PerBoosterDose": 5.66509383175331,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 41
             }
         },
@@ -631,6 +876,11 @@
                 "AdditionalDoseCum": 215051,
                 "ImmunoDoseCum": 62999,
                 "PerBoosterDose": 5.90472481193619,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 42
             }
         },
@@ -644,6 +894,11 @@
                 "AdditionalDoseCum": 229279,
                 "ImmunoDoseCum": 63574,
                 "PerBoosterDose": 6.21908650988435,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 43
             }
         },
@@ -657,6 +912,11 @@
                 "AdditionalDoseCum": 251462,
                 "ImmunoDoseCum": 64729,
                 "PerBoosterDose": 6.71470046021295,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 44
             }
         },
@@ -670,6 +930,11 @@
                 "AdditionalDoseCum": 277132,
                 "ImmunoDoseCum": 66083,
                 "PerBoosterDose": 7.28859159885723,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 45
             }
         },
@@ -683,6 +948,11 @@
                 "AdditionalDoseCum": 305692,
                 "ImmunoDoseCum": 67682,
                 "PerBoosterDose": 7.92905869663597,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 46
             }
         },
@@ -696,6 +966,11 @@
                 "AdditionalDoseCum": 330449,
                 "ImmunoDoseCum": 69157,
                 "PerBoosterDose": 8.48613064560417,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 47
             }
         },
@@ -709,6 +984,11 @@
                 "AdditionalDoseCum": 349434,
                 "ImmunoDoseCum": 70238,
                 "PerBoosterDose": 8.91225925676595,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 48
             }
         },
@@ -722,6 +1002,11 @@
                 "AdditionalDoseCum": 358342,
                 "ImmunoDoseCum": 70576,
                 "PerBoosterDose": 9.10861055442378,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 49
             }
         },
@@ -735,6 +1020,11 @@
                 "AdditionalDoseCum": 372642,
                 "ImmunoDoseCum": 71268,
                 "PerBoosterDose": 9.42698592263555,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 50
             }
         },
@@ -748,6 +1038,11 @@
                 "AdditionalDoseCum": 399356,
                 "ImmunoDoseCum": 72872,
                 "PerBoosterDose": 10.0283568989577,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 51
             }
         },
@@ -761,6 +1056,11 @@
                 "AdditionalDoseCum": 430580,
                 "ImmunoDoseCum": 75141,
                 "PerBoosterDose": 10.7396259896405,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 52
             }
         },
@@ -774,6 +1074,11 @@
                 "AdditionalDoseCum": 466435,
                 "ImmunoDoseCum": 77690,
                 "PerBoosterDose": 11.5551867981253,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 53
             }
         },
@@ -787,6 +1092,11 @@
                 "AdditionalDoseCum": 495419,
                 "ImmunoDoseCum": 80282,
                 "PerBoosterDose": 12.2257458047058,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 54
             }
         },
@@ -800,6 +1110,11 @@
                 "AdditionalDoseCum": 515351,
                 "ImmunoDoseCum": 81673,
                 "PerBoosterDose": 12.6785685085732,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 55
             }
         },
@@ -813,6 +1128,11 @@
                 "AdditionalDoseCum": 528215,
                 "ImmunoDoseCum": 82062,
                 "PerBoosterDose": 12.9600138630897,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 56
             }
         },
@@ -826,6 +1146,11 @@
                 "AdditionalDoseCum": 543466,
                 "ImmunoDoseCum": 83417,
                 "PerBoosterDose": 13.3126647011716,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 57
             }
         },
@@ -839,6 +1164,11 @@
                 "AdditionalDoseCum": 573299,
                 "ImmunoDoseCum": 86807,
                 "PerBoosterDose": 14.0181787408416,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 58
             }
         },
@@ -852,6 +1182,11 @@
                 "AdditionalDoseCum": 606629,
                 "ImmunoDoseCum": 89086,
                 "PerBoosterDose": 14.7743839493963,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 59
             }
         },
@@ -865,6 +1200,11 @@
                 "AdditionalDoseCum": 645080,
                 "ImmunoDoseCum": 91503,
                 "PerBoosterDose": 15.6422711257623,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 60
             }
         },
@@ -878,6 +1218,11 @@
                 "AdditionalDoseCum": 678412,
                 "ImmunoDoseCum": 94151,
                 "PerBoosterDose": 16.4063550203901,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 61
             }
         },
@@ -891,6 +1236,11 @@
                 "AdditionalDoseCum": 701657,
                 "ImmunoDoseCum": 95454,
                 "PerBoosterDose": 16.927664954946,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 62
             }
         },
@@ -904,6 +1254,11 @@
                 "AdditionalDoseCum": 717453,
                 "ImmunoDoseCum": 95762,
                 "PerBoosterDose": 17.2696551450262,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 63
             }
         },
@@ -917,6 +1272,11 @@
                 "AdditionalDoseCum": 737795,
                 "ImmunoDoseCum": 97013,
                 "PerBoosterDose": 17.7282116635559,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 64
             }
         },
@@ -930,6 +1290,11 @@
                 "AdditionalDoseCum": 774577,
                 "ImmunoDoseCum": 99059,
                 "PerBoosterDose": 18.5527766846956,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 65
             }
         },
@@ -943,6 +1308,11 @@
                 "AdditionalDoseCum": 811950,
                 "ImmunoDoseCum": 100951,
                 "PerBoosterDose": 19.386621991048,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 66
             }
         },
@@ -956,6 +1326,11 @@
                 "AdditionalDoseCum": 850198,
                 "ImmunoDoseCum": 102709,
                 "PerBoosterDose": 20.2362034331959,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 67
             }
         },
@@ -969,6 +1344,11 @@
                 "AdditionalDoseCum": 884801,
                 "ImmunoDoseCum": 104335,
                 "PerBoosterDose": 21.0055751791233,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 68
             }
         },
@@ -982,6 +1362,11 @@
                 "AdditionalDoseCum": 907646,
                 "ImmunoDoseCum": 104843,
                 "PerBoosterDose": 21.5015076747109,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 69
             }
         },
@@ -995,6 +1380,11 @@
                 "AdditionalDoseCum": 922658,
                 "ImmunoDoseCum": 105032,
                 "PerBoosterDose": 21.8243214401983,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 70
             }
         },
@@ -1008,6 +1398,11 @@
                 "AdditionalDoseCum": 944007,
                 "ImmunoDoseCum": 105833,
                 "PerBoosterDose": 22.2947066060128,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 71
             }
         },
@@ -1021,6 +1416,11 @@
                 "AdditionalDoseCum": 972556,
                 "ImmunoDoseCum": 106455,
                 "PerBoosterDose": 22.9141921893977,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 72
             }
         },
@@ -1034,6 +1434,11 @@
                 "AdditionalDoseCum": 1008933,
                 "ImmunoDoseCum": 107290,
                 "PerBoosterDose": 23.704439267966,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 73
             }
         },
@@ -1047,6 +1452,11 @@
                 "AdditionalDoseCum": 1054336,
                 "ImmunoDoseCum": 108153,
                 "PerBoosterDose": 24.6869602648768,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 74
             }
         },
@@ -1060,6 +1470,11 @@
                 "AdditionalDoseCum": 1094383,
                 "ImmunoDoseCum": 109235,
                 "PerBoosterDose": 25.5603901287496,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 75
             }
         },
@@ -1073,6 +1488,11 @@
                 "AdditionalDoseCum": 1123199,
                 "ImmunoDoseCum": 109570,
                 "PerBoosterDose": 26.1794509851225,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 76
             }
         },
@@ -1086,6 +1506,11 @@
                 "AdditionalDoseCum": 1149488,
                 "ImmunoDoseCum": 109803,
                 "PerBoosterDose": 26.742681475765,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 77
             }
         },
@@ -1099,6 +1524,11 @@
                 "AdditionalDoseCum": 1180675,
                 "ImmunoDoseCum": 110336,
                 "PerBoosterDose": 27.416298516832,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 78
             }
         },
@@ -1112,6 +1542,11 @@
                 "AdditionalDoseCum": 1233161,
                 "ImmunoDoseCum": 111432,
                 "PerBoosterDose": 28.5541846547405,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 79
             }
         },
@@ -1125,6 +1560,11 @@
                 "AdditionalDoseCum": 1290028,
                 "ImmunoDoseCum": 112187,
                 "PerBoosterDose": 29.7778656490774,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 80
             }
         },
@@ -1138,6 +1578,11 @@
                 "AdditionalDoseCum": 1355401,
                 "ImmunoDoseCum": 113197,
                 "PerBoosterDose": 31.18757707468,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 81
             }
         },
@@ -1151,6 +1596,11 @@
                 "AdditionalDoseCum": 1420713,
                 "ImmunoDoseCum": 113898,
                 "PerBoosterDose": 32.5894522869107,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 82
             }
         },
@@ -1164,6 +1614,11 @@
                 "AdditionalDoseCum": 1466403,
                 "ImmunoDoseCum": 114332,
                 "PerBoosterDose": 33.5689577220361,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 83
             }
         },
@@ -1177,6 +1632,11 @@
                 "AdditionalDoseCum": 1521085,
                 "ImmunoDoseCum": 114570,
                 "PerBoosterDose": 34.7352580970488,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 84
             }
         },
@@ -1190,6 +1650,11 @@
                 "AdditionalDoseCum": 1613935,
                 "ImmunoDoseCum": 115151,
                 "PerBoosterDose": 36.7193915700607,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 85
             }
         },
@@ -1203,6 +1668,11 @@
                 "AdditionalDoseCum": 1742754,
                 "ImmunoDoseCum": 115957,
                 "PerBoosterDose": 39.4721322803784,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 86
             }
         },
@@ -1216,6 +1686,11 @@
                 "AdditionalDoseCum": 1874611,
                 "ImmunoDoseCum": 116841,
                 "PerBoosterDose": 42.2910242228186,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 87
             }
         },
@@ -1229,6 +1704,11 @@
                 "AdditionalDoseCum": 1976089,
                 "ImmunoDoseCum": 117571,
                 "PerBoosterDose": 44.4615279087058,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 88
             }
         },
@@ -1242,6 +1722,11 @@
                 "AdditionalDoseCum": 1987081,
                 "ImmunoDoseCum": 117651,
                 "PerBoosterDose": 44.6966567825612,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 89
             }
         },
@@ -1255,6 +1740,11 @@
                 "AdditionalDoseCum": 1987103,
                 "ImmunoDoseCum": 117651,
                 "PerBoosterDose": 44.6971239822744,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 90
             }
         },
@@ -1268,6 +1758,11 @@
                 "AdditionalDoseCum": 1987348,
                 "ImmunoDoseCum": 117653,
                 "PerBoosterDose": 44.7023693608729,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 91
             }
         },
@@ -1281,6 +1776,11 @@
                 "AdditionalDoseCum": 2000143,
                 "ImmunoDoseCum": 117716,
                 "PerBoosterDose": 44.9754263569019,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 92
             }
         },
@@ -1294,6 +1794,11 @@
                 "AdditionalDoseCum": 2023286,
                 "ImmunoDoseCum": 117873,
                 "PerBoosterDose": 45.4702333259077,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 93
             }
         },
@@ -1307,6 +1812,11 @@
                 "AdditionalDoseCum": 2076180,
                 "ImmunoDoseCum": 118137,
                 "PerBoosterDose": 46.5991152511613,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 94
             }
         },
@@ -1320,6 +1830,11 @@
                 "AdditionalDoseCum": 2137123,
                 "ImmunoDoseCum": 118543,
                 "PerBoosterDose": 47.9019228878379,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 95
             }
         },
@@ -1333,6 +1848,11 @@
                 "AdditionalDoseCum": 2156109,
                 "ImmunoDoseCum": 118662,
                 "PerBoosterDose": 48.307643366072,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 96
             }
         },
@@ -1346,6 +1866,11 @@
                 "AdditionalDoseCum": 2165037,
                 "ImmunoDoseCum": 118672,
                 "PerBoosterDose": 48.4974538677447,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 97
             }
         },
@@ -1359,6 +1884,11 @@
                 "AdditionalDoseCum": 2178879,
                 "ImmunoDoseCum": 118708,
                 "PerBoosterDose": 48.7921719413868,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 98
             }
         },
@@ -1372,6 +1902,11 @@
                 "AdditionalDoseCum": 2195666,
                 "ImmunoDoseCum": 118770,
                 "PerBoosterDose": 49.1499832126648,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 99
             }
         },
@@ -1385,6 +1920,11 @@
                 "AdditionalDoseCum": 2227439,
                 "ImmunoDoseCum": 118936,
                 "PerBoosterDose": 49.8282510145136,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 100
             }
         },
@@ -1398,6 +1938,11 @@
                 "AdditionalDoseCum": 2268177,
                 "ImmunoDoseCum": 119166,
                 "PerBoosterDose": 50.6982618259397,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 101
             }
         },
@@ -1411,6 +1956,11 @@
                 "AdditionalDoseCum": 2309459,
                 "ImmunoDoseCum": 119440,
                 "PerBoosterDose": 51.5807596115192,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 102
             }
         },
@@ -1424,6 +1974,11 @@
                 "AdditionalDoseCum": 2340644,
                 "ImmunoDoseCum": 119658,
                 "PerBoosterDose": 52.2476234930951,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 103
             }
         },
@@ -1437,6 +1992,11 @@
                 "AdditionalDoseCum": 2355432,
                 "ImmunoDoseCum": 119739,
                 "PerBoosterDose": 52.5633867901829,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 104
             }
         },
@@ -1450,6 +2010,11 @@
                 "AdditionalDoseCum": 2365649,
                 "ImmunoDoseCum": 119770,
                 "PerBoosterDose": 52.7810169111431,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 105
             }
         },
@@ -1463,6 +2028,11 @@
                 "AdditionalDoseCum": 2380302,
                 "ImmunoDoseCum": 119885,
                 "PerBoosterDose": 53.0946353368202,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 106
             }
         },
@@ -1476,6 +2046,11 @@
                 "AdditionalDoseCum": 2404149,
                 "ImmunoDoseCum": 120043,
                 "PerBoosterDose": 53.6044139329997,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 107
             }
         },
@@ -1489,6 +2064,11 @@
                 "AdditionalDoseCum": 2429439,
                 "ImmunoDoseCum": 120263,
                 "PerBoosterDose": 54.1461532368339,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 108
             }
         },
@@ -1502,6 +2082,11 @@
                 "AdditionalDoseCum": 2454751,
                 "ImmunoDoseCum": 120510,
                 "PerBoosterDose": 54.6889331218476,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 109
             }
         },
@@ -1515,6 +2100,11 @@
                 "AdditionalDoseCum": 2477150,
                 "ImmunoDoseCum": 120673,
                 "PerBoosterDose": 55.1680676641097,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 110
             }
         },
@@ -1528,6 +2118,11 @@
                 "AdditionalDoseCum": 2489349,
                 "ImmunoDoseCum": 120787,
                 "PerBoosterDose": 55.4295508490612,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 111
             }
         },
@@ -1541,6 +2136,11 @@
                 "AdditionalDoseCum": 2495875,
                 "ImmunoDoseCum": 120811,
                 "PerBoosterDose": 55.5686489454984,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 112
             }
         },
@@ -1554,6 +2154,11 @@
                 "AdditionalDoseCum": 2507553,
                 "ImmunoDoseCum": 120893,
                 "PerBoosterDose": 55.8183884285674,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 113
             }
         },
@@ -1567,6 +2172,11 @@
                 "AdditionalDoseCum": 2520237,
                 "ImmunoDoseCum": 120985,
                 "PerBoosterDose": 56.0897040438471,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 114
             }
         },
@@ -1580,6 +2190,11 @@
                 "AdditionalDoseCum": 2532002,
                 "ImmunoDoseCum": 121085,
                 "PerBoosterDose": 56.3416521073786,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 115
             }
         },
@@ -1593,6 +2208,11 @@
                 "AdditionalDoseCum": 2542766,
                 "ImmunoDoseCum": 121160,
                 "PerBoosterDose": 56.571832911544,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 116
             }
         },
@@ -1606,6 +2226,11 @@
                 "AdditionalDoseCum": 2551862,
                 "ImmunoDoseCum": 121254,
                 "PerBoosterDose": 56.7669949735682,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 117
             }
         },
@@ -1619,6 +2244,11 @@
                 "AdditionalDoseCum": 2557924,
                 "ImmunoDoseCum": 121283,
                 "PerBoosterDose": 56.8963455850795,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 118
             }
         },
@@ -1632,6 +2262,11 @@
                 "AdditionalDoseCum": 2561446,
                 "ImmunoDoseCum": 121308,
                 "PerBoosterDose": 56.9716709206616,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 119
             }
         },
@@ -1645,6 +2280,11 @@
                 "AdditionalDoseCum": 2566352,
                 "ImmunoDoseCum": 121343,
                 "PerBoosterDose": 57.0765997289817,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 120
             }
         },
@@ -1658,6 +2298,11 @@
                 "AdditionalDoseCum": 2572769,
                 "ImmunoDoseCum": 121392,
                 "PerBoosterDose": 57.2139139719684,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 121
             }
         },
@@ -1671,6 +2316,11 @@
                 "AdditionalDoseCum": 2579793,
                 "ImmunoDoseCum": 121456,
                 "PerBoosterDose": 57.3644372250291,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 122
             }
         },
@@ -1684,6 +2334,11 @@
                 "AdditionalDoseCum": 2585700,
                 "ImmunoDoseCum": 121499,
                 "PerBoosterDose": 57.4907935111057,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 123
             }
         },
@@ -1697,6 +2352,11 @@
                 "AdditionalDoseCum": 2592367,
                 "ImmunoDoseCum": 121581,
                 "PerBoosterDose": 57.6341176413125,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 124
             }
         },
@@ -1710,6 +2370,11 @@
                 "AdditionalDoseCum": 2596235,
                 "ImmunoDoseCum": 121614,
                 "PerBoosterDose": 57.7169606450074,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 125
             }
         },
@@ -1723,6 +2388,11 @@
                 "AdditionalDoseCum": 2598204,
                 "ImmunoDoseCum": 121634,
                 "PerBoosterDose": 57.759199746353,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 126
             }
         },
@@ -1736,6 +2406,11 @@
                 "AdditionalDoseCum": 2601039,
                 "ImmunoDoseCum": 121656,
                 "PerBoosterDose": 57.8198720000204,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 127
             }
         },
@@ -1749,6 +2424,11 @@
                 "AdditionalDoseCum": 2605181,
                 "ImmunoDoseCum": 121713,
                 "PerBoosterDose": 57.9090434361944,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 128
             }
         },
@@ -1762,6 +2442,11 @@
                 "AdditionalDoseCum": 2610897,
                 "ImmunoDoseCum": 121765,
                 "PerBoosterDose": 58.0315347064616,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 129
             }
         },
@@ -1775,6 +2460,11 @@
                 "AdditionalDoseCum": 2616637,
                 "ImmunoDoseCum": 121821,
                 "PerBoosterDose": 58.1546205945456,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 130
             }
         },
@@ -1788,6 +2478,11 @@
                 "AdditionalDoseCum": 2621999,
                 "ImmunoDoseCum": 121876,
                 "PerBoosterDose": 58.2696579057518,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 131
             }
         },
@@ -1801,6 +2496,11 @@
                 "AdditionalDoseCum": 2625764,
                 "ImmunoDoseCum": 121896,
                 "PerBoosterDose": 58.350037492777,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 132
             }
         },
@@ -1814,6 +2514,11 @@
                 "AdditionalDoseCum": 2628240,
                 "ImmunoDoseCum": 121911,
                 "PerBoosterDose": 58.4029372421243,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 133
             }
         },
@@ -1827,6 +2532,11 @@
                 "AdditionalDoseCum": 2630301,
                 "ImmunoDoseCum": 121933,
                 "PerBoosterDose": 58.4471725604264,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 134
             }
         },
@@ -1840,6 +2550,11 @@
                 "AdditionalDoseCum": 2633749,
                 "ImmunoDoseCum": 121965,
                 "PerBoosterDose": 58.5210750605183,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 135
             }
         },
@@ -1853,6 +2568,11 @@
                 "AdditionalDoseCum": 2638559,
                 "ImmunoDoseCum": 122009,
                 "PerBoosterDose": 58.6241563063361,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 136
             }
         },
@@ -1866,6 +2586,11 @@
                 "AdditionalDoseCum": 2643561,
                 "ImmunoDoseCum": 122066,
                 "PerBoosterDose": 58.7315910040271,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 137
             }
         },
@@ -1879,6 +2604,11 @@
                 "AdditionalDoseCum": 2648154,
                 "ImmunoDoseCum": 122136,
                 "PerBoosterDose": 58.83061610688,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 138
             }
         },
@@ -1892,6 +2622,11 @@
                 "AdditionalDoseCum": 2653706,
                 "ImmunoDoseCum": 122161,
                 "PerBoosterDose": 58.9490512341824,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 139
             }
         },
@@ -1905,6 +2640,11 @@
                 "AdditionalDoseCum": 2657534,
                 "ImmunoDoseCum": 122181,
                 "PerBoosterDose": 59.0307687112954,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 140
             }
         },
@@ -1918,6 +2658,11 @@
                 "AdditionalDoseCum": 2659626,
                 "ImmunoDoseCum": 122217,
                 "PerBoosterDose": 59.0759596653746,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 141
             }
         },
@@ -1931,6 +2676,11 @@
                 "AdditionalDoseCum": 2663168,
                 "ImmunoDoseCum": 122249,
                 "PerBoosterDose": 59.1518583824229,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 142
             }
         },
@@ -1944,6 +2694,11 @@
                 "AdditionalDoseCum": 2667183,
                 "ImmunoDoseCum": 122293,
                 "PerBoosterDose": 59.2380567295128,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 143
             }
         },
@@ -1957,6 +2712,11 @@
                 "AdditionalDoseCum": 2671342,
                 "ImmunoDoseCum": 122335,
                 "PerBoosterDose": 59.3272706383881,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 144
             }
         },
@@ -1970,6 +2730,11 @@
                 "AdditionalDoseCum": 2674250,
                 "ImmunoDoseCum": 122380,
                 "PerBoosterDose": 59.3899815817131,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 145
             }
         },
@@ -1983,6 +2748,11 @@
                 "AdditionalDoseCum": 2678644,
                 "ImmunoDoseCum": 122410,
                 "PerBoosterDose": 59.4839311967724,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 146
             }
         },
@@ -1996,6 +2766,11 @@
                 "AdditionalDoseCum": 2681041,
                 "ImmunoDoseCum": 122436,
                 "PerBoosterDose": 59.5353868742789,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 147
             }
         },
@@ -2009,6 +2784,11 @@
                 "AdditionalDoseCum": 2682625,
                 "ImmunoDoseCum": 122451,
                 "PerBoosterDose": 59.5693437988901,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 148
             }
         },
@@ -2022,6 +2802,11 @@
                 "AdditionalDoseCum": 2685608,
                 "ImmunoDoseCum": 122489,
                 "PerBoosterDose": 59.633498814056,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 149
             }
         },
@@ -2035,6 +2820,11 @@
                 "AdditionalDoseCum": 2688577,
                 "ImmunoDoseCum": 122549,
                 "PerBoosterDose": 59.6978237200268,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 150
             }
         },
@@ -2048,6 +2838,11 @@
                 "AdditionalDoseCum": 2691812,
                 "ImmunoDoseCum": 122590,
                 "PerBoosterDose": 59.767394004596,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 151
             }
         },
@@ -2061,6 +2856,11 @@
                 "AdditionalDoseCum": 2695876,
                 "ImmunoDoseCum": 122658,
                 "PerBoosterDose": 59.8551426052797,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 152
             }
         },
@@ -2074,6 +2874,11 @@
                 "AdditionalDoseCum": 2699383,
                 "ImmunoDoseCum": 122680,
                 "PerBoosterDose": 59.930085686551,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 153
             }
         },
@@ -2087,6 +2892,11 @@
                 "AdditionalDoseCum": 2702643,
                 "ImmunoDoseCum": 122696,
                 "PerBoosterDose": 59.9996559711203,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 154
             }
         },
@@ -2100,6 +2910,11 @@
                 "AdditionalDoseCum": 2704098,
                 "ImmunoDoseCum": 122721,
                 "PerBoosterDose": 60.0310857700099,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 155
             }
         },
@@ -2113,6 +2928,11 @@
                 "AdditionalDoseCum": 2706062,
                 "ImmunoDoseCum": 122747,
                 "PerBoosterDose": 60.0733461077061,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 156
             }
         },
@@ -2126,6 +2946,11 @@
                 "AdditionalDoseCum": 2709253,
                 "ImmunoDoseCum": 122785,
                 "PerBoosterDose": 60.1419182837971,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 157
             }
         },
@@ -2139,6 +2964,11 @@
                 "AdditionalDoseCum": 2713052,
                 "ImmunoDoseCum": 122836,
                 "PerBoosterDose": 60.2236782336113,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 158
             }
         },
@@ -2152,6 +2982,11 @@
                 "AdditionalDoseCum": 2716285,
                 "ImmunoDoseCum": 122896,
                 "PerBoosterDose": 60.2936095361408,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 159
             }
         },
@@ -2165,6 +3000,11 @@
                 "AdditionalDoseCum": 2720125,
                 "ImmunoDoseCum": 122929,
                 "PerBoosterDose": 60.3758579220189,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 160
             }
         },
@@ -2178,6 +3018,11 @@
                 "AdditionalDoseCum": 2724574,
                 "ImmunoDoseCum": 122955,
                 "PerBoosterDose": 60.4708905909588,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 161
             }
         },
@@ -2191,6 +3036,11 @@
                 "AdditionalDoseCum": 2725785,
                 "ImmunoDoseCum": 122973,
                 "PerBoosterDose": 60.4969900658476,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 162
             }
         },
@@ -2204,6 +3054,11 @@
                 "AdditionalDoseCum": 2728280,
                 "ImmunoDoseCum": 123007,
                 "PerBoosterDose": 60.5506967965177,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 163
             }
         },
@@ -2217,6 +3072,11 @@
                 "AdditionalDoseCum": 2731183,
                 "ImmunoDoseCum": 123042,
                 "PerBoosterDose": 60.6130891945838,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 164
             }
         },
@@ -2230,6 +3090,11 @@
                 "AdditionalDoseCum": 2735405,
                 "ImmunoDoseCum": 123082,
                 "PerBoosterDose": 60.7035985208457,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 165
             }
         },
@@ -2243,6 +3108,11 @@
                 "AdditionalDoseCum": 2738940,
                 "ImmunoDoseCum": 123128,
                 "PerBoosterDose": 60.7796458923483,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 166
             }
         },
@@ -2256,6 +3126,11 @@
                 "AdditionalDoseCum": 2742431,
                 "ImmunoDoseCum": 123148,
                 "PerBoosterDose": 60.8542067193087,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 167
             }
         },
@@ -2269,6 +3144,11 @@
                 "AdditionalDoseCum": 2746615,
                 "ImmunoDoseCum": 123165,
                 "PerBoosterDose": 60.943420628184,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 168
             }
         },
@@ -2282,6 +3162,11 @@
                 "AdditionalDoseCum": 2748423,
                 "ImmunoDoseCum": 123187,
                 "PerBoosterDose": 60.982283149784,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 169
             }
         },
@@ -2295,6 +3180,11 @@
                 "AdditionalDoseCum": 2751499,
                 "ImmunoDoseCum": 123205,
                 "PerBoosterDose": 61.0479884185438,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 170
             }
         },
@@ -2308,6 +3198,11 @@
                 "AdditionalDoseCum": 2755623,
                 "ImmunoDoseCum": 123241,
                 "PerBoosterDose": 61.1363316370444,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 171
             }
         },
@@ -2321,6 +3216,11 @@
                 "AdditionalDoseCum": 2755661,
                 "ImmunoDoseCum": 123241,
                 "PerBoosterDose": 61.1371386183673,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 172
             }
         },
@@ -2334,6 +3234,11 @@
                 "AdditionalDoseCum": 2755727,
                 "ImmunoDoseCum": 123242,
                 "PerBoosterDose": 61.1385614538576,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 173
             }
         },
@@ -2347,6 +3252,11 @@
                 "AdditionalDoseCum": 2757832,
                 "ImmunoDoseCum": 123258,
                 "PerBoosterDose": 61.1836037534825,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 174
             }
         },
@@ -2360,6 +3270,11 @@
                 "AdditionalDoseCum": 2762370,
                 "ImmunoDoseCum": 123307,
                 "PerBoosterDose": 61.2810148936898,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 175
             }
         },
@@ -2373,6 +3288,11 @@
                 "AdditionalDoseCum": 2763939,
                 "ImmunoDoseCum": 123322,
                 "PerBoosterDose": 61.3146532730419,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 176
             }
         },
@@ -2386,6 +3306,11 @@
                 "AdditionalDoseCum": 2766406,
                 "ImmunoDoseCum": 123346,
                 "PerBoosterDose": 61.3675530223893,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 177
             }
         },
@@ -2399,6 +3324,11 @@
                 "AdditionalDoseCum": 2770065,
                 "ImmunoDoseCum": 123374,
                 "PerBoosterDose": 61.4458514470555,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 178
             }
         },
@@ -2412,6 +3342,11 @@
                 "AdditionalDoseCum": 2775494,
                 "ImmunoDoseCum": 123419,
                 "PerBoosterDose": 61.562099230246,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 179
             }
         },
@@ -2425,6 +3360,11 @@
                 "AdditionalDoseCum": 2779829,
                 "ImmunoDoseCum": 123470,
                 "PerBoosterDose": 61.6552418639824,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 180
             }
         },
@@ -2438,6 +3378,11 @@
                 "AdditionalDoseCum": 2783028,
                 "ImmunoDoseCum": 123504,
                 "PerBoosterDose": 61.7238989854758,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 181
             }
         },
@@ -2451,6 +3396,11 @@
                 "AdditionalDoseCum": 2787558,
                 "ImmunoDoseCum": 123540,
                 "PerBoosterDose": 61.8208641623205,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 182
             }
         },
@@ -2464,6 +3414,11 @@
                 "AdditionalDoseCum": 2788978,
                 "ImmunoDoseCum": 123556,
                 "PerBoosterDose": 61.8513595617837,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 183
             }
         },
@@ -2477,6 +3432,11 @@
                 "AdditionalDoseCum": 2791871,
                 "ImmunoDoseCum": 123575,
                 "PerBoosterDose": 61.9131998147341,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 184
             }
         },
@@ -2490,6 +3450,11 @@
                 "AdditionalDoseCum": 2795710,
                 "ImmunoDoseCum": 123614,
                 "PerBoosterDose": 61.9955543823652,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 185
             }
         },
@@ -2503,6 +3468,11 @@
                 "AdditionalDoseCum": 2800002,
                 "ImmunoDoseCum": 123680,
                 "PerBoosterDose": 62.0881023982848,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 186
             }
         },
@@ -2516,6 +3486,11 @@
                 "AdditionalDoseCum": 2803680,
                 "ImmunoDoseCum": 123725,
                 "PerBoosterDose": 62.1671653315727,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 187
             }
         },
@@ -2529,6 +3504,11 @@
                 "AdditionalDoseCum": 2806693,
                 "ImmunoDoseCum": 123739,
                 "PerBoosterDose": 62.2314477648422,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 188
             }
         },
@@ -2542,6 +3522,11 @@
                 "AdditionalDoseCum": 2811570,
                 "ImmunoDoseCum": 123770,
                 "PerBoosterDose": 62.3356757735925,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 189
             }
         },
@@ -2555,6 +3540,11 @@
                 "AdditionalDoseCum": 2813055,
                 "ImmunoDoseCum": 123782,
                 "PerBoosterDose": 62.3674665904423,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 190
             }
         },
@@ -2568,6 +3558,11 @@
                 "AdditionalDoseCum": 2816080,
                 "ImmunoDoseCum": 123808,
                 "PerBoosterDose": 62.4322586961263,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 191
             }
         },
@@ -2581,6 +3576,11 @@
                 "AdditionalDoseCum": 2819151,
                 "ImmunoDoseCum": 123836,
                 "PerBoosterDose": 62.4980701466391,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 192
             }
         },
@@ -2594,6 +3594,11 @@
                 "AdditionalDoseCum": 2823549,
                 "ImmunoDoseCum": 123879,
                 "PerBoosterDose": 62.5923807796586,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 193
             }
         },
@@ -2607,6 +3612,11 @@
                 "AdditionalDoseCum": 2827097,
                 "ImmunoDoseCum": 123931,
                 "PerBoosterDose": 62.6688316418226,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 194
             }
         },
@@ -2620,6 +3630,11 @@
                 "AdditionalDoseCum": 2831274,
                 "ImmunoDoseCum": 123964,
                 "PerBoosterDose": 62.7582366778533,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 195
             }
         },
@@ -2633,6 +3648,11 @@
                 "AdditionalDoseCum": 2835762,
                 "ImmunoDoseCum": 123986,
                 "PerBoosterDose": 62.8540126190643,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 196
             }
         },
@@ -2646,6 +3666,11 @@
                 "AdditionalDoseCum": 2836768,
                 "ImmunoDoseCum": 124003,
                 "PerBoosterDose": 62.8757374057292,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 197
             }
         },
@@ -2659,6 +3684,11 @@
                 "AdditionalDoseCum": 2840085,
                 "ImmunoDoseCum": 124032,
                 "PerBoosterDose": 62.9467942348405,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 198
             }
         },
@@ -2672,6 +3702,11 @@
                 "AdditionalDoseCum": 2843023,
                 "ImmunoDoseCum": 124051,
                 "PerBoosterDose": 63.0095901235679,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 199
             }
         },
@@ -2685,6 +3720,11 @@
                 "AdditionalDoseCum": 2846283,
                 "ImmunoDoseCum": 124092,
                 "PerBoosterDose": 63.0796913169022,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 200
             }
         },
@@ -2698,6 +3738,11 @@
                 "AdditionalDoseCum": 2850136,
                 "ImmunoDoseCum": 124115,
                 "PerBoosterDose": 63.1620034118321,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 201
             }
         },
@@ -2711,6 +3756,11 @@
                 "AdditionalDoseCum": 2850641,
                 "ImmunoDoseCum": 124115,
                 "PerBoosterDose": 63.1727277688857,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 202
             }
         },
@@ -2724,6 +3774,11 @@
                 "AdditionalDoseCum": 2850657,
                 "ImmunoDoseCum": 124115,
                 "PerBoosterDose": 63.1730675504953,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 203
             }
         },
@@ -2737,6 +3792,11 @@
                 "AdditionalDoseCum": 2850699,
                 "ImmunoDoseCum": 124116,
                 "PerBoosterDose": 63.1739807135711,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 204
             }
         },
@@ -2750,6 +3810,11 @@
                 "AdditionalDoseCum": 2852549,
                 "ImmunoDoseCum": 124143,
                 "PerBoosterDose": 63.2138413436494,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 205
             }
         },
@@ -2763,6 +3828,11 @@
                 "AdditionalDoseCum": 2854534,
                 "ImmunoDoseCum": 124150,
                 "PerBoosterDose": 63.2561441540468,
+                "AdditionalDose2": null,
+                "ImmunoDose2": null,
+                "AdditionalDoseCum2": null,
+                "ImmunoDoseCum2": null,
+                "PerBoosterDose2": null,
                 "ObjectId": 206
             }
         },
@@ -2776,6 +3846,11 @@
                 "AdditionalDoseCum": 2857566,
                 "ImmunoDoseCum": 124169,
                 "PerBoosterDose": 63.3209362597308,
+                "AdditionalDose2": 5590,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 5590,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.11871119986018,
                 "ObjectId": 207
             }
         },
@@ -2789,6 +3864,11 @@
                 "AdditionalDoseCum": 2860458,
                 "ImmunoDoseCum": 124203,
                 "PerBoosterDose": 63.3830738215896,
+                "AdditionalDose2": 3017,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 8607,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.182781269623715,
                 "ObjectId": 208
             }
         },
@@ -2802,6 +3882,11 @@
                 "AdditionalDoseCum": 2862031,
                 "ImmunoDoseCum": 124216,
                 "PerBoosterDose": 63.4167546736429,
+                "AdditionalDose2": 3017,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 11624,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.246851339387251,
                 "ObjectId": 209
             }
         },
@@ -2815,6 +3900,11 @@
                 "AdditionalDoseCum": 2863497,
                 "ImmunoDoseCum": 124224,
                 "PerBoosterDose": 63.448057054429,
+                "AdditionalDose2": 4557,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 16181,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.343625389076488,
                 "ObjectId": 210
             }
         },
@@ -2828,6 +3918,11 @@
                 "AdditionalDoseCum": 2864502,
                 "ImmunoDoseCum": 124230,
                 "PerBoosterDose": 63.4695270048867,
+                "AdditionalDose2": 2774,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 18955,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.402535025643955,
                 "ObjectId": 211
             }
         },
@@ -2841,6 +3936,11 @@
                 "AdditionalDoseCum": 2866637,
                 "ImmunoDoseCum": 124245,
                 "PerBoosterDose": 63.5151851586791,
+                "AdditionalDose2": 4569,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 23524,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.499563911540406,
                 "ObjectId": 212
             }
         },
@@ -2854,6 +3954,11 @@
                 "AdditionalDoseCum": 2868573,
                 "ImmunoDoseCum": 124263,
                 "PerBoosterDose": 63.5566809877536,
+                "AdditionalDose2": 6224,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 29748,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.631738957681687,
                 "ObjectId": 213
             }
         },
@@ -2867,6 +3972,11 @@
                 "AdditionalDoseCum": 2870346,
                 "ImmunoDoseCum": 124283,
                 "PerBoosterDose": 63.5947577643814,
+                "AdditionalDose2": 5901,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 35649,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.757054662578811,
                 "ObjectId": 214
             }
         },
@@ -2880,6 +3990,11 @@
                 "AdditionalDoseCum": 2872612,
                 "ImmunoDoseCum": 124315,
                 "PerBoosterDose": 63.6435588980628,
+                "AdditionalDose2": 6761,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 42410,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.900633628992885,
                 "ObjectId": 215
             }
         },
@@ -2893,6 +4008,11 @@
                 "AdditionalDoseCum": 2874083,
                 "ImmunoDoseCum": 124324,
                 "PerBoosterDose": 63.6749886969524,
+                "AdditionalDose2": 2315,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 44725,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 0.949795780634444,
                 "ObjectId": 216
             }
         },
@@ -2906,6 +4026,11 @@
                 "AdditionalDoseCum": 2875268,
                 "ImmunoDoseCum": 124338,
                 "PerBoosterDose": 63.7004510813231,
+                "AdditionalDose2": 2956,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 47681,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 1.01257043301131,
                 "ObjectId": 217
             }
         },
@@ -2919,6 +4044,11 @@
                 "AdditionalDoseCum": 2875521,
                 "ImmunoDoseCum": 124338,
                 "PerBoosterDose": 63.7058238780252,
+                "AdditionalDose2": 861,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 48542,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 1.03085493087886,
                 "ObjectId": 218
             }
         },
@@ -2932,6 +4062,11 @@
                 "AdditionalDoseCum": 2877330,
                 "ImmunoDoseCum": 124351,
                 "PerBoosterDose": 63.7445165088204,
+                "AdditionalDose2": 6690,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 55232,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 1.17292611640026,
                 "ObjectId": 219
             }
         },
@@ -2945,6 +4080,11 @@
                 "AdditionalDoseCum": 2879712,
                 "ImmunoDoseCum": 124376,
                 "PerBoosterDose": 63.7956111683667,
+                "AdditionalDose2": 9848,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 65080,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 1.38206169711995,
                 "ObjectId": 220
             }
         },
@@ -2958,6 +4098,11 @@
                 "AdditionalDoseCum": 2881775,
                 "ImmunoDoseCum": 124395,
                 "PerBoosterDose": 63.8398252503182,
+                "AdditionalDose2": 11704,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 76784,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 1.63061194455529,
                 "ObjectId": 221
             }
         },
@@ -2971,6 +4116,11 @@
                 "AdditionalDoseCum": 2883796,
                 "ImmunoDoseCum": 124410,
                 "PerBoosterDose": 63.883062460142,
+                "AdditionalDose2": 12526,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 89310,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 1.89661847218473,
                 "ObjectId": 222
             }
         },
@@ -2984,6 +4134,11 @@
                 "AdditionalDoseCum": 2885835,
                 "ImmunoDoseCum": 124423,
                 "PerBoosterDose": 63.9266394515755,
+                "AdditionalDose2": 4068,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 93378,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 1.98300794643003,
                 "ObjectId": 223
             }
         },
@@ -2997,6 +4152,11 @@
                 "AdditionalDoseCum": 2887441,
                 "ImmunoDoseCum": 124433,
                 "PerBoosterDose": 63.9609573941469,
+                "AdditionalDose2": 1803,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 95181,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 2.02129708656382,
                 "ObjectId": 224
             }
         },
@@ -3010,6 +4170,11 @@
                 "AdditionalDoseCum": 2888253,
                 "ImmunoDoseCum": 124438,
                 "PerBoosterDose": 63.9782862562374,
+                "AdditionalDose2": 5102,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 100283,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 2.12964494733066,
                 "ObjectId": 225
             }
         },
@@ -3023,6 +4188,11 @@
                 "AdditionalDoseCum": 2890383,
                 "ImmunoDoseCum": 124458,
                 "PerBoosterDose": 64.0239444100298,
+                "AdditionalDose2": 13787,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 114070,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 2.42243051306811,
                 "ObjectId": 226
             }
         },
@@ -3036,6 +4206,11 @@
                 "AdditionalDoseCum": 2893129,
                 "ImmunoDoseCum": 124478,
                 "PerBoosterDose": 64.0826841557924,
+                "AdditionalDose2": 16688,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 130758,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 2.77682273189936,
                 "ObjectId": 227
             }
         },
@@ -3049,6 +4224,11 @@
                 "AdditionalDoseCum": 2895521,
                 "ImmunoDoseCum": 124495,
                 "PerBoosterDose": 64.1338425243905,
+                "AdditionalDose2": 15501,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 146259,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 3.10600740256709,
                 "ObjectId": 228
             }
         },
@@ -3062,6 +4242,11 @@
                 "AdditionalDoseCum": 2898053,
                 "ImmunoDoseCum": 124518,
                 "PerBoosterDose": 64.1881014001763,
+                "AdditionalDose2": 11112,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 157371,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 3.34198573044658,
                 "ObjectId": 229
             }
         },
@@ -3075,6 +4260,11 @@
                 "AdditionalDoseCum": 2899750,
                 "ImmunoDoseCum": 124524,
                 "PerBoosterDose": 64.22426690525,
+                "AdditionalDose2": 3736,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 161107,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 3.42132473629231,
                 "ObjectId": 230
             }
         },
@@ -3088,6 +4278,11 @@
                 "AdditionalDoseCum": 2901240,
                 "ImmunoDoseCum": 124536,
                 "PerBoosterDose": 64.2561639038529,
+                "AdditionalDose2": 1599,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 162706,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 3.45528166090348,
                 "ObjectId": 231
             }
         },
@@ -3101,6 +4296,11 @@
                 "AdditionalDoseCum": 2902141,
                 "ImmunoDoseCum": 124542,
                 "PerBoosterDose": 64.2754252738481,
+                "AdditionalDose2": 5839,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 168545,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 3.57928071206333,
                 "ObjectId": 232
             }
         },
@@ -3114,6 +4314,11 @@
                 "AdditionalDoseCum": 2904048,
                 "ImmunoDoseCum": 124548,
                 "PerBoosterDose": 64.316050412548,
+                "AdditionalDose2": 10699,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 179244,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 3.80648842714456,
                 "ObjectId": 233
             }
         },
@@ -3127,6 +4332,11 @@
                 "AdditionalDoseCum": 2906596,
                 "ImmunoDoseCum": 124567,
                 "PerBoosterDose": 64.370564124541,
+                "AdditionalDose2": 13097,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 192341,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 4.08462091096724,
                 "ObjectId": 234
             }
         },
@@ -3140,6 +4350,11 @@
                 "AdditionalDoseCum": 2908749,
                 "ImmunoDoseCum": 124579,
                 "PerBoosterDose": 64.4165408235924,
+                "AdditionalDose2": 11575,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 203916,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 4.33043166917503,
                 "ObjectId": 235
             }
         },
@@ -3153,6 +4368,11 @@
                 "AdditionalDoseCum": 2911042,
                 "ImmunoDoseCum": 124590,
                 "PerBoosterDose": 64.4654693753774,
+                "AdditionalDose2": 11407,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 215323,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 4.57267472048184,
                 "ObjectId": 236
             }
         },
@@ -3166,6 +4386,11 @@
                 "AdditionalDoseCum": 2912800,
                 "ImmunoDoseCum": 124594,
                 "PerBoosterDose": 64.5028878251365,
+                "AdditionalDose2": 3766,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 219089,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 4.65265081684561,
                 "ObjectId": 237
             }
         },
@@ -3179,6 +4404,11 @@
                 "AdditionalDoseCum": 2914488,
                 "ImmunoDoseCum": 124604,
                 "PerBoosterDose": 64.5389471484572,
+                "AdditionalDose2": 1891,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 220980,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 4.6928087558323,
                 "ObjectId": 238
             }
         },
@@ -3192,6 +4422,11 @@
                 "AdditionalDoseCum": 2915457,
                 "ImmunoDoseCum": 124609,
                 "PerBoosterDose": 64.5596313539426,
+                "AdditionalDose2": 5480,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 226460,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 4.80918395712636,
                 "ObjectId": 239
             }
         },
@@ -3205,6 +4440,11 @@
                 "AdditionalDoseCum": 2917457,
                 "ImmunoDoseCum": 124629,
                 "PerBoosterDose": 64.6025287821569,
+                "AdditionalDose2": 11817,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 238277,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 5.06013391217962,
                 "ObjectId": 240
             }
         },
@@ -3218,6 +4458,11 @@
                 "AdditionalDoseCum": 2919840,
                 "ImmunoDoseCum": 124649,
                 "PerBoosterDose": 64.6535597326513,
+                "AdditionalDose2": 12484,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 250761,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 5.32524851308382,
                 "ObjectId": 241
             }
         },
@@ -3231,6 +4476,11 @@
                 "AdditionalDoseCum": 2922022,
                 "ImmunoDoseCum": 124667,
                 "PerBoosterDose": 64.7002797039738,
+                "AdditionalDose2": 10008,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 260769,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 5.53778190989969,
                 "ObjectId": 242
             }
         },
@@ -3244,6 +4494,11 @@
                 "AdditionalDoseCum": 2923923,
                 "ImmunoDoseCum": 124675,
                 "PerBoosterDose": 64.7408198972713,
+                "AdditionalDose2": 9162,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 269931,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 5.73234935410701,
                 "ObjectId": 243
             }
         },
@@ -3257,6 +4512,11 @@
                 "AdditionalDoseCum": 2925364,
                 "ImmunoDoseCum": 124680,
                 "PerBoosterDose": 64.7715276602405,
+                "AdditionalDose2": 1859,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 271790,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 5.77182772987447,
                 "ObjectId": 244
             }
         },
@@ -3270,6 +4530,11 @@
                 "AdditionalDoseCum": 2926969,
                 "ImmunoDoseCum": 124691,
                 "PerBoosterDose": 64.8058456028119,
+                "AdditionalDose2": 1547,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 273337,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 5.80468036425438,
                 "ObjectId": 245
             }
         },
@@ -3283,6 +4548,11 @@
                 "AdditionalDoseCum": 2927604,
                 "ImmunoDoseCum": 124695,
                 "PerBoosterDose": 64.819415630846,
+                "AdditionalDose2": 3122,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 276459,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 5.87098025083103,
                 "ObjectId": 246
             }
         },
@@ -3296,6 +4566,11 @@
                 "AdditionalDoseCum": 2929210,
                 "ImmunoDoseCum": 124709,
                 "PerBoosterDose": 64.8538185188198,
+                "AdditionalDose2": 8334,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 284793,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.04796399674064,
                 "ObjectId": 247
             }
         },
@@ -3309,6 +4584,11 @@
                 "AdditionalDoseCum": 2931045,
                 "ImmunoDoseCum": 124719,
                 "PerBoosterDose": 64.8929995856788,
+                "AdditionalDose2": 6152,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 290945,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.17861002563865,
                 "ObjectId": 248
             }
         },
@@ -3322,6 +4602,11 @@
                 "AdditionalDoseCum": 2932639,
                 "ImmunoDoseCum": 124742,
                 "PerBoosterDose": 64.9273387646008,
+                "AdditionalDose2": 6664,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 297609,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.32012906604441,
                 "ObjectId": 249
             }
         },
@@ -3335,6 +4620,11 @@
                 "AdditionalDoseCum": 2934224,
                 "ImmunoDoseCum": 124752,
                 "PerBoosterDose": 64.9612107438095,
+                "AdditionalDose2": 5463,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 303072,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.43614324937825,
                 "ObjectId": 250
             }
         },
@@ -3348,6 +4638,11 @@
                 "AdditionalDoseCum": 2935914,
                 "ImmunoDoseCum": 124757,
                 "PerBoosterDose": 64.9972063580784,
+                "AdditionalDose2": 1945,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 305017,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.4774479512974,
                 "ObjectId": 251
             }
         },
@@ -3361,6 +4656,11 @@
                 "AdditionalDoseCum": 2936577,
                 "ImmunoDoseCum": 124758,
                 "PerBoosterDose": 65.0113072948776,
+                "AdditionalDose2": 588,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 305605,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.48993492545085,
                 "ObjectId": 252
             }
         },
@@ -3374,6 +4674,11 @@
                 "AdditionalDoseCum": 2936656,
                 "ImmunoDoseCum": 124758,
                 "PerBoosterDose": 65.012984966575,
+                "AdditionalDose2": 285,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 305890,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.49598728537217,
                 "ObjectId": 253
             }
         },
@@ -3387,6 +4692,11 @@
                 "AdditionalDoseCum": 2937339,
                 "ImmunoDoseCum": 124762,
                 "PerBoosterDose": 65.027574339438,
+                "AdditionalDose2": 3379,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 309269,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.5677449140533,
                 "ObjectId": 254
             }
         },
@@ -3400,6 +4710,11 @@
                 "AdditionalDoseCum": 2938537,
                 "ImmunoDoseCum": 124768,
                 "PerBoosterDose": 65.0531216692111,
+                "AdditionalDose2": 4880,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 314149,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.6713783049867,
                 "ObjectId": 255
             }
         },
@@ -3413,6 +4728,11 @@
                 "AdditionalDoseCum": 2939642,
                 "ImmunoDoseCum": 124771,
                 "PerBoosterDose": 65.0766515456772,
+                "AdditionalDose2": 5109,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 319258,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.77987482020775,
                 "ObjectId": 256
             }
         },
@@ -3426,6 +4746,11 @@
                 "AdditionalDoseCum": 2941103,
                 "ImmunoDoseCum": 124792,
                 "PerBoosterDose": 65.108123817268,
+                "AdditionalDose2": 5164,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 324422,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.88953933471186,
                 "ObjectId": 257
             }
         },
@@ -3439,6 +4764,11 @@
                 "AdditionalDoseCum": 2942464,
                 "ImmunoDoseCum": 124799,
                 "PerBoosterDose": 65.1371751448903,
+                "AdditionalDose2": 1359,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 325781,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.91839953517876,
                 "ObjectId": 258
             }
         },
@@ -3452,6 +4782,11 @@
                 "AdditionalDoseCum": 2943287,
                 "ImmunoDoseCum": 124801,
                 "PerBoosterDose": 65.1546951341362,
+                "AdditionalDose2": 1210,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 326991,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.9440955194061,
                 "ObjectId": 259
             }
         },
@@ -3465,6 +4800,11 @@
                 "AdditionalDoseCum": 2943850,
                 "ImmunoDoseCum": 124804,
                 "PerBoosterDose": 65.1667149085765,
+                "AdditionalDose2": 2566,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 329557,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 6.99858799504853,
                 "ObjectId": 260
             }
         },
@@ -3478,6 +4818,11 @@
                 "AdditionalDoseCum": 2944682,
                 "ImmunoDoseCum": 124815,
                 "PerBoosterDose": 65.1846171521332,
+                "AdditionalDose2": 5019,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 334576,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.10517323871548,
                 "ObjectId": 261
             }
         },
@@ -3491,6 +4836,11 @@
                 "AdditionalDoseCum": 2946044,
                 "ImmunoDoseCum": 124822,
                 "PerBoosterDose": 65.2136897161061,
+                "AdditionalDose2": 5015,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 339591,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.21167353698003,
                 "ObjectId": 262
             }
         },
@@ -3504,6 +4854,11 @@
                 "AdditionalDoseCum": 2947380,
                 "ImmunoDoseCum": 124836,
                 "PerBoosterDose": 65.2423587894176,
+                "AdditionalDose2": 5820,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 345411,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.33526909747846,
                 "ObjectId": 263
             }
         },
@@ -3517,6 +4872,11 @@
                 "AdditionalDoseCum": 2948837,
                 "ImmunoDoseCum": 124856,
                 "PerBoosterDose": 65.2737248792554,
+                "AdditionalDose2": 4982,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 350393,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.44106859617317,
                 "ObjectId": 264
             }
         },
@@ -3530,6 +4890,11 @@
                 "AdditionalDoseCum": 2949826,
                 "ImmunoDoseCum": 124861,
                 "PerBoosterDose": 65.2948338117529,
+                "AdditionalDose2": 1206,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 351599,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.4666796349981,
                 "ObjectId": 265
             }
         },
@@ -3543,6 +4908,11 @@
                 "AdditionalDoseCum": 2950838,
                 "ImmunoDoseCum": 124862,
                 "PerBoosterDose": 65.3163462349118,
+                "AdditionalDose2": 1256,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 352855,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.49335249135309,
                 "ObjectId": 266
             }
         },
@@ -3556,6 +4926,11 @@
                 "AdditionalDoseCum": 2951341,
                 "ImmunoDoseCum": 124864,
                 "PerBoosterDose": 65.3270705919654,
+                "AdditionalDose2": 2305,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 355160,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.54230227948864,
                 "ObjectId": 267
             }
         },
@@ -3569,6 +4944,11 @@
                 "AdditionalDoseCum": 2952414,
                 "ImmunoDoseCum": 124882,
                 "PerBoosterDose": 65.3502394504712,
+                "AdditionalDose2": 4459,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 359619,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.63699516681897,
                 "ObjectId": 268
             }
         },
@@ -3582,6 +4962,11 @@
                 "AdditionalDoseCum": 2954168,
                 "ImmunoDoseCum": 124902,
                 "PerBoosterDose": 65.3879127364376,
+                "AdditionalDose2": 5005,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 364624,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.7432831015775,
                 "ObjectId": 269
             }
         },
@@ -3595,6 +4980,11 @@
                 "AdditionalDoseCum": 2955350,
                 "ImmunoDoseCum": 124915,
                 "PerBoosterDose": 65.4132901754059,
+                "AdditionalDose2": 4724,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 369348,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.84360362181712,
                 "ObjectId": 270
             }
         },
@@ -3608,6 +4998,11 @@
                 "AdditionalDoseCum": 2956867,
                 "ImmunoDoseCum": 124925,
                 "PerBoosterDose": 65.4457180827738,
+                "AdditionalDose2": 5203,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 374551,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.95409635399467,
                 "ObjectId": 271
             }
         },
@@ -3621,6 +5016,11 @@
                 "AdditionalDoseCum": 2957848,
                 "ImmunoDoseCum": 124931,
                 "PerBoosterDose": 65.4666783608171,
+                "AdditionalDose2": 1394,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 375945,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 7.98369982673262,
                 "ObjectId": 272
             }
         },
@@ -3634,6 +5034,11 @@
                 "AdditionalDoseCum": 2959332,
                 "ImmunoDoseCum": 124938,
                 "PerBoosterDose": 65.4983417595633,
+                "AdditionalDose2": 1453,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 377398,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.01455624415602,
                 "ObjectId": 273
             }
         },
@@ -3647,6 +5052,11 @@
                 "AdditionalDoseCum": 2959748,
                 "ImmunoDoseCum": 124940,
                 "PerBoosterDose": 65.5072185541146,
+                "AdditionalDose2": 1633,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 379031,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.04923520468763,
                 "ObjectId": 274
             }
         },
@@ -3660,6 +5070,11 @@
                 "AdditionalDoseCum": 2960945,
                 "ImmunoDoseCum": 124949,
                 "PerBoosterDose": 65.5328295929395,
+                "AdditionalDose2": 4063,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 383094,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.13551849717992,
                 "ObjectId": 275
             }
         },
@@ -3673,6 +5088,11 @@
                 "AdditionalDoseCum": 2962594,
                 "ImmunoDoseCum": 124973,
                 "PerBoosterDose": 65.5683580074951,
+                "AdditionalDose2": 4182,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 387276,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.22432891539374,
                 "ObjectId": 276
             }
         },
@@ -3686,6 +5106,11 @@
                 "AdditionalDoseCum": 2963741,
                 "ImmunoDoseCum": 124989,
                 "PerBoosterDose": 65.5930558832442,
+                "AdditionalDose2": 4361,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 391637,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.31694064036516,
                 "ObjectId": 277
             }
         },
@@ -3699,6 +5124,11 @@
                 "AdditionalDoseCum": 2965032,
                 "ImmunoDoseCum": 125001,
                 "PerBoosterDose": 65.6207268480775,
+                "AdditionalDose2": 4465,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 396102,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.4117609457991,
                 "ObjectId": 278
             }
         },
@@ -3712,6 +5142,11 @@
                 "AdditionalDoseCum": 2966132,
                 "ImmunoDoseCum": 125007,
                 "PerBoosterDose": 65.6442142518423,
+                "AdditionalDose2": 1905,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 398007,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.45221619369421,
                 "ObjectId": 279
             }
         },
@@ -3725,6 +5160,11 @@
                 "AdditionalDoseCum": 2967200,
                 "ImmunoDoseCum": 125014,
                 "PerBoosterDose": 65.6670433287385,
+                "AdditionalDose2": 1474,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 399481,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.48351857448024,
                 "ObjectId": 280
             }
         },
@@ -3738,6 +5178,11 @@
                 "AdditionalDoseCum": 2967594,
                 "ImmunoDoseCum": 125023,
                 "PerBoosterDose": 65.6756015780307,
+                "AdditionalDose2": 1857,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 401338,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.52295447754649,
                 "ObjectId": 281
             }
         },
@@ -3751,6 +5196,11 @@
                 "AdditionalDoseCum": 2968785,
                 "ImmunoDoseCum": 125032,
                 "PerBoosterDose": 65.7010851987521,
+                "AdditionalDose2": 4020,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 405358,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.60832460696293,
                 "ObjectId": 282
             }
         },
@@ -3764,6 +5214,11 @@
                 "AdditionalDoseCum": 2970268,
                 "ImmunoDoseCum": 125050,
                 "PerBoosterDose": 65.7329609610043,
+                "AdditionalDose2": 5913,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 411271,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.73389514806727,
                 "ObjectId": 283
             }
         },
@@ -3777,6 +5232,11 @@
                 "AdditionalDoseCum": 2971546,
                 "ImmunoDoseCum": 125069,
                 "PerBoosterDose": 65.7604832713834,
+                "AdditionalDose2": 6239,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 417510,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.86638873946757,
                 "ObjectId": 284
             }
         },
@@ -3790,6 +5250,11 @@
                 "AdditionalDoseCum": 2972666,
                 "ImmunoDoseCum": 125101,
                 "PerBoosterDose": 65.7849475472758,
+                "AdditionalDose2": 5707,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 423217,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 8.98758459234808,
                 "ObjectId": 285
             }
         },
@@ -3803,6 +5268,11 @@
                 "AdditionalDoseCum": 2973611,
                 "ImmunoDoseCum": 125106,
                 "PerBoosterDose": 65.8051220803469,
+                "AdditionalDose2": 2275,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 425492,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.03589728996559,
                 "ObjectId": 286
             }
         },
@@ -3816,6 +5286,11 @@
                 "AdditionalDoseCum": 2974263,
                 "ImmunoDoseCum": 125108,
                 "PerBoosterDose": 65.81901065364,
+                "AdditionalDose2": 1193,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 426685,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.06123225623271,
                 "ObjectId": 287
             }
         },
@@ -3829,6 +5304,11 @@
                 "AdditionalDoseCum": 2974610,
                 "ImmunoDoseCum": 125120,
                 "PerBoosterDose": 65.8266345035058,
+                "AdditionalDose2": 2404,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 429089,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.11228444307777,
                 "ObjectId": 288
             }
         },
@@ -3842,6 +5322,11 @@
                 "AdditionalDoseCum": 2975635,
                 "ImmunoDoseCum": 125136,
                 "PerBoosterDose": 65.8487415444816,
+                "AdditionalDose2": 4456,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 433545,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.20691362135629,
                 "ObjectId": 289
             }
         },
@@ -3855,6 +5340,11 @@
                 "AdditionalDoseCum": 2976796,
                 "ImmunoDoseCum": 125163,
                 "PerBoosterDose": 65.8739703289957,
+                "AdditionalDose2": 4825,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 438370,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.30937901300663,
                 "ObjectId": 290
             }
         },
@@ -3868,6 +5358,11 @@
                 "AdditionalDoseCum": 2977644,
                 "ImmunoDoseCum": 125170,
                 "PerBoosterDose": 65.8921274087596,
+                "AdditionalDose2": 4940,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 443310,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.41428658497609,
                 "ObjectId": 291
             }
         },
@@ -3881,6 +5376,11 @@
                 "AdditionalDoseCum": 2978673,
                 "ImmunoDoseCum": 125307,
                 "PerBoosterDose": 65.9168889935605,
+                "AdditionalDose2": 4603,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 447913,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.51203750679298,
                 "ObjectId": 292
             }
         },
@@ -3894,6 +5394,11 @@
                 "AdditionalDoseCum": 2979435,
                 "ImmunoDoseCum": 125310,
                 "PerBoosterDose": 65.9331348017703,
+                "AdditionalDose2": 1649,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 449562,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.5470562489342,
                 "ObjectId": 293
             }
         },
@@ -3907,6 +5412,11 @@
                 "AdditionalDoseCum": 2979918,
                 "ImmunoDoseCum": 125312,
                 "PerBoosterDose": 65.9434344318119,
+                "AdditionalDose2": 697,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 450259,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.56185798530317,
                 "ObjectId": 294
             }
         },
@@ -3920,6 +5430,11 @@
                 "AdditionalDoseCum": 2980178,
                 "ImmunoDoseCum": 125316,
                 "PerBoosterDose": 65.9490408283706,
+                "AdditionalDose2": 1637,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 451896,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.59662189123718,
                 "ObjectId": 295
             }
         },
@@ -3933,6 +5448,11 @@
                 "AdditionalDoseCum": 2980915,
                 "ImmunoDoseCum": 125324,
                 "PerBoosterDose": 65.9648406732178,
+                "AdditionalDose2": 3520,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 455416,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.67137384535307,
                 "ObjectId": 296
             }
         },
@@ -3946,6 +5466,11 @@
                 "AdditionalDoseCum": 2981773,
                 "ImmunoDoseCum": 125351,
                 "PerBoosterDose": 65.9836348434998,
+                "AdditionalDose2": 4005,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 459421,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.7564254295105,
                 "ObjectId": 297
             }
         },
@@ -3959,6 +5484,11 @@
                 "AdditionalDoseCum": 2982410,
                 "ImmunoDoseCum": 125370,
                 "PerBoosterDose": 65.9975658894941,
+                "AdditionalDose2": 3672,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 463093,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.83440530891776,
                 "ObjectId": 298
             }
         },
@@ -3972,6 +5502,11 @@
                 "AdditionalDoseCum": 2983126,
                 "ImmunoDoseCum": 125404,
                 "PerBoosterDose": 66.0134931524449,
+                "AdditionalDose2": 3319,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 466412,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.90488875656283,
                 "ObjectId": 299
             }
         },
@@ -3985,6 +5520,11 @@
                 "AdditionalDoseCum": 2983845,
                 "ImmunoDoseCum": 125412,
                 "PerBoosterDose": 66.0289319793319,
+                "AdditionalDose2": 1469,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 467881,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.93608495559585,
                 "ObjectId": 300
             }
         },
@@ -3998,6 +5538,11 @@
                 "AdditionalDoseCum": 2984249,
                 "ImmunoDoseCum": 125416,
                 "PerBoosterDose": 66.0375964103772,
+                "AdditionalDose2": 499,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 468380,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.9466818945458,
                 "ObjectId": 301
             }
         },
@@ -4011,6 +5556,11 @@
                 "AdditionalDoseCum": 2984472,
                 "ImmunoDoseCum": 125420,
                 "PerBoosterDose": 66.0424170619636,
+                "AdditionalDose2": 1664,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 470044,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 9.98201918194604,
                 "ObjectId": 302
             }
         },
@@ -4024,6 +5574,11 @@
                 "AdditionalDoseCum": 2984812,
                 "ImmunoDoseCum": 125426,
                 "PerBoosterDose": 66.0497648392716,
+                "AdditionalDose2": 2331,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 472375,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.0315211151972,
                 "ObjectId": 303
             }
         },
@@ -4037,6 +5592,11 @@
                 "AdditionalDoseCum": 2985668,
                 "ImmunoDoseCum": 125442,
                 "PerBoosterDose": 66.0682829369958,
+                "AdditionalDose2": 3933,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 476308,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.1150436821114,
                 "ObjectId": 304
             }
         },
@@ -4050,6 +5610,11 @@
                 "AdditionalDoseCum": 2986389,
                 "ImmunoDoseCum": 125454,
                 "PerBoosterDose": 66.0838491819864,
+                "AdditionalDose2": 3512,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 479820,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.1896257454225,
                 "ObjectId": 305
             }
         },
@@ -4063,6 +5628,11 @@
                 "AdditionalDoseCum": 2986998,
                 "ImmunoDoseCum": 125488,
                 "PerBoosterDose": 66.0975041554229,
+                "AdditionalDose2": 2811,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 482631,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.2493211269622,
                 "ObjectId": 306
             }
         },
@@ -4076,6 +5646,11 @@
                 "AdditionalDoseCum": 2987452,
                 "ImmunoDoseCum": 125490,
                 "PerBoosterDose": 66.107187931297,
+                "AdditionalDose2": 998,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 483629,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.2705150048621,
                 "ObjectId": 307
             }
         },
@@ -4089,6 +5664,11 @@
                 "AdditionalDoseCum": 2987714,
                 "ImmunoDoseCum": 125491,
                 "PerBoosterDose": 66.1127730915051,
+                "AdditionalDose2": 358,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 483987,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.2781176183773,
                 "ObjectId": 308
             }
         },
@@ -4102,6 +5682,11 @@
                 "AdditionalDoseCum": 2987763,
                 "ImmunoDoseCum": 125491,
                 "PerBoosterDose": 66.1138136726846,
+                "AdditionalDose2": 91,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 484078,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.280050126282,
                 "ObjectId": 309
             }
         },
@@ -4115,6 +5700,11 @@
                 "AdditionalDoseCum": 2988073,
                 "ImmunoDoseCum": 125492,
                 "PerBoosterDose": 66.1204181777215,
+                "AdditionalDose2": 1436,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 485514,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.3105455257451,
                 "ObjectId": 310
             }
         },
@@ -4128,6 +5718,11 @@
                 "AdditionalDoseCum": 2988671,
                 "ImmunoDoseCum": 125499,
                 "PerBoosterDose": 66.1332661698352,
+                "AdditionalDose2": 2609,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 488123,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.3659511644634,
                 "ObjectId": 311
             }
         },
@@ -4141,6 +5736,11 @@
                 "AdditionalDoseCum": 2989097,
                 "ImmunoDoseCum": 125502,
                 "PerBoosterDose": 66.1423765642431,
+                "AdditionalDose2": 2588,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 490711,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.4209108398191,
                 "ObjectId": 312
             }
         },
@@ -4154,6 +5754,11 @@
                 "AdditionalDoseCum": 2989605,
                 "ImmunoDoseCum": 125524,
                 "PerBoosterDose": 66.1536318300616,
+                "AdditionalDose2": 2286,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 492997,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.4694571372932,
                 "ObjectId": 313
             }
         },
@@ -4167,6 +5772,11 @@
                 "AdditionalDoseCum": 2990034,
                 "ImmunoDoseCum": 125527,
                 "PerBoosterDose": 66.1628059335213,
+                "AdditionalDose2": 889,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 493886,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.4883362529776,
                 "ObjectId": 314
             }
         },
@@ -4180,6 +5790,11 @@
                 "AdditionalDoseCum": 2990215,
                 "ImmunoDoseCum": 125528,
                 "PerBoosterDose": 66.1666709493307,
+                "AdditionalDose2": 276,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 494162,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.4941974857435,
                 "ObjectId": 315
             }
         },
@@ -4193,6 +5808,11 @@
                 "AdditionalDoseCum": 2990385,
                 "ImmunoDoseCum": 125534,
                 "PerBoosterDose": 66.1704085470365,
+                "AdditionalDose2": 918,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 495080,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.5136924555953,
                 "ObjectId": 316
             }
         },
@@ -4206,6 +5826,11 @@
                 "AdditionalDoseCum": 2990799,
                 "ImmunoDoseCum": 125536,
                 "PerBoosterDose": 66.1792428688866,
+                "AdditionalDose2": 1917,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 496997,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.5544025396976,
                 "ObjectId": 317
             }
         },
@@ -4219,6 +5844,11 @@
                 "AdditionalDoseCum": 2991346,
                 "ImmunoDoseCum": 125546,
                 "PerBoosterDose": 66.1910715161714,
+                "AdditionalDose2": 2579,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 499576,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.6091710878979,
                 "ObjectId": 318
             }
         },
@@ -4232,6 +5862,11 @@
                 "AdditionalDoseCum": 2991741,
                 "ImmunoDoseCum": 125553,
                 "PerBoosterDose": 66.199608529113,
+                "AdditionalDose2": 2786,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 502362,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.6683355606726,
                 "ObjectId": 319
             }
         },
@@ -4245,6 +5880,11 @@
                 "AdditionalDoseCum": 2992196,
                 "ImmunoDoseCum": 125579,
                 "PerBoosterDose": 66.2098232137521,
+                "AdditionalDose2": 2256,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 504618,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.7162447676287,
                 "ObjectId": 320
             }
         },
@@ -4258,6 +5898,11 @@
                 "AdditionalDoseCum": 2992523,
                 "ImmunoDoseCum": 125580,
                 "PerBoosterDose": 66.2167887367493,
+                "AdditionalDose2": 727,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 505345,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.7316835945157,
                 "ObjectId": 321
             }
         },
@@ -4271,6 +5916,11 @@
                 "AdditionalDoseCum": 2992673,
                 "ImmunoDoseCum": 125580,
                 "PerBoosterDose": 66.2199741893395,
+                "AdditionalDose2": 474,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 505819,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.7417496247006,
                 "ObjectId": 322
             }
         },
@@ -4284,6 +5934,11 @@
                 "AdditionalDoseCum": 2992884,
                 "ImmunoDoseCum": 125581,
                 "PerBoosterDose": 66.2244762956669,
+                "AdditionalDose2": 2783,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 508602,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.8008503884235,
                 "ObjectId": 323
             }
         },
@@ -4297,6 +5952,11 @@
                 "AdditionalDoseCum": 2993377,
                 "ImmunoDoseCum": 125584,
                 "PerBoosterDose": 66.2350095255651,
+                "AdditionalDose2": 6450,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 515052,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 10.9378248498006,
                 "ObjectId": 324
             }
         },
@@ -4310,6 +5970,11 @@
                 "AdditionalDoseCum": 2993954,
                 "ImmunoDoseCum": 125603,
                 "PerBoosterDose": 66.2476663905233,
+                "AdditionalDose2": 6145,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 521197,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 11.0683222242444,
                 "ObjectId": 325
             }
         },
@@ -4323,6 +5988,11 @@
                 "AdditionalDoseCum": 2994436,
                 "ImmunoDoseCum": 125632,
                 "PerBoosterDose": 66.2585181656805,
+                "AdditionalDose2": 5201,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 526398,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 11.1787724837207,
                 "ObjectId": 326
             }
         },
@@ -4336,6 +6006,11 @@
                 "AdditionalDoseCum": 2994928,
                 "ImmunoDoseCum": 125643,
                 "PerBoosterDose": 66.2692000500328,
+                "AdditionalDose2": 5025,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 531423,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 11.2854851454913,
                 "ObjectId": 327
             }
         },
@@ -4349,6 +6024,11 @@
                 "AdditionalDoseCum": 2995320,
                 "ImmunoDoseCum": 125645,
                 "PerBoosterDose": 66.2775671721697,
+                "AdditionalDose2": 3220,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 534643,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 11.3538661944269,
                 "ObjectId": 328
             }
         },
@@ -4362,6 +6042,11 @@
                 "AdditionalDoseCum": 2995686,
                 "ImmunoDoseCum": 125645,
                 "PerBoosterDose": 66.2853396764897,
+                "AdditionalDose2": 3229,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 537872,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 11.4224383705178,
                 "ObjectId": 329
             }
         },
@@ -4375,6 +6060,11 @@
                 "AdditionalDoseCum": 2995891,
                 "ImmunoDoseCum": 125650,
                 "PerBoosterDose": 66.2897993101159,
+                "AdditionalDose2": 2142,
+                "ImmunoDose2": 0,
+                "AdditionalDoseCum2": 540014,
+                "ImmunoDoseCum2": 0,
+                "PerBoosterDose2": 11.4679266335054,
                 "ObjectId": 330
             }
         }
