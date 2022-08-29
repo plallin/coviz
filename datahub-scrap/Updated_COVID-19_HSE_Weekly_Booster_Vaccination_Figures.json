@@ -369,7 +369,7 @@
         {
             "name": "BoosterPer_Age30to39",
             "type": "esriFieldTypeDouble",
-            "alias": "BoosterPer_Age30to39",
+            "alias": "IDandADTotal % of Population Age30to39",
             "sqlType": "sqlTypeFloat",
             "domain": null,
             "defaultValue": null
@@ -377,7 +377,7 @@
         {
             "name": "BoosterPer_Age40to49",
             "type": "esriFieldTypeDouble",
-            "alias": "BoosterPer_Age40to49",
+            "alias": "IDandADTotal % of Population Age40to49",
             "sqlType": "sqlTypeFloat",
             "domain": null,
             "defaultValue": null
@@ -385,7 +385,7 @@
         {
             "name": "BoosterPer_Age50to59",
             "type": "esriFieldTypeDouble",
-            "alias": "BoosterPer_Age50to59",
+            "alias": "IDandADTotal % of Population Age50to59",
             "sqlType": "sqlTypeFloat",
             "domain": null,
             "defaultValue": null
@@ -393,7 +393,7 @@
         {
             "name": "BoosterPer_Age60to69",
             "type": "esriFieldTypeDouble",
-            "alias": "BoosterPer_Age60to69",
+            "alias": "IDandADTotal % of Population Age60to69",
             "sqlType": "sqlTypeFloat",
             "domain": null,
             "defaultValue": null
@@ -401,7 +401,7 @@
         {
             "name": "BoosterPer_Age70to79",
             "type": "esriFieldTypeDouble",
-            "alias": "BoosterPer_Age70to79",
+            "alias": "IDandADTotal % of Population Age70to79",
             "sqlType": "sqlTypeFloat",
             "domain": null,
             "defaultValue": null
@@ -409,7 +409,7 @@
         {
             "name": "BoosterPer_Age80_",
             "type": "esriFieldTypeDouble",
-            "alias": "BoosterPer_Age80+",
+            "alias": "IDandADTotal % of Population Age80+",
             "sqlType": "sqlTypeFloat",
             "domain": null,
             "defaultValue": null
@@ -426,7 +426,7 @@
         {
             "name": "ID_Age0to9",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age0to9",
+            "alias": "ImmunocompromisedDoses Age5to11",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -434,7 +434,7 @@
         {
             "name": "ID_Age10to19",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age10to19",
+            "alias": "ImmunocompromisedDoses Age12to19",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -442,7 +442,7 @@
         {
             "name": "ID_Age20to29",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age20to29",
+            "alias": "ImmunocompromisedDoses Age20to29",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -450,7 +450,7 @@
         {
             "name": "ID_Age30to39",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age30to39",
+            "alias": "ImmunocompromisedDoses Age30to39",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -458,7 +458,7 @@
         {
             "name": "ID_Age40to49",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age40to49",
+            "alias": "ImmunocompromisedDoses Age40to49",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -466,7 +466,7 @@
         {
             "name": "ID_Age50to59",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age50to59",
+            "alias": "ImmunocompromisedDoses Age50to59",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -474,7 +474,7 @@
         {
             "name": "ID_Age60to69",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age60to69",
+            "alias": "ImmunocompromisedDoses Age60to69",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -482,7 +482,7 @@
         {
             "name": "ID_Age70to79",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age70to79",
+            "alias": "ImmunocompromisedDoses Age70to79",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -506,7 +506,7 @@
         {
             "name": "ID_Age0to9_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age0to9_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age0to9",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -514,7 +514,7 @@
         {
             "name": "ID_Age10to19_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age10to19_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age10to19",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -522,7 +522,7 @@
         {
             "name": "ID_Age20to29_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age20to29_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age20to29",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -530,7 +530,7 @@
         {
             "name": "ID_Age30to39_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age30to39_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age30to39",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -538,7 +538,7 @@
         {
             "name": "ID_Age40to49_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age40to49_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age40to49",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -546,7 +546,7 @@
         {
             "name": "ID_Age50to59_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age50to59_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age50to59",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -554,7 +554,7 @@
         {
             "name": "ID_Age60to69_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age60to69_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age60to69",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -562,7 +562,7 @@
         {
             "name": "ID_Age70to79_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age70to79_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age70to79",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -570,7 +570,7 @@
         {
             "name": "ID_Age80__Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_Age80+_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative Age80+",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
@@ -578,7 +578,7 @@
         {
             "name": "ID_NA_Cum",
             "type": "esriFieldTypeInteger",
-            "alias": "ID_NA_Cum",
+            "alias": "ImmunocompromisedDoses Cumulative NotAssigned",
             "sqlType": "sqlTypeInteger",
             "domain": null,
             "defaultValue": null
