@@ -13785,16 +13785,61 @@
         {
             "attributes": {
                 "Date_HPSC": 1663326000000,
-                "Hospitals": 4487584,
-                "TotalLabs": 12677112,
+                "Hospitals": 4487838,
+                "TotalLabs": 12677366,
                 "NonHospitals": 8189528,
-                "Positive": 1707324,
+                "Positive": 1707344,
                 "PRate": 13.5,
-                "Test24": 2496,
-                "Test7": 17431,
-                "Pos7": 1714,
+                "Test24": 2750,
+                "Test7": 17685,
+                "Pos7": 1734,
                 "PosR7": 9.8,
                 "FID": 913
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1663412400000,
+                "Hospitals": 4489294,
+                "TotalLabs": 12679473,
+                "NonHospitals": 8190179,
+                "Positive": 1707638,
+                "PRate": 13.5,
+                "Test24": 2107,
+                "Test7": 17404,
+                "Pos7": 1770,
+                "PosR7": 10.2,
+                "FID": 914
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1663498800000,
+                "Hospitals": 4490050,
+                "TotalLabs": 12680800,
+                "NonHospitals": 8190750,
+                "Positive": 1707809,
+                "PRate": 13.5,
+                "Test24": 1327,
+                "Test7": 17045,
+                "Pos7": 1785,
+                "PosR7": 10.5,
+                "FID": 915
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1663585200000,
+                "Hospitals": 4491056,
+                "TotalLabs": 12682485,
+                "NonHospitals": 8191429,
+                "Positive": 1708016,
+                "PRate": 13.5,
+                "Test24": 1685,
+                "Test7": 16530,
+                "Pos7": 1815,
+                "PosR7": 11,
+                "FID": 916
             }
         }
     ]
