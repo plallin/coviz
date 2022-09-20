@@ -1,9 +1,57 @@
 {
-    "error": {
-        "code": 400,
-        "message": "Invalid URL",
-        "details": [
-            "Invalid URL"
-        ]
-    }
+    "objectIdFieldName": "OBJECTID",
+    "uniqueIdField": {
+        "name": "OBJECTID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+    },
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "SUM_number_of_confirmed_covid_1",
+            "type": "esriFieldTypeDouble",
+            "alias": "NumberOfConfirmedCovidCases",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "SUM_no_new_admissions_covid19_p",
+            "type": "esriFieldTypeDouble",
+            "alias": "Number of  New Admissions COVID19 Positive previous 24hrs",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "SUM_no_discharges_covid19_posit",
+            "type": "esriFieldTypeDouble",
+            "alias": "Number of Discharges COVID19 Positive previous 24hrs",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 1,
+                "SUM_number_of_confirmed_covid_1": 13,
+                "SUM_no_new_admissions_covid19_p": 1,
+                "SUM_no_discharges_covid19_posit": 0
+            }
+        }
+    ]
 }
