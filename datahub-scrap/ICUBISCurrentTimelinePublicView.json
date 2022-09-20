@@ -51,11 +51,11 @@
     "features": [
         {
             "attributes": {
-                "OBJECTID": 1214,
-                "extract": 1663583400000,
+                "OBJECTID": 1215,
+                "extract": 1663670700000,
                 "ncovidconf": 12,
-                "ndischcovidconf": 0,
-                "adcconf": 0
+                "ndischcovidconf": 1,
+                "adcconf": 2
             }
         }
     ]
