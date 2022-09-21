@@ -1,9 +1,40 @@
 {
-    "error": {
-        "code": 400,
-        "message": "Invalid URL",
-        "details": [
-            "Invalid URL"
-        ]
-    }
+    "objectIdFieldName": "FID",
+    "uniqueIdField": {
+        "name": "FID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [
+        {
+            "name": "Date_HPSC",
+            "type": "esriFieldTypeDate",
+            "alias": "Date_HPSC",
+            "sqlType": "sqlTypeTimestamp2",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "FID",
+            "type": "esriFieldTypeOID",
+            "alias": "FID",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "Date_HPSC": 1584874800000,
+                "FID": 5
+            }
+        }
+    ]
 }

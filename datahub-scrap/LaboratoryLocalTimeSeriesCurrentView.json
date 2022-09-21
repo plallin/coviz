@@ -1,9 +1,9 @@
 {
-    "objectIdFieldName": "FID",
-    "uniqueIdField": {
-        "name": "FID",
-        "isSystemMaintained": true
-    },
-    "globalIdFieldName": "",
-    "features": []
+    "error": {
+        "code": 400,
+        "message": "Invalid URL",
+        "details": [
+            "Invalid URL"
+        ]
+    }
 }
