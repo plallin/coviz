@@ -1,9 +1,181 @@
 {
-    "error": {
-        "code": 400,
-        "message": "Invalid URL",
-        "details": [
-            "Invalid URL"
-        ]
-    }
+    "objectIdFieldName": "FID",
+    "uniqueIdField": {
+        "name": "FID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [
+        {
+            "name": "Date_HPSC",
+            "type": "esriFieldTypeDate",
+            "alias": "Date_HPSC",
+            "sqlType": "sqlTypeTimestamp2",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Hospitals",
+            "type": "esriFieldTypeInteger",
+            "alias": "Hospitals",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "TotalLabs",
+            "type": "esriFieldTypeInteger",
+            "alias": "Total in all Labs and Hospitals",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "NonHospitals",
+            "type": "esriFieldTypeInteger",
+            "alias": "NonHospitals",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Positive",
+            "type": "esriFieldTypeInteger",
+            "alias": "Positive",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "PRate",
+            "type": "esriFieldTypeDouble",
+            "alias": "Positive Rate (All Tests)",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Test24",
+            "type": "esriFieldTypeInteger",
+            "alias": "Test24",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Test7",
+            "type": "esriFieldTypeInteger",
+            "alias": "Test7",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Pos7",
+            "type": "esriFieldTypeInteger",
+            "alias": "Pos7",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "PosR7",
+            "type": "esriFieldTypeDouble",
+            "alias": "Positive Rate (Last 7 days)",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "FID",
+            "type": "esriFieldTypeOID",
+            "alias": "FID",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "Date_HPSC": 1584529200000,
+                "Hospitals": 9,
+                "TotalLabs": 6457,
+                "NonHospitals": 6448,
+                "Positive": 395,
+                "PRate": 6.1,
+                "Test24": 0,
+                "Test7": 0,
+                "Pos7": 0,
+                "PosR7": 0,
+                "FID": 1
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1584615600000,
+                "Hospitals": 40,
+                "TotalLabs": 7403,
+                "NonHospitals": 7363,
+                "Positive": 465,
+                "PRate": 6.3,
+                "Test24": 946,
+                "Test7": 0,
+                "Pos7": 0,
+                "PosR7": 0,
+                "FID": 2
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1584702000000,
+                "Hospitals": 599,
+                "TotalLabs": 8872,
+                "NonHospitals": 8273,
+                "Positive": 570,
+                "PRate": 6.4,
+                "Test24": 1469,
+                "Test7": 0,
+                "Pos7": 0,
+                "PosR7": 0,
+                "FID": 3
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1584788400000,
+                "Hospitals": 1261,
+                "TotalLabs": 10436,
+                "NonHospitals": 9175,
+                "Positive": 625,
+                "PRate": 6,
+                "Test24": 1564,
+                "Test7": 0,
+                "Pos7": 0,
+                "PosR7": 0,
+                "FID": 4
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1584874800000,
+                "Hospitals": 1370,
+                "TotalLabs": 11414,
+                "NonHospitals": 10044,
+                "Positive": 744,
+                "PRate": 6.5,
+                "Test24": 978,
+                "Test7": 0,
+                "Pos7": 0,
+                "PosR7": 0,
+                "FID": 5
+            }
+        }
+    ]
 }

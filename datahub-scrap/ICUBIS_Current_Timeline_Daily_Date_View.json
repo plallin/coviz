@@ -1,9 +1,35 @@
 {
-    "error": {
-        "code": 400,
-        "message": "Invalid URL",
-        "details": [
-            "Invalid URL"
-        ]
-    }
+    "objectIdFieldName": "OBJECTID",
+    "uniqueIdField": {
+        "name": "OBJECTID",
+        "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "extract",
+            "type": "esriFieldTypeDate",
+            "alias": "Daily Extract",
+            "sqlType": "sqlTypeOther",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 1215,
+                "extract": 1663670700000
+            }
+        }
+    ]
 }
