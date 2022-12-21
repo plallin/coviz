@@ -8134,6 +8134,62 @@
                 "FID": 1011,
                 "DateTimeStampText": "Tue, 13th Dec 2022"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1670976000000,
+                "TotalConfirmedCovidCases": 2362,
+                "FID": 1012,
+                "DateTimeStampText": "Wed, 14th Dec 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1671062400000,
+                "TotalConfirmedCovidCases": 2582,
+                "FID": 1013,
+                "DateTimeStampText": "Thu, 15th Dec 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1671148800000,
+                "TotalConfirmedCovidCases": 2699,
+                "FID": 1014,
+                "DateTimeStampText": "Fri, 16th Dec 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1671235200000,
+                "TotalConfirmedCovidCases": 3025,
+                "FID": 1015,
+                "DateTimeStampText": "Sat, 17th Dec 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1671321600000,
+                "TotalConfirmedCovidCases": 3119,
+                "FID": 1016,
+                "DateTimeStampText": "Sun, 18th Dec 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1671408000000,
+                "TotalConfirmedCovidCases": 2916,
+                "FID": 1017,
+                "DateTimeStampText": "Mon, 19th Dec 2022"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1671494400000,
+                "TotalConfirmedCovidCases": 2951,
+                "FID": 1018,
+                "DateTimeStampText": "Tue, 20th Dec 2022"
+            }
         }
     ]
 }
