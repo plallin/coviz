@@ -5,5 +5,204 @@
         "isSystemMaintained": true
     },
     "globalIdFieldName": "",
-    "features": []
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+    },
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "date_",
+            "type": "esriFieldTypeDate",
+            "alias": "Date",
+            "sqlType": "sqlTypeOther",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 110014,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110015,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110016,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110017,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110018,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110019,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110020,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110021,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110022,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110023,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110024,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110025,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110026,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110027,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110028,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110029,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110030,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110031,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110032,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110033,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110034,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110035,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110036,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110037,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110038,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110039,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110040,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110041,
+                "date_": 1674604800000
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 110042,
+                "date_": 1674604800000
+            }
+        }
+    ]
 }
