@@ -72,13 +72,13 @@
     "features": [
         {
             "attributes": {
-                "OBJECTID": 1118,
-                "Date": 1680260400000,
+                "OBJECTID": 1119,
+                "Date": 1680346800000,
                 "FREQUENCY": 29,
-                "SUM_number_of_confirmed_covid_1": 337,
-                "SUM_no_new_admissions_covid19_p": 24,
-                "SUM_no_discharges_covid19_posit": 22,
-                "SUM_number_of_new_covid_19_cases_co": 66
+                "SUM_number_of_confirmed_covid_1": 346,
+                "SUM_no_new_admissions_covid19_p": 23,
+                "SUM_no_discharges_covid19_posit": 17,
+                "SUM_number_of_new_covid_19_cases_co": 61
             }
         }
     ]
