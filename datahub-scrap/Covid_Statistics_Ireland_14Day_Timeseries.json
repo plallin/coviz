@@ -9142,6 +9142,62 @@
                 "FID": 1137,
                 "DateTimeStampText": "Tue, 18th Apr 2023"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1681862400000,
+                "TotalConfirmedCovidCases": 832,
+                "FID": 1138,
+                "DateTimeStampText": "Wed, 19th Apr 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1681948800000,
+                "TotalConfirmedCovidCases": 640,
+                "FID": 1139,
+                "DateTimeStampText": "Thu, 20th Apr 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1682035200000,
+                "TotalConfirmedCovidCases": 612,
+                "FID": 1140,
+                "DateTimeStampText": "Fri, 21st Apr 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1682121600000,
+                "TotalConfirmedCovidCases": 628,
+                "FID": 1141,
+                "DateTimeStampText": "Sat, 22nd Apr 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1682208000000,
+                "TotalConfirmedCovidCases": 614,
+                "FID": 1142,
+                "DateTimeStampText": "Sun, 23rd Apr 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1682294400000,
+                "TotalConfirmedCovidCases": 605,
+                "FID": 1143,
+                "DateTimeStampText": "Mon, 24th Apr 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1682380800000,
+                "TotalConfirmedCovidCases": 597,
+                "FID": 1144,
+                "DateTimeStampText": "Tue, 25th Apr 2023"
+            }
         }
     ]
 }
