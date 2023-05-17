@@ -5,5 +5,529 @@
         "isSystemMaintained": true
     },
     "globalIdFieldName": "",
-    "features": []
+    "geometryType": "esriGeometryPolygon",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "CountyName",
+            "type": "esriFieldTypeString",
+            "alias": "CountyName",
+            "sqlType": "sqlTypeOther",
+            "length": 255,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "DateStamp",
+            "type": "esriFieldTypeDate",
+            "alias": "DateStamp",
+            "sqlType": "sqlTypeOther",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "DateStampText",
+            "type": "esriFieldTypeString",
+            "alias": "DateStampText",
+            "sqlType": "sqlTypeOther",
+            "length": 255,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "CountyCumulativeTotal",
+            "type": "esriFieldTypeInteger",
+            "alias": "CountyCumulativeTotal",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "CountyDailyChange",
+            "type": "esriFieldTypeInteger",
+            "alias": "CountyDailyChange",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "County14DayStats",
+            "type": "esriFieldTypeInteger",
+            "alias": "County14DayStats",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "County14DayRatePer100K",
+            "type": "esriFieldTypeDouble",
+            "alias": "County14DayRatePer100K",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "CountyPopulation2016",
+            "type": "esriFieldTypeInteger",
+            "alias": "CountyPopulation2016",
+            "sqlType": "sqlTypeOther",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "UGI",
+            "type": "esriFieldTypeString",
+            "alias": "UGI",
+            "sqlType": "sqlTypeOther",
+            "length": 256,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Shape__Area",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape__Area",
+            "sqlType": "sqlTypeDouble",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Shape__Length",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape__Length",
+            "sqlType": "sqlTypeDouble",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 411865,
+                "CountyName": "Carlow",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 24303,
+                "CountyDailyChange": 2,
+                "County14DayStats": 16,
+                "County14DayRatePer100K": 28.1,
+                "CountyPopulation2016": 56932,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-143d-13a3-e055-000000000001",
+                "Shape__Area": 2432351721.08691,
+                "Shape__Length": 319348.572538664
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411866,
+                "CountyName": "Cavan",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 27129,
+                "CountyDailyChange": 1,
+                "County14DayStats": 28,
+                "County14DayRatePer100K": 36.8,
+                "CountyPopulation2016": 76176,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1448-13a3-e055-000000000001",
+                "Shape__Area": 5575009910.82324,
+                "Shape__Length": 515954.496459225
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411867,
+                "CountyName": "Clare",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 40259,
+                "CountyDailyChange": 3,
+                "County14DayStats": 43,
+                "County14DayRatePer100K": 36.2,
+                "CountyPopulation2016": 118817,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1450-13a3-e055-000000000001",
+                "Shape__Area": 8722541705.68359,
+                "Shape__Length": 1013948.95023179
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411868,
+                "CountyName": "Cork",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 174620,
+                "CountyDailyChange": 13,
+                "County14DayStats": 117,
+                "County14DayRatePer100K": 21.6,
+                "CountyPopulation2016": 542868,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1451-13a3-e055-000000000001",
+                "Shape__Area": 19529490885.5361,
+                "Shape__Length": 2129949.40863365
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411869,
+                "CountyName": "Donegal",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 61709,
+                "CountyDailyChange": 9,
+                "County14DayStats": 51,
+                "County14DayRatePer100K": 32,
+                "CountyPopulation2016": 159192,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1452-13a3-e055-000000000001",
+                "Shape__Area": 14624043873.125,
+                "Shape__Length": 2145081.44634675
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411870,
+                "CountyName": "Dublin",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 509343,
+                "CountyDailyChange": 23,
+                "County14DayStats": 219,
+                "County14DayRatePer100K": 16.3,
+                "CountyPopulation2016": 1347359,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-144f-13a3-e055-000000000001",
+                "Shape__Area": 2612632654.59473,
+                "Shape__Length": 449433.53182733
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411871,
+                "CountyName": "Galway",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 92509,
+                "CountyDailyChange": 5,
+                "County14DayStats": 55,
+                "County14DayRatePer100K": 21.3,
+                "CountyPopulation2016": 258058,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1453-13a3-e055-000000000001",
+                "Shape__Area": 17079158586.2539,
+                "Shape__Length": 1972288.28611619
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411872,
+                "CountyName": "Kerry",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 46405,
+                "CountyDailyChange": 1,
+                "County14DayStats": 50,
+                "County14DayRatePer100K": 33.9,
+                "CountyPopulation2016": 147707,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1454-13a3-e055-000000000001",
+                "Shape__Area": 12483603408.0679,
+                "Shape__Length": 1753779.81860439
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411873,
+                "CountyName": "Kildare",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 85257,
+                "CountyDailyChange": 5,
+                "County14DayStats": 47,
+                "County14DayRatePer100K": 21.1,
+                "CountyPopulation2016": 222504,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1455-13a3-e055-000000000001",
+                "Shape__Area": 4726063621.61621,
+                "Shape__Length": 422182.036778848
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411874,
+                "CountyName": "Kilkenny",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 33024,
+                "CountyDailyChange": 2,
+                "County14DayStats": 34,
+                "County14DayRatePer100K": 34.3,
+                "CountyPopulation2016": 99232,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1456-13a3-e055-000000000001",
+                "Shape__Area": 5585391835.08203,
+                "Shape__Length": 453397.572162214
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411875,
+                "CountyName": "Laois",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 30390,
+                "CountyDailyChange": 1,
+                "County14DayStats": 9,
+                "County14DayRatePer100K": 10.6,
+                "CountyPopulation2016": 84697,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-143e-13a3-e055-000000000001",
+                "Shape__Area": 4731211499.44824,
+                "Shape__Length": 398512.462211564
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411876,
+                "CountyName": "Leitrim",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 10642,
+                "CountyDailyChange": 0,
+                "County14DayStats": 8,
+                "County14DayRatePer100K": 25,
+                "CountyPopulation2016": 32044,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-143f-13a3-e055-000000000001",
+                "Shape__Area": 4618679672.90332,
+                "Shape__Length": 453253.685043119
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411877,
+                "CountyName": "Limerick",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 73543,
+                "CountyDailyChange": 8,
+                "County14DayStats": 62,
+                "County14DayRatePer100K": 31.8,
+                "CountyPopulation2016": 194899,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1440-13a3-e055-000000000001",
+                "Shape__Area": 7206726911.85986,
+                "Shape__Length": 673892.690484704
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411878,
+                "CountyName": "Longford",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 15491,
+                "CountyDailyChange": 2,
+                "County14DayStats": 9,
+                "County14DayRatePer100K": 22,
+                "CountyPopulation2016": 40873,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1441-13a3-e055-000000000001",
+                "Shape__Area": 3097977868.80127,
+                "Shape__Length": 315245.172822004
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411879,
+                "CountyName": "Louth",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 54491,
+                "CountyDailyChange": 1,
+                "County14DayStats": 40,
+                "County14DayRatePer100K": 31,
+                "CountyPopulation2016": 128884,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1442-13a3-e055-000000000001",
+                "Shape__Area": 2386326963.30518,
+                "Shape__Length": 352203.517153586
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411880,
+                "CountyName": "Mayo",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 41667,
+                "CountyDailyChange": 4,
+                "County14DayStats": 26,
+                "County14DayRatePer100K": 19.9,
+                "CountyPopulation2016": 130507,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1443-13a3-e055-000000000001",
+                "Shape__Area": 16036984139.0308,
+                "Shape__Length": 2101964.07657907
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411881,
+                "CountyName": "Meath",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 71095,
+                "CountyDailyChange": 1,
+                "County14DayStats": 24,
+                "County14DayRatePer100K": 12.3,
+                "CountyPopulation2016": 195044,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1444-13a3-e055-000000000001",
+                "Shape__Area": 6658570745.56543,
+                "Shape__Length": 554844.750540487
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411882,
+                "CountyName": "Monaghan",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 23419,
+                "CountyDailyChange": 0,
+                "County14DayStats": 13,
+                "County14DayRatePer100K": 21.2,
+                "CountyPopulation2016": 61386,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1445-13a3-e055-000000000001",
+                "Shape__Area": 3768943156.93945,
+                "Shape__Length": 392803.047266062
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411883,
+                "CountyName": "Offaly",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 28061,
+                "CountyDailyChange": 6,
+                "County14DayStats": 18,
+                "County14DayRatePer100K": 23.1,
+                "CountyPopulation2016": 77961,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1446-13a3-e055-000000000001",
+                "Shape__Area": 5558826350.06201,
+                "Shape__Length": 561440.378583655
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411884,
+                "CountyName": "Roscommon",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 23027,
+                "CountyDailyChange": 2,
+                "County14DayStats": 22,
+                "County14DayRatePer100K": 34.1,
+                "CountyPopulation2016": 64544,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1447-13a3-e055-000000000001",
+                "Shape__Area": 7278743875.74023,
+                "Shape__Length": 622494.154575241
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411885,
+                "CountyName": "Sligo",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 21645,
+                "CountyDailyChange": 3,
+                "County14DayStats": 17,
+                "County14DayRatePer100K": 25.9,
+                "CountyPopulation2016": 65535,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-1449-13a3-e055-000000000001",
+                "Shape__Area": 5348370378.15234,
+                "Shape__Length": 682286.870285504
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411886,
+                "CountyName": "Tipperary",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 54790,
+                "CountyDailyChange": 11,
+                "County14DayStats": 59,
+                "County14DayRatePer100K": 37,
+                "CountyPopulation2016": 159553,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-144a-13a3-e055-000000000001",
+                "Shape__Area": 11551196729.2783,
+                "Shape__Length": 781276.579658178
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411887,
+                "CountyName": "Waterford",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 42869,
+                "CountyDailyChange": 9,
+                "County14DayStats": 43,
+                "County14DayRatePer100K": 37,
+                "CountyPopulation2016": 116176,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-144b-13a3-e055-000000000001",
+                "Shape__Area": 4848379554.98291,
+                "Shape__Length": 643184.903993029
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411888,
+                "CountyName": "Westmeath",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 34877,
+                "CountyDailyChange": 3,
+                "County14DayStats": 21,
+                "County14DayRatePer100K": 23.7,
+                "CountyPopulation2016": 88770,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-144c-13a3-e055-000000000001",
+                "Shape__Area": 5208705730.30273,
+                "Shape__Length": 422669.332716032
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411889,
+                "CountyName": "Wexford",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 46829,
+                "CountyDailyChange": 3,
+                "County14DayStats": 27,
+                "County14DayRatePer100K": 18,
+                "CountyPopulation2016": 149722,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-144d-13a3-e055-000000000001",
+                "Shape__Area": 6332221063.42285,
+                "Shape__Length": 589324.476745023
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 411890,
+                "CountyName": "Wicklow",
+                "DateStamp": 1684108800000,
+                "DateStampText": "Mon, 15th May 2023",
+                "CountyCumulativeTotal": 44295,
+                "CountyDailyChange": 0,
+                "County14DayStats": 13,
+                "County14DayRatePer100K": 9.1,
+                "CountyPopulation2016": 142425,
+                "UGI": "http://data.geohive.ie/resource/county/2ae19629-144e-13a3-e055-000000000001",
+                "Shape__Area": 5580728578.64697,
+                "Shape__Length": 427539.198566779
+            }
+        }
+    ]
 }
