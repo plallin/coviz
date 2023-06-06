@@ -11851,6 +11851,46 @@
                 "SUM_no_discharges_covid19_posit": 10,
                 "SUM_number_of_new_covid_19_cases_co": 36
             }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 1181,
+                "Date": 1685790000000,
+                "SUM_number_of_confirmed_covid_1": 184,
+                "SUM_no_new_admissions_covid19_p": 11,
+                "SUM_no_discharges_covid19_posit": 13,
+                "SUM_number_of_new_covid_19_cases_co": 30
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 1182,
+                "Date": 1685876400000,
+                "SUM_number_of_confirmed_covid_1": 179,
+                "SUM_no_new_admissions_covid19_p": 12,
+                "SUM_no_discharges_covid19_posit": 5,
+                "SUM_number_of_new_covid_19_cases_co": 23
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 1183,
+                "Date": 1685962800000,
+                "SUM_number_of_confirmed_covid_1": 193,
+                "SUM_no_new_admissions_covid19_p": 17,
+                "SUM_no_discharges_covid19_posit": 7,
+                "SUM_number_of_new_covid_19_cases_co": 24
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 1184,
+                "Date": 1686049200000,
+                "SUM_number_of_confirmed_covid_1": 198,
+                "SUM_no_new_admissions_covid19_p": 13,
+                "SUM_no_discharges_covid19_posit": 5,
+                "SUM_number_of_new_covid_19_cases_co": 24
+            }
         }
     ]
 }
