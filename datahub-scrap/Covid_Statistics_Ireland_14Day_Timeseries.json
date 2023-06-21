@@ -9569,26 +9569,66 @@
         },
         {
             "attributes": {
-                "Date": 1686441600000,
-                "TotalConfirmedCovidCases": 310,
-                "FID": 1191,
-                "DateTimeStampText": "Sun, 11th Jun 2023"
-            }
-        },
-        {
-            "attributes": {
                 "Date": 1686528000000,
                 "TotalConfirmedCovidCases": 316,
-                "FID": 1192,
+                "FID": 1191,
                 "DateTimeStampText": "Mon, 12th Jun 2023"
             }
         },
         {
             "attributes": {
                 "Date": 1686614400000,
-                "TotalConfirmedCovidCases": 402,
-                "FID": 1193,
+                "TotalConfirmedCovidCases": 396,
+                "FID": 1192,
                 "DateTimeStampText": "Tue, 13th Jun 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1686700800000,
+                "TotalConfirmedCovidCases": 319,
+                "FID": 1193,
+                "DateTimeStampText": "Wed, 14th Jun 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1686787200000,
+                "TotalConfirmedCovidCases": 286,
+                "FID": 1194,
+                "DateTimeStampText": "Thu, 15th Jun 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1686873600000,
+                "TotalConfirmedCovidCases": 281,
+                "FID": 1195,
+                "DateTimeStampText": "Fri, 16th Jun 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1686960000000,
+                "TotalConfirmedCovidCases": 276,
+                "FID": 1196,
+                "DateTimeStampText": "Sat, 17th Jun 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1687132800000,
+                "TotalConfirmedCovidCases": 270,
+                "FID": 1197,
+                "DateTimeStampText": "Mon, 19th Jun 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1687219200000,
+                "TotalConfirmedCovidCases": 279,
+                "FID": 1198,
+                "DateTimeStampText": "Tue, 20th Jun 2023"
             }
         }
     ]
