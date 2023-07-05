@@ -104,17 +104,17 @@
     "features": [
         {
             "attributes": {
-                "Date_HPSC": 1688468400000,
-                "Hospitals": 4835913,
-                "TotalLabs": 13140652,
-                "NonHospitals": 8304739,
-                "Positive": 1765652,
+                "Date_HPSC": 1688554800000,
+                "Hospitals": 4836490,
+                "TotalLabs": 13141269,
+                "NonHospitals": 8304779,
+                "Positive": 1765697,
                 "PRate": 13.4,
-                "Test24": 438,
-                "Test7": 2836,
-                "Pos7": 151,
-                "PosR7": 5.3,
-                "FID": 1204
+                "Test24": 468,
+                "Test7": 2901,
+                "Pos7": 169,
+                "PosR7": 5.8,
+                "FID": 1205
             }
         }
     ]
