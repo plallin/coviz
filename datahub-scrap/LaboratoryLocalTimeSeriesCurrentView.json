@@ -5,5 +5,117 @@
         "isSystemMaintained": true
     },
     "globalIdFieldName": "",
-    "features": []
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [
+        {
+            "name": "Date_HPSC",
+            "type": "esriFieldTypeDate",
+            "alias": "Date_HPSC",
+            "sqlType": "sqlTypeTimestamp2",
+            "length": 8,
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Hospitals",
+            "type": "esriFieldTypeInteger",
+            "alias": "Hospitals",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "TotalLabs",
+            "type": "esriFieldTypeInteger",
+            "alias": "TotalLabs",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "NonHospitals",
+            "type": "esriFieldTypeInteger",
+            "alias": "NonHospitals",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Positive",
+            "type": "esriFieldTypeInteger",
+            "alias": "Positive",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "PRate",
+            "type": "esriFieldTypeDouble",
+            "alias": "PRate",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Test24",
+            "type": "esriFieldTypeInteger",
+            "alias": "Test24",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Test7",
+            "type": "esriFieldTypeInteger",
+            "alias": "Test7",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "Pos7",
+            "type": "esriFieldTypeInteger",
+            "alias": "Pos7",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "PosR7",
+            "type": "esriFieldTypeDouble",
+            "alias": "PosR7",
+            "sqlType": "sqlTypeFloat",
+            "domain": null,
+            "defaultValue": null
+        },
+        {
+            "name": "FID",
+            "type": "esriFieldTypeOID",
+            "alias": "FID",
+            "sqlType": "sqlTypeInteger",
+            "domain": null,
+            "defaultValue": null
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "Date_HPSC": 1693393200000,
+                "Hospitals": 4865890,
+                "TotalLabs": 13171917,
+                "NonHospitals": 8306027,
+                "Positive": 1770336,
+                "PRate": 13.4,
+                "Test24": 564,
+                "Test7": 4221,
+                "Pos7": 777,
+                "PosR7": 18.4,
+                "FID": 1261
+            }
+        }
+    ]
 }
