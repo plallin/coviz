@@ -10150,6 +10150,62 @@
                 "FID": 1263,
                 "DateTimeStampText": "Tue, 22nd Aug 2023"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1692748800000,
+                "TotalConfirmedCovidCases": 900,
+                "FID": 1264,
+                "DateTimeStampText": "Wed, 23rd Aug 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1692835200000,
+                "TotalConfirmedCovidCases": 976,
+                "FID": 1265,
+                "DateTimeStampText": "Thu, 24th Aug 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1692921600000,
+                "TotalConfirmedCovidCases": 931,
+                "FID": 1266,
+                "DateTimeStampText": "Fri, 25th Aug 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1693008000000,
+                "TotalConfirmedCovidCases": 830,
+                "FID": 1267,
+                "DateTimeStampText": "Sat, 26th Aug 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1693094400000,
+                "TotalConfirmedCovidCases": 824,
+                "FID": 1268,
+                "DateTimeStampText": "Sun, 27th Aug 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1693180800000,
+                "TotalConfirmedCovidCases": 824,
+                "FID": 1269,
+                "DateTimeStampText": "Mon, 28th Aug 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1693267200000,
+                "TotalConfirmedCovidCases": 803,
+                "FID": 1270,
+                "DateTimeStampText": "Tue, 29th Aug 2023"
+            }
         }
     ]
 }
