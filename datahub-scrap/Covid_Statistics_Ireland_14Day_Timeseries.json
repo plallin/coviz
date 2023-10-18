@@ -10542,6 +10542,62 @@
                 "FID": 1312,
                 "DateTimeStampText": "Tue, 10th Oct 2023"
             }
+        },
+        {
+            "attributes": {
+                "Date": 1696982400000,
+                "TotalConfirmedCovidCases": 664,
+                "FID": 1313,
+                "DateTimeStampText": "Wed, 11th Oct 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1697068800000,
+                "TotalConfirmedCovidCases": 640,
+                "FID": 1314,
+                "DateTimeStampText": "Thu, 12th Oct 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1697155200000,
+                "TotalConfirmedCovidCases": 567,
+                "FID": 1315,
+                "DateTimeStampText": "Fri, 13th Oct 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1697241600000,
+                "TotalConfirmedCovidCases": 632,
+                "FID": 1316,
+                "DateTimeStampText": "Sat, 14th Oct 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1697328000000,
+                "TotalConfirmedCovidCases": 638,
+                "FID": 1317,
+                "DateTimeStampText": "Sun, 15th Oct 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1697414400000,
+                "TotalConfirmedCovidCases": 637,
+                "FID": 1318,
+                "DateTimeStampText": "Mon, 16th Oct 2023"
+            }
+        },
+        {
+            "attributes": {
+                "Date": 1697500800000,
+                "TotalConfirmedCovidCases": 550,
+                "FID": 1319,
+                "DateTimeStampText": "Tue, 17th Oct 2023"
+            }
         }
     ]
 }
