@@ -20700,14 +20700,14 @@
         {
             "attributes": {
                 "Date_HPSC": 1703156400000,
-                "Hospitals": 4944095,
-                "TotalLabs": 13254703,
+                "Hospitals": 4944198,
+                "TotalLabs": 13254806,
                 "NonHospitals": 8310608,
-                "Positive": 1780440,
+                "Positive": 1780452,
                 "PRate": 13.4,
-                "Test24": 1186,
-                "Test7": 6943,
-                "Pos7": 862,
+                "Test24": 1289,
+                "Test7": 7046,
+                "Pos7": 874,
                 "PosR7": 12.4,
                 "FID": 1374
             }
@@ -20715,16 +20715,106 @@
         {
             "attributes": {
                 "Date_HPSC": 1703242800000,
-                "Hospitals": 4945006,
-                "TotalLabs": 13255685,
+                "Hospitals": 4945208,
+                "TotalLabs": 13255887,
                 "NonHospitals": 8310679,
-                "Positive": 1780576,
+                "Positive": 1780598,
                 "PRate": 13.4,
-                "Test24": 982,
-                "Test7": 6886,
-                "Pos7": 863,
+                "Test24": 1081,
+                "Test7": 7088,
+                "Pos7": 885,
                 "PosR7": 12.5,
                 "FID": 1375
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1703329200000,
+                "Hospitals": 4946125,
+                "TotalLabs": 13256945,
+                "NonHospitals": 8310820,
+                "Positive": 1780707,
+                "PRate": 13.4,
+                "Test24": 1058,
+                "Test7": 7165,
+                "Pos7": 870,
+                "PosR7": 12.1,
+                "FID": 1376
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1703415600000,
+                "Hospitals": 4946754,
+                "TotalLabs": 13257574,
+                "NonHospitals": 8310820,
+                "Positive": 1780775,
+                "PRate": 13.4,
+                "Test24": 629,
+                "Test7": 7148,
+                "Pos7": 854,
+                "PosR7": 11.9,
+                "FID": 1377
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1703502000000,
+                "Hospitals": 4947428,
+                "TotalLabs": 13258248,
+                "NonHospitals": 8310820,
+                "Positive": 1780854,
+                "PRate": 13.4,
+                "Test24": 674,
+                "Test7": 7192,
+                "Pos7": 866,
+                "PosR7": 12,
+                "FID": 1378
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1703588400000,
+                "Hospitals": 4947991,
+                "TotalLabs": 13258811,
+                "NonHospitals": 8310820,
+                "Positive": 1780929,
+                "PRate": 13.4,
+                "Test24": 563,
+                "Test7": 6521,
+                "Pos7": 775,
+                "PosR7": 11.9,
+                "FID": 1379
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1703674800000,
+                "Hospitals": 4948803,
+                "TotalLabs": 13259623,
+                "NonHospitals": 8310820,
+                "Positive": 1781041,
+                "PRate": 13.4,
+                "Test24": 812,
+                "Test7": 6106,
+                "Pos7": 751,
+                "PosR7": 12.3,
+                "FID": 1380
+            }
+        },
+        {
+            "attributes": {
+                "Date_HPSC": 1703761200000,
+                "Hospitals": 4949783,
+                "TotalLabs": 13260642,
+                "NonHospitals": 8310859,
+                "Positive": 1781152,
+                "PRate": 13.4,
+                "Test24": 1019,
+                "Test7": 5836,
+                "Pos7": 700,
+                "PosR7": 12,
+                "FID": 1381
             }
         }
     ]
