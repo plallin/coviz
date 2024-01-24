@@ -13,7 +13,7 @@
     "fields": [
         {
             "name": "ExtractDate",
-            "type": "esriFieldTypeString",
+            "type": "esriFieldTypeDate",
             "alias": "ExtractDate",
             "sqlType": "sqlTypeNVarchar",
             "length": 8,
